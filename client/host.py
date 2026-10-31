@@ -111,6 +111,7 @@ class Host:
                    DATABASE_URL=f"sqlite+aiosqlite:///{world.db_path}",
                    JWT_SECRET=world.secret, ENV="prod", ALLOW_UNREVIEWED="1", AUTO_MIGRATE="1",
                    LOCAL_ACCOUNTS="0", FIREBASE_API_KEY=firebase_key, HOST_FIREBASE_UID=host_uid,
+                   ADMIN_USERNAMES="",   # a world's usernames come from e-mail names, anyone could take one
                    LAN_BEACON="1", LAN_WORLD_NAME=world.name, LAN_HOST_NAME=host_name,
                    TIME_SCALE="1", BALANCE_PROFILE="", TRUST_PROXY_HEADERS="0", PYTHONIOENCODING="utf-8")
         flags = subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0

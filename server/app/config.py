@@ -8,7 +8,10 @@ from pathlib import Path
 SERVER_DIR = Path(__file__).resolve().parents[1]
 DATA_DIR = SERVER_DIR / "data"
 PROTOCOL_VERSION = 5   # 2: stage 3 WebSocket world; 3: stage 4 combat (hp/shield in snapshots); 4: stage 5 guard bees; 5: stage 9 parties and bí cảnh
-GAME_VERSION = "1.1.1"
+GAME_VERSION = "1.1.2"
+# The game's author (account "phongfoxyd"): admin in every world, whoever opened it.
+# Firebase keeps e-mails unique, so nobody else can sign in with this one.
+OWNER_EMAILS = ("phongnamtran041008@gmail.com",)
 
 
 def _load_dotenv(path: Path) -> None:
@@ -82,6 +85,9 @@ class Settings:
     # LAN worlds (Minecraft style): accounts come from Firebase Authentication. The Web API key
     # is the public one from the Firebase console; the server only uses it to check ID tokens.
     firebase_api_key: str = field(default_factory=lambda: os.environ.get("FIREBASE_API_KEY", "").strip())
+    # Firebase accounts with these e-mails are admin in this world (plus OWNER_EMAILS).
+    admin_emails: list[str] = field(default_factory=lambda: [*OWNER_EMAILS, *(
+        e.strip().casefold() for e in os.environ.get("ADMIN_EMAILS", "").split(",") if e.strip())])
     # The player who opened this world (their Firebase uid) is its admin.
     host_firebase_uid: str = field(default_factory=lambda: os.environ.get("HOST_FIREBASE_UID", "").strip())
     # Username + password accounts kept on this server (/auth/register, /auth/login). A world

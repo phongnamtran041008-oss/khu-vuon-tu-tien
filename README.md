@@ -12,7 +12,7 @@ câu cá, giữ vườn trước Mặc Quái, luyện đan, vượt bí cảnh c
 > game tự đăng nhập). **Thế giới lưu ngay trên máy**: tab *Thế giới của tôi* → Tạo → **Mở thế giới** — game tự chạy máy
 > chủ của thế giới đó trên máy bạn (ẩn, trong cùng exe) và mở cho mạng LAN. Bạn bè cùng Wi-Fi/LAN vào tab *Tham gia mạng
 > LAN*: game tự tìm thấy thế giới (tín hiệu UDP), hoặc gõ `192.168.x.x:8000`. Mọi dữ liệu của người vào chơi nằm trên máy
-> người mở thế giới (`worlds/<tên>/world.db`); người mở là quản trị viên (`/admin ...`). Xem mục
+> người mở thế giới (`worlds/<tên>/world.db`); người mở là quản trị viên (`/admin ...`); tài khoản của tác giả (phongfoxyd) là quản trị viên ở mọi thế giới. Xem mục
 > [Chơi kiểu Minecraft](#chơi-kiểu-minecraft-thế-giới-lan-bản-11). Máy chủ riêng (giai đoạn 10, `docs/DEPLOY.md`) vẫn dùng được.
 >
 > **Giai đoạn 10/10 — Phát hành (bản 1.0.0).**

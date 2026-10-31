@@ -650,6 +650,10 @@ một lần, lần sau chỉ đăng nhập, dùng Firebase (dự án và API key
   Firebase không bao giờ đăng nhập được bằng `/auth/login`. Thế giới mở từ game đặt `LOCAL_ACCOUNTS=0`: `/auth/register` và
   `/auth/login` trả `local_off`, mọi người trong thế giới đều là tài khoản Firebase.
 - **Người mở thế giới là quản trị viên** (`HOST_FIREBASE_UID` = uid của người chủ), dùng được `/admin ...` của giai đoạn 10.
+- **Tác giả game là quản trị viên ở mọi thế giới** (1.1.2): tài khoản Firebase có email trong `OWNER_EMAILS`
+  (`server/app/config.py`, tài khoản phongfoxyd) hoặc `ADMIN_EMAILS` được `is_admin` khi vào bất kỳ thế giới nào. Khớp theo
+  email chứ không theo tên đăng nhập: tên trong thế giới lấy từ phần trước `@` nên ai cũng chiếm được, còn email thì Firebase
+  giữ duy nhất. Vì thế thế giới mở từ game đặt `ADMIN_USERNAMES=""` (không lấy từ `server/.env` của máy chủ).
 - **Tìm thế giới trên LAN**: thế giới phát gói UDP broadcast nhỏ (`{"g": "khuvuon-lan", v, name, host, port, online}`) tới
   `255.255.255.255:47654` mỗi 1,5 giây (và tới `127.0.0.1` để máy không có mạng vẫn thấy chính mình); tab *Tham gia mạng LAN*
   nghe cổng đó (`SO_REUSEADDR`, nhiều game cùng máy vẫn nghe được) và quên thế giới im lặng quá 5 giây. Không dùng

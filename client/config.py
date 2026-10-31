@@ -9,7 +9,7 @@ from dataclasses import asdict, dataclass, field
 from pathlib import Path
 
 PROTOCOL_VERSION = 5
-GAME_VERSION = "1.1.1"
+GAME_VERSION = "1.1.2"
 
 
 def base_dir() -> Path:

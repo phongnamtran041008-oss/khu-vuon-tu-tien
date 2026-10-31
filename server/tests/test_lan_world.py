@@ -57,6 +57,16 @@ async def test_world_owner_is_admin(client, db, firebase):
     assert r["is_admin"] and r["username"] == "chu_vuon"
 
 
+async def test_game_author_is_admin_in_every_world(client, firebase, monkeypatch):
+    from app.config import OWNER_EMAILS
+    ACCOUNTS_OWNER = {"uid": "UIDowner00000000000000000005", "email": OWNER_EMAILS[0].upper(), "name": ""}
+    monkeypatch.setitem(ACCOUNTS, "tok-owner", ACCOUNTS_OWNER)
+    assert (await fb_login(client, "tok-owner")).json()["is_admin"]          # not the host, still admin
+    assert not (await fb_login(client, "tok-ban")).json()["is_admin"]
+    monkeypatch.setattr(settings, "admin_emails", [*settings.admin_emails, "ban.be@yahoo.com"])
+    assert (await fb_login(client, "tok-ban2")).json()["is_admin"]           # ADMIN_EMAILS
+
+
 async def test_firebase_accounts_cannot_use_a_password(client, firebase):
     r = (await fb_login(client, "tok-ban")).json()
     for pw in ("!firebase", "", "matkhau1"):

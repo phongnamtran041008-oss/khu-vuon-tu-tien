@@ -102,6 +102,7 @@ async def firebase_login(body: FirebaseIn, request: Request, db: AsyncSession = 
         status, msg = FIREBASE_ERRORS.get(e.code, (401, "Phiên đăng nhập Firebase không hợp lệ, hãy đăng nhập lại."))
         raise api_error(status, "firebase_" + e.code.lower(), msg)
     host = bool(settings.host_firebase_uid) and who["uid"] == settings.host_firebase_uid
+    owner = bool(who["email"]) and who["email"].casefold() in settings.admin_emails   # the game's author
     user = (await db.execute(select(User).where(User.firebase_uid == who["uid"]))).scalar_one_or_none()
     created = user is None
     if user is None:
@@ -115,7 +116,7 @@ async def firebase_login(body: FirebaseIn, request: Request, db: AsyncSession = 
                                   firebase_uid=who["uid"], email=who["email"][:200] or None)
     if user.banned_until and user.banned_until > clock.now():
         raise api_error(403, "banned", f"Tài khoản bị khóa đến {user.banned_until:%d/%m/%Y %H:%M} (UTC).")
-    if host and not user.is_admin:
+    if (host or owner) and not user.is_admin:
         user.is_admin = True
     if who["email"] and user.email != who["email"]:
         user.email = who["email"][:200]
