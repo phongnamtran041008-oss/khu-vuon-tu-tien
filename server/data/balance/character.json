@@ -1,0 +1,10 @@
+{
+  "_comment": "Character creation choices (spec 7.2). Everyone starts in the same Áo Vải Phàm Nhân outfit.",
+  "display_name_min": 2,
+  "display_name_max": 16,
+  "hair_colors": ["#2B2B2B", "#5C3A21", "#A0522D", "#D9C27A", "#8E8E8E", "#6B3FA0"],
+  "hair_styles": ["ngan", "buoi", "dai"],
+  "bodies": ["nam", "nu"],
+  "starting_outfit": "ao_vai_pham_nhan",
+  "abode_spawn": {"x": 312, "y": 304}
+}

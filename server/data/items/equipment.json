@@ -1,0 +1,49 @@
+{
+  "_comment": "Equipment (spec 12.2). Stats are scaled by the rarity multiplier and +8% per enhance level.",
+  "slots": {"weapon": "Vũ khí", "body": "Áo", "hat": "Mũ", "shoes": "Giày", "jade": "Ngọc Bội", "ring": "Nhẫn"},
+  "rarities": {
+    "pham": {"name_vi": "Phàm", "color": "#7D7468", "mult": 1.0, "weight": 70},
+    "linh": {"name_vi": "Linh", "color": "#6A994E", "mult": 1.3, "weight": 22},
+    "huyen": {"name_vi": "Huyền", "color": "#4A7CC8", "mult": 1.7, "weight": 7},
+    "dia": {"name_vi": "Địa", "color": "#8E5AC8", "mult": 2.2, "weight": 1},
+    "thien": {"name_vi": "Thiên", "color": "#C99A3A", "mult": 3.0, "weight": 0}
+  },
+  "items": {
+    "but_long_go": {"name_vi": "Bút Lông Gỗ", "slot": "weapon", "kind": "brush", "stats": {"atk": 6},
+                    "desc_vi": "Cây bút đầu tiên Trúc Lão trao. Vẩy mực đánh từ xa."},
+    "kiem_go_dao": {"name_vi": "Kiếm Gỗ Đào", "slot": "weapon", "kind": "sword", "stats": {"atk": 9},
+                    "desc_vi": "Kiếm gỗ đào, đánh gần mà nhanh."},
+    "quat_giay": {"name_vi": "Quạt Giấy", "slot": "weapon", "kind": "fan", "stats": {"atk": 7, "crit": 3},
+                  "desc_vi": "Quạt giấy dó, dễ ra đòn chí mạng."},
+    "gay_truc": {"name_vi": "Gậy Trúc", "slot": "weapon", "kind": "staff", "stats": {"atk": 11},
+                 "desc_vi": "Gậy trúc dài, đánh chậm mà đau."},
+    "ao_truc_van": {"name_vi": "Áo Trúc Văn", "slot": "body", "stats": {"def": 5, "max_hp": 15},
+                    "desc_vi": "Áo thêu lá trúc."},
+    "non_la": {"name_vi": "Nón Lá", "slot": "hat", "stats": {"def": 2, "ink_res": 3}, "desc_vi": "Che nắng, che cả mực."},
+    "giay_co": {"name_vi": "Giày Cỏ", "slot": "shoes", "stats": {"def": 1, "max_hp": 10}, "desc_vi": "Đan bằng cỏ rừng."},
+    "ngoc_muc": {"name_vi": "Ngọc Bội Mực", "slot": "jade", "stats": {"ink_res": 5, "max_qi": 10},
+                 "desc_vi": "Viên ngọc từng hút cạn một vũng mực."},
+    "nhan_dong": {"name_vi": "Nhẫn Đồng", "slot": "ring", "stats": {"atk": 3, "crit": 2}, "desc_vi": "Nhẫn đồng mộc mạc."},
+    "mac_anh_quan": {"name_vi": "Mặc Ảnh Quan", "slot": "hat", "set": "mac_anh", "stats": {"def": 3, "ink_res": 5},
+                     "desc_vi": "Mũ đội đầu của Nghiên Ma, nhặt được trong bí cảnh."},
+    "mac_anh_bao": {"name_vi": "Mặc Ảnh Bào", "slot": "body", "set": "mac_anh", "stats": {"def": 6, "max_hp": 20},
+                    "desc_vi": "Áo bào dệt từ bóng mực, chạm vào lạnh như nước giếng."},
+    "mac_anh_ngoa": {"name_vi": "Mặc Ảnh Ngoa", "slot": "shoes", "set": "mac_anh", "stats": {"def": 2, "max_hp": 15},
+                     "desc_vi": "Đôi hài đi trên mực không để lại dấu."},
+    "mac_anh_boi": {"name_vi": "Mặc Ảnh Bội", "slot": "jade", "set": "mac_anh", "stats": {"ink_res": 6, "max_qi": 15},
+                    "desc_vi": "Ngọc bội tạc từ mảnh nghiên vỡ của Nghiên Ma."}
+  },
+  "sets": {
+    "mac_anh": {"name_vi": "Bộ Mặc Ảnh", "pieces": ["mac_anh_quan", "mac_anh_bao", "mac_anh_ngoa", "mac_anh_boi"],
+                "bonus": {"2": {"ink_res": 8}, "4": {"max_hp": 40, "atk": 6}},
+                "bonus_vi": {"2": "+8 Kháng Mực", "4": "+40 Sinh Lực, +6 Công"}}
+  },
+  "enhance": {
+    "max_level": 10,
+    "stat_bonus_per_level": 0.08,
+    "success_pct": [100, 95, 90, 80, 70, 60, 50, 40, 30, 20],
+    "cost_stones": [20, 30, 45, 60, 80, 100, 130, 160, 200, 250],
+    "material": "muc_tinh",
+    "material_qty": [1, 1, 2, 2, 3, 3, 4, 5, 6, 8]
+  }
+}

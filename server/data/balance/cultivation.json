@@ -1,0 +1,28 @@
+{
+  "_comment": "Tu Vi and realms (spec 7.3). xp_to_next[realm][i] = Tu Vi needed to leave stage i+1 (Phàm Nhân has one step). A realm listed in tribulation_to needs a pill and Thiên Kiếp to enter; other steps happen by themselves when Tu Vi is full.",
+  "xp_to_next": {
+    "pham_nhan": [100],
+    "luyen_khi": [120, 150, 180, 220, 260, 300, 350, 400, 500],
+    "truc_co": [900, 1200, 1600],
+    "kim_dan": [2500, 3200, 4000],
+    "nguyen_anh": [6000, 7500, 9000]
+  },
+  "tribulation_to": {"truc_co": "truc_co_dan", "kim_dan": "kim_dan_dan", "nguyen_anh": "nguyen_anh_dan"},
+  "xp_per_correct": {"garden": 10, "combat": 6, "practice": 2, "help": 4, "meditate": 15, "tribulation": 0, "fishing": 6, "td": 4, "forge": 4},
+  "xp_harvest": 15,
+  "death_xp_loss_pct": 5,
+  "meditate_interval_seconds": 120,
+  "meditate_qtypes": ["Q1", "Q2", "Q3", "Q4", "Q5", "Q11"],
+  "tribulation": {"questions": 20, "time_limit": 30, "pass_pct": 80, "fail_xp_loss_pct": 10,
+                  "retry_wait_seconds": 1800, "reward_jade": 50},
+  "stats": {
+    "base": {"max_hp": 100, "max_qi": 50, "atk": 10, "def": 5, "crit": 5, "ink_res": 0},
+    "per_stage": {"max_hp": 12, "max_qi": 5, "atk": 2, "def": 1},
+    "realm_bonus": {
+      "luyen_khi": {"max_hp": 20, "max_qi": 10, "atk": 2, "def": 1},
+      "truc_co": {"max_hp": 160, "max_qi": 50, "atk": 18, "def": 9, "crit": 3, "ink_res": 5},
+      "kim_dan": {"max_hp": 420, "max_qi": 110, "atk": 40, "def": 20, "crit": 6, "ink_res": 10},
+      "nguyen_anh": {"max_hp": 800, "max_qi": 200, "atk": 80, "def": 40, "crit": 9, "ink_res": 15}
+    }
+  }
+}

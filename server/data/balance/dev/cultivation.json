@@ -1,0 +1,9 @@
+{
+  "_comment": "BALANCE_PROFILE=dev: tiny Tu Vi steps so a tester can go Phàm Nhân -> Trúc Cơ in minutes. Only keys listed here change.",
+  "xp_to_next": {
+    "pham_nhan": [10],
+    "luyen_khi": [10, 10, 10, 10, 10, 10, 10, 10, 10],
+    "truc_co": [30, 30, 30]
+  },
+  "meditate_interval_seconds": 10
+}

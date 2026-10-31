@@ -1,0 +1,109 @@
+{
+  "_comment": "Ải Thủ Vườn (spec 9). Chỉ số gốc của vai trò cây ở cấp 1 với sức mạnh 1.0; sức mạnh thật = hệ số mastery × hệ số wither (power). Thời gian tính bằng giây, tầm và vùng nổ tính bằng ô. Mọi số này được gửi nguyên cho client trong params của lượt chơi và chạy trong td_sim.py ở cả hai bên.",
+  "grid": {"cols": 12, "rows": 7},
+  "core_hp": 20,
+  "loadout_max": 8,
+  "power": {"mastery_min": 0.6, "mastery_max": 1.3, "wither_max_penalty": 0.3},
+  "qi": {"start": 110, "regen_per_s": 0.8, "wave_bonus": 10,
+         "break_questions": 3, "break_qi": 20,
+         "tu_khi_qi": 10, "tu_khi_wrong_loss": 10, "tu_khi_cooldown_s": 10},
+  "upgrade": {"cost": [0.7, 1.1], "level_mult": [1.0, 1.4, 1.85]},
+  "sell_refund": 0.5,
+  "roles": {
+    "hoa":      {"cost": 60, "range": 2.3, "cd": 1.5, "dmg": 16, "splash": 1.2, "elem": "hoa"},
+    "thuy":     {"cost": 45, "range": 2.3, "cd": 0.9, "dmg": 5, "slow": 0.6, "slow_s": 1.8, "elem": "thuy"},
+    "moc":      {"cost": 30, "hp": 160, "thorns": 6, "elem": "moc", "on_path": true},
+    "son":      {"cost": 60, "range": 1.6, "cd": 3.5, "dmg": 8, "stun_s": 1.0, "elem": "son"},
+    "kim":      {"cost": 70, "range": 3.0, "cd": 1.3, "dmg": 34, "elem": "kim"},
+    "quang":    {"cost": 35, "range": 2.2, "cd": 1.1, "dmg": 6, "elem": "quang"},
+    "sinh_khi": {"cost": 50, "cd": 5.0, "qi": 12},
+    "ho_tro":   {"cost": 40, "haste": 0.25, "heal": 6},
+    "thanh_ngu": {"cost": 0, "skill_only": true}
+  },
+  "idiom_skills": {
+    "一石二鸟": {"type": "strike_strongest", "targets": 2, "dmg": 400,
+                 "desc_vi": "Một hòn đá trúng hai con chim: đánh mạnh vào hai con quái nhiều máu nhất."},
+    "画蛇添足": {"type": "slow_all", "mult": 0.35, "seconds": 8,
+                 "desc_vi": "Vẽ rắn thêm chân: mọi con quái vướng chân, chậm hẳn lại trong 8 giây."},
+    "对牛弹琴": {"type": "stun_all", "seconds": 5,
+                 "desc_vi": "Đàn gảy tai trâu: cả đám quái đứng ngẩn ra nghe đàn 5 giây."}
+  },
+  "combos": [
+    {"id": "hao", "kind": "pair", "a": ["女"], "b": ["子"], "effect": "power", "value": 1.3,
+     "name_vi": "好", "text_vi": "女 cạnh 子 thành 好: cả hai cây mạnh thêm 30%."},
+    {"id": "ming", "kind": "pair", "a": ["月", "月亮"], "b": ["日", "太阳"], "effect": "light", "value": 2.0,
+     "name_vi": "明", "text_vi": "日 cạnh 月 thành 明: vùng sáng rộng gấp đôi."},
+    {"id": "sen", "kind": "cluster", "a": ["木", "林", "森", "树"], "size": 3, "effect": "hp", "value": 1.5,
+     "name_vi": "森", "text_vi": "Ba cây 木 liền nhau thành 森: cả cụm thêm 50% máu."},
+    {"id": "xiu", "kind": "pair", "a": ["木", "林", "森", "树"], "b": ["人"], "effect": "regen", "value": 8,
+     "name_vi": "休", "text_vi": "人 tựa 木 thành 休: cây Mộc được nghỉ, tự hồi máu."}
+  ],
+  "monsters": {
+    "muc_con":   {"name_vi": "Mực Con", "hp": 90, "speed": 0.9, "leak": 1, "qi": 3, "atk": 8,
+                  "resist": {}, "weakness_vi": "Không kháng gì, dễ đối phó."},
+    "muc_phi":   {"name_vi": "Mực Phi", "hp": 60, "speed": 1.6, "leak": 1, "qi": 3, "atk": 5,
+                  "resist": {"son": 0.5, "thuy": 1.3},
+                  "weakness_vi": "Chạy rất nhanh, ít bị choáng. Yếu Thủy (nước làm chậm hẳn)."},
+    "muc_dac":   {"name_vi": "Mực Đặc", "hp": 265, "speed": 0.55, "leak": 2, "qi": 6, "atk": 14,
+                  "resist": {"thuy": 0.5, "hoa": 1.5},
+                  "weakness_vi": "Kháng Thủy (nước chỉ gây nửa sát thương), yếu Hỏa."},
+    "muc_an":    {"name_vi": "Mực Ẩn", "hp": 110, "speed": 1.0, "leak": 2, "qi": 5, "atk": 8, "hidden": true,
+                  "resist": {"quang": 1.5},
+                  "weakness_vi": "Tàng hình: chỉ bị đánh khi đứng trong vùng sáng của cây Quang. Cây Mộc vẫn chặn được."},
+    "thach_mac": {"name_vi": "Thạch Mặc", "hp": 375, "speed": 0.5, "leak": 3, "qi": 8, "atk": 20,
+                  "resist": {"son": 0.0, "kim": 1.5, "hoa": 0.7},
+                  "weakness_vi": "Mực đóng đá: không bị choáng, kháng Hỏa, yếu Kim."},
+    "mac_vuong": {"name_vi": "Mặc Vương", "hp": 1980, "speed": 0.4, "leak": 10, "qi": 40, "atk": 40, "boss": true,
+                  "resist": {"son": 0.5},
+                  "weakness_vi": "Thủ lĩnh Mặc Quái: rất nhiều máu, choáng chỉ nửa thời gian. Lọt vào Linh Mạch mất 10 điểm."}
+  },
+  "boss_stun_mult": 0.5,
+  "wave_max_seconds": 240,
+  "stars": {"3": 16, "2": 8, "1": 1},
+  "chapters": [
+    {"id": 1, "name_vi": "Chương 1 · Vườn Đầu Ngõ", "min_realm": "pham_nhan", "hp_mult": 1.0, "qi_start": 110},
+    {"id": 2, "name_vi": "Chương 2 · Rừng Trúc Mực", "min_realm": "luyen_khi", "hp_mult": 1.0, "qi_start": 200},
+    {"id": 3, "name_vi": "Chương 3 · Linh Mạch Cổ", "min_realm": "truc_co", "hp_mult": 1.0, "qi_start": 300}
+  ],
+  "rewards": {
+    "first_star_stones": {"1": [40, 40, 60], "2": [80, 80, 120], "3": [150, 150, 220]},
+    "replay_stones": {"1": 15, "2": 30, "3": 50},
+    "special": {
+      "_comment": "Thưởng thêm lần đầu đạt số sao đó ở một ải: items (vật phẩm), immortal_jade, seed (một hạt của chữ đã học, để trồng lại).",
+      "c1_03": {"2": {"seed": 1}},
+      "c1_05": {"3": {"items": {"bi_kip_moc": 1}}},
+      "c1_07": {"2": {"items": {"go_linh_moc": 3}}},
+      "c1_10": {"1": {"immortal_jade": 5}, "3": {"items": {"bi_kip_son": 1}}},
+      "c2_05": {"3": {"items": {"bi_kip_thuy": 1}}},
+      "c2_08": {"2": {"seed": 1}},
+      "c2_10": {"1": {"immortal_jade": 10}, "3": {"items": {"bi_kip_hoa": 1}}},
+      "c3_05": {"3": {"items": {"vay_linh_ngu": 5}}},
+      "c3_10": {"1": {"immortal_jade": 20}}
+    },
+    "daily_rewarded_plays": 5,
+    "endless_stones_per_wave": 4,
+    "endless_stones_max": 160
+  },
+  "level_gen": {
+    "_comment": "Đầu vào của tools/gen_td_levels.py (sinh server/data/td/levels.json). máu quái của đợt w ở ải n = budget_first + budget_first_per_level×(n−1) + (budget_wave + budget_wave_per_level×(n−1))×w; kinds = [loài, ải đầu tiên xuất hiện (1-30)].",
+    "waves": {"1": [5, 5, 6, 6, 7, 7, 8, 8, 9, 10], "2": [7, 7, 8, 8, 9, 9, 10, 10, 11, 12], "3": [8, 8, 9, 9, 10, 10, 11, 11, 12, 14]},
+    "budget_first": 440, "budget_first_per_level": 13, "budget_wave": 242, "budget_wave_per_level": 62,
+    "kinds": [["muc_con", 1], ["muc_phi", 3], ["muc_dac", 5], ["muc_an", 8], ["thach_mac", 12]],
+    "boss_levels": [10, 15, 20, 25, 30],
+    "gap_ms": [1100, 600], "group_pause_ms": 1200
+  },
+  "endless": {
+    "unlock_level": "c1_10",
+    "max_waves": 60,
+    "base_count": 6, "count_per_wave": 1.4,
+    "hp_growth": 0.14,
+    "gap_ms": 900, "gap_min_ms": 350, "gap_per_wave_ms": 20,
+    "boss_every": 10,
+    "kinds": [["muc_con", 0], ["muc_phi", 2], ["muc_dac", 4], ["muc_an", 6], ["thach_mac", 8]],
+    "board_top": 10
+  },
+  "anti_cheat": {"max_speed": 2, "time_slack": 0.85, "time_grace_s": 3, "max_events": 6000,
+                 "run_hours": 3, "max_questions": 600},
+  "quiz_types": {"break": ["Q1", "Q2", "Q3", "Q11"], "tu_khi": ["Q1", "Q2", "Q3", "Q11"],
+                 "upgrade": ["Q1", "Q2", "Q3", "Q5"]}
+}

@@ -1,0 +1,9 @@
+words: 172 (tier1 92, tier2 80)
+rarity tier1: common 62, rare 16, epic 5, legendary 3
+rarity tier2: common 60, rare 15, epic 5
+sentences: 44
+combos verified: ming=True, lin=True, sen=True, hao=True, xiu=True, ma_question=True
+tone mishaps: 10/10
+pinyin conflicts: 0
+unreviewed meanings: 172
+errors: 0

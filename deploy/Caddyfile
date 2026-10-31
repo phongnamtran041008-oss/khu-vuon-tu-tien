@@ -1,0 +1,6 @@
+# Caddy gets and renews the HTTPS certificate for DOMAIN by itself (Let's Encrypt).
+# WebSocket (/ws) needs nothing extra: reverse_proxy passes the upgrade through.
+{$DOMAIN} {
+	encode gzip
+	reverse_proxy server:8000
+}

@@ -1,0 +1,1524 @@
+{
+ "license": "CC BY-SA 4.0 — derived from CC-CEDICT (https://cc-cedict.org/wiki/) and makemeahanzi dictionary.txt (LGPL-3.0+); HSK lists from drkameleon/complete-hsk-vocabulary (MIT). See CREDITS.md.",
+ "generated_by": "tools/build_wordlist.py",
+ "generated_at": "2026-10-29T16:23:11+00:00",
+ "cedict_date": "2023-11-07T06:42:16Z",
+ "sentences": [
+  {
+   "id": "s001",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "吃",
+     "word_id": "chi1_5403",
+     "pinyin": "chī"
+    },
+    {
+     "t": "苹果",
+     "word_id": "ping2guo3_82f9",
+     "pinyin": "píngguǒ"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我喜欢吃苹果。",
+   "vi": "Tôi thích ăn táo.",
+   "reviewed": false
+  },
+  {
+   "id": "s002",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "是",
+     "word_id": "shi4_662f",
+     "pinyin": "shì"
+    },
+    {
+     "t": "老师",
+     "word_id": "lao3shi1_8001",
+     "pinyin": "lǎoshī"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我是老师。",
+   "vi": "Tôi là giáo viên.",
+   "reviewed": false
+  },
+  {
+   "id": "s003",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "他",
+     "word_id": "ta1_4ed6",
+     "pinyin": "tā"
+    },
+    {
+     "t": "是",
+     "word_id": "shi4_662f",
+     "pinyin": "shì"
+    },
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "朋友",
+     "word_id": "peng2you5_670b",
+     "pinyin": "péngyou"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "他是我朋友。",
+   "vi": "Anh ấy là bạn tôi.",
+   "reviewed": false
+  },
+  {
+   "id": "s004",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "爱",
+     "word_id": "ai4_7231",
+     "pinyin": "ài"
+    },
+    {
+     "t": "妈妈",
+     "word_id": "ma1ma5_5988",
+     "pinyin": "māma"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我爱妈妈。",
+   "vi": "Tôi yêu mẹ.",
+   "reviewed": false
+  },
+  {
+   "id": "s005",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "喝",
+     "word_id": "he1_559d",
+     "pinyin": "hē"
+    },
+    {
+     "t": "茶",
+     "word_id": "cha2_8336",
+     "pinyin": "chá"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我很喜欢喝茶。",
+   "vi": "Tôi rất thích uống trà.",
+   "reviewed": false
+  },
+  {
+   "id": "s006",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "妈妈",
+     "word_id": "ma1ma5_5988",
+     "pinyin": "māma"
+    },
+    {
+     "t": "在",
+     "word_id": "zai4_5728",
+     "pinyin": "zài"
+    },
+    {
+     "t": "家",
+     "word_id": "jia1_5bb6",
+     "pinyin": "jiā"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "妈妈在家。",
+   "vi": "Mẹ ở nhà.",
+   "reviewed": false
+  },
+  {
+   "id": "s007",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "爸爸",
+     "word_id": "ba4ba5_7238",
+     "pinyin": "bàba"
+    },
+    {
+     "t": "不",
+     "word_id": "bu4_4e0d",
+     "pinyin": "bù"
+    },
+    {
+     "t": "喝",
+     "word_id": "he1_559d",
+     "pinyin": "hē"
+    },
+    {
+     "t": "牛奶",
+     "word_id": "niu2nai3_725b",
+     "pinyin": "niúnǎi"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "爸爸不喝牛奶。",
+   "vi": "Bố không uống sữa.",
+   "reviewed": false
+  },
+  {
+   "id": "s008",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "去",
+     "word_id": "qu4_53bb",
+     "pinyin": "qù"
+    },
+    {
+     "t": "中国",
+     "word_id": "zhong1guo2_4e2d",
+     "pinyin": "Zhōngguó"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我去中国。",
+   "vi": "Tôi đi Trung Quốc.",
+   "reviewed": false
+  },
+  {
+   "id": "s009",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "天气",
+     "word_id": "tian1qi4_5929",
+     "pinyin": "tiānqì"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "热",
+     "word_id": "re4_70ed",
+     "pinyin": "rè"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "天气很热。",
+   "vi": "Thời tiết rất nóng.",
+   "reviewed": false
+  },
+  {
+   "id": "s010",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "天气",
+     "word_id": "tian1qi4_5929",
+     "pinyin": "tiānqì"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "冷",
+     "word_id": "leng3_51b7",
+     "pinyin": "lěng"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "天气很冷。",
+   "vi": "Thời tiết rất lạnh.",
+   "reviewed": false
+  },
+  {
+   "id": "s011",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "他",
+     "word_id": "ta1_4ed6",
+     "pinyin": "tā"
+    },
+    {
+     "t": "在",
+     "word_id": "zai4_5728",
+     "pinyin": "zài"
+    },
+    {
+     "t": "学习",
+     "word_id": "xue2xi2_5b66",
+     "pinyin": "xuéxí"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "他在学习。",
+   "vi": "Anh ấy đang học.",
+   "reviewed": false
+  },
+  {
+   "id": "s012",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "哥哥",
+     "word_id": "ge1ge5_54e5",
+     "pinyin": "gēge"
+    },
+    {
+     "t": "在",
+     "word_id": "zai4_5728",
+     "pinyin": "zài"
+    },
+    {
+     "t": "睡觉",
+     "word_id": "shui4jiao4_7761",
+     "pinyin": "shuìjiào"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "哥哥在睡觉。",
+   "vi": "Anh trai đang ngủ.",
+   "reviewed": false
+  },
+  {
+   "id": "s013",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "你",
+     "word_id": "ni3_4f60",
+     "pinyin": "nǐ"
+    },
+    {
+     "t": "是",
+     "word_id": "shi4_662f",
+     "pinyin": "shì"
+    },
+    {
+     "t": "中国",
+     "word_id": "zhong1guo2_4e2d",
+     "pinyin": "Zhōngguó"
+    },
+    {
+     "t": "人",
+     "word_id": "ren2_4eba",
+     "pinyin": "rén"
+    },
+    {
+     "t": "吗",
+     "word_id": "ma5_5417",
+     "pinyin": "ma"
+    },
+    {
+     "t": "？",
+     "word_id": null,
+     "pinyin": "？"
+    }
+   ],
+   "text": "你是中国人吗？",
+   "vi": "Bạn là người Trung Quốc phải không?",
+   "reviewed": false
+  },
+  {
+   "id": "s014",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "不",
+     "word_id": "bu4_4e0d",
+     "pinyin": "bù"
+    },
+    {
+     "t": "是",
+     "word_id": "shi4_662f",
+     "pinyin": "shì"
+    },
+    {
+     "t": "老师",
+     "word_id": "lao3shi1_8001",
+     "pinyin": "lǎoshī"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我不是老师。",
+   "vi": "Tôi không phải giáo viên.",
+   "reviewed": false
+  },
+  {
+   "id": "s015",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "妹妹",
+     "word_id": "mei4mei5_59b9",
+     "pinyin": "mèimei"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "花",
+     "word_id": "hua1_82b1",
+     "pinyin": "huā"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "妹妹喜欢花。",
+   "vi": "Em gái thích hoa.",
+   "reviewed": false
+  },
+  {
+   "id": "s016",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "弟弟",
+     "word_id": "di4di5_5f1f",
+     "pinyin": "dìdi"
+    },
+    {
+     "t": "吃",
+     "word_id": "chi1_5403",
+     "pinyin": "chī"
+    },
+    {
+     "t": "了",
+     "word_id": "le5_4e86",
+     "pinyin": "le"
+    },
+    {
+     "t": "面包",
+     "word_id": "mian4bao1_9762",
+     "pinyin": "miànbāo"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "弟弟吃了面包。",
+   "vi": "Em trai đã ăn bánh mì.",
+   "reviewed": false
+  },
+  {
+   "id": "s017",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "姐姐",
+     "word_id": "jie3jie5_59d0",
+     "pinyin": "jiějie"
+    },
+    {
+     "t": "买",
+     "word_id": "mai3_4e70",
+     "pinyin": "mǎi"
+    },
+    {
+     "t": "了",
+     "word_id": "le5_4e86",
+     "pinyin": "le"
+    },
+    {
+     "t": "水果",
+     "word_id": "shui3guo3_6c34",
+     "pinyin": "shuǐguǒ"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "姐姐买了水果。",
+   "vi": "Chị gái đã mua hoa quả.",
+   "reviewed": false
+  },
+  {
+   "id": "s018",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "的",
+     "word_id": "de5_7684",
+     "pinyin": "de"
+    },
+    {
+     "t": "朋友",
+     "word_id": "peng2you5_670b",
+     "pinyin": "péngyou"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "好",
+     "word_id": "hao3_597d",
+     "pinyin": "hǎo"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我的朋友很好。",
+   "vi": "Bạn của tôi rất tốt.",
+   "reviewed": false
+  },
+  {
+   "id": "s019",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "他",
+     "word_id": "ta1_4ed6",
+     "pinyin": "tā"
+    },
+    {
+     "t": "的",
+     "word_id": "de5_7684",
+     "pinyin": "de"
+    },
+    {
+     "t": "妈妈",
+     "word_id": "ma1ma5_5988",
+     "pinyin": "māma"
+    },
+    {
+     "t": "是",
+     "word_id": "shi4_662f",
+     "pinyin": "shì"
+    },
+    {
+     "t": "老师",
+     "word_id": "lao3shi1_8001",
+     "pinyin": "lǎoshī"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "他的妈妈是老师。",
+   "vi": "Mẹ của anh ấy là giáo viên.",
+   "reviewed": false
+  },
+  {
+   "id": "s020",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "在",
+     "word_id": "zai4_5728",
+     "pinyin": "zài"
+    },
+    {
+     "t": "家",
+     "word_id": "jia1_5bb6",
+     "pinyin": "jiā"
+    },
+    {
+     "t": "学习",
+     "word_id": "xue2xi2_5b66",
+     "pinyin": "xuéxí"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我在家学习。",
+   "vi": "Tôi học ở nhà.",
+   "reviewed": false
+  },
+  {
+   "id": "s021",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "你",
+     "word_id": "ni3_4f60",
+     "pinyin": "nǐ"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "喝",
+     "word_id": "he1_559d",
+     "pinyin": "hē"
+    },
+    {
+     "t": "茶",
+     "word_id": "cha2_8336",
+     "pinyin": "chá"
+    },
+    {
+     "t": "吗",
+     "word_id": "ma5_5417",
+     "pinyin": "ma"
+    },
+    {
+     "t": "？",
+     "word_id": null,
+     "pinyin": "？"
+    }
+   ],
+   "text": "你喜欢喝茶吗？",
+   "vi": "Bạn có thích uống trà không?",
+   "reviewed": false
+  },
+  {
+   "id": "s022",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "爸爸",
+     "word_id": "ba4ba5_7238",
+     "pinyin": "bàba"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "吃",
+     "word_id": "chi1_5403",
+     "pinyin": "chī"
+    },
+    {
+     "t": "肉",
+     "word_id": "rou4_8089",
+     "pinyin": "ròu"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "爸爸喜欢吃肉。",
+   "vi": "Bố thích ăn thịt.",
+   "reviewed": false
+  },
+  {
+   "id": "s023",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "你",
+     "word_id": "ni3_4f60",
+     "pinyin": "nǐ"
+    },
+    {
+     "t": "有",
+     "word_id": "you3_6709",
+     "pinyin": "yǒu"
+    },
+    {
+     "t": "面包",
+     "word_id": "mian4bao1_9762",
+     "pinyin": "miànbāo"
+    },
+    {
+     "t": "吗",
+     "word_id": "ma5_5417",
+     "pinyin": "ma"
+    },
+    {
+     "t": "？",
+     "word_id": null,
+     "pinyin": "？"
+    }
+   ],
+   "text": "你有面包吗？",
+   "vi": "Bạn có bánh mì không?",
+   "reviewed": false
+  },
+  {
+   "id": "s024",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "他",
+     "word_id": "ta1_4ed6",
+     "pinyin": "tā"
+    },
+    {
+     "t": "来",
+     "word_id": "lai2_6765",
+     "pinyin": "lái"
+    },
+    {
+     "t": "了",
+     "word_id": "le5_4e86",
+     "pinyin": "le"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "他来了。",
+   "vi": "Anh ấy đến rồi.",
+   "reviewed": false
+  },
+  {
+   "id": "s025",
+   "tier": 1,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "爱",
+     "word_id": "ai4_7231",
+     "pinyin": "ài"
+    },
+    {
+     "t": "中国",
+     "word_id": "zhong1guo2_4e2d",
+     "pinyin": "Zhōngguó"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我爱中国。",
+   "vi": "Tôi yêu Trung Quốc.",
+   "reviewed": false
+  },
+  {
+   "id": "s026",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "的",
+     "word_id": "de5_7684",
+     "pinyin": "de"
+    },
+    {
+     "t": "狗",
+     "word_id": "gou3_72d7",
+     "pinyin": "gǒu"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "可爱",
+     "word_id": "ke3ai4_53ef",
+     "pinyin": "kě'ài"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我的狗很可爱。",
+   "vi": "Con chó của tôi rất đáng yêu.",
+   "reviewed": false
+  },
+  {
+   "id": "s027",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "因为",
+     "word_id": "yin1wei4_56e0",
+     "pinyin": "yīnwèi"
+    },
+    {
+     "t": "天气",
+     "word_id": "tian1qi4_5929",
+     "pinyin": "tiānqì"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "冷",
+     "word_id": "leng3_51b7",
+     "pinyin": "lěng"
+    },
+    {
+     "t": "，",
+     "word_id": null,
+     "pinyin": "，"
+    },
+    {
+     "t": "所以",
+     "word_id": "suo3yi3_6240",
+     "pinyin": "suǒyǐ"
+    },
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "不",
+     "word_id": "bu4_4e0d",
+     "pinyin": "bù"
+    },
+    {
+     "t": "去",
+     "word_id": "qu4_53bb",
+     "pinyin": "qù"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "因为天气很冷，所以我不去。",
+   "vi": "Vì trời rất lạnh nên tôi không đi.",
+   "reviewed": false
+  },
+  {
+   "id": "s028",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "他",
+     "word_id": "ta1_4ed6",
+     "pinyin": "tā"
+    },
+    {
+     "t": "已经",
+     "word_id": "yi3jing1_5df2",
+     "pinyin": "yǐjīng"
+    },
+    {
+     "t": "离开",
+     "word_id": "li2kai1_79bb",
+     "pinyin": "líkāi"
+    },
+    {
+     "t": "了",
+     "word_id": "le5_4e86",
+     "pinyin": "le"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "他已经离开了。",
+   "vi": "Anh ấy đã rời đi rồi.",
+   "reviewed": false
+  },
+  {
+   "id": "s029",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "相信",
+     "word_id": "xiang1xin4_76f8",
+     "pinyin": "xiāngxìn"
+    },
+    {
+     "t": "你",
+     "word_id": "ni3_4f60",
+     "pinyin": "nǐ"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我相信你。",
+   "vi": "Tôi tin bạn.",
+   "reviewed": false
+  },
+  {
+   "id": "s030",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "欢迎",
+     "word_id": "huan1ying2_6b22",
+     "pinyin": "huānyíng"
+    },
+    {
+     "t": "你",
+     "word_id": "ni3_4f60",
+     "pinyin": "nǐ"
+    },
+    {
+     "t": "来",
+     "word_id": "lai2_6765",
+     "pinyin": "lái"
+    },
+    {
+     "t": "中国",
+     "word_id": "zhong1guo2_4e2d",
+     "pinyin": "Zhōngguó"
+    },
+    {
+     "t": "！",
+     "word_id": null,
+     "pinyin": "！"
+    }
+   ],
+   "text": "欢迎你来中国！",
+   "vi": "Chào mừng bạn đến Trung Quốc!",
+   "reviewed": false
+  },
+  {
+   "id": "s031",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "猫",
+     "word_id": "mao1_732b",
+     "pinyin": "māo"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "吃",
+     "word_id": "chi1_5403",
+     "pinyin": "chī"
+    },
+    {
+     "t": "鱼",
+     "word_id": "yu2_9c7c",
+     "pinyin": "yú"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "猫喜欢吃鱼。",
+   "vi": "Mèo thích ăn cá.",
+   "reviewed": false
+  },
+  {
+   "id": "s032",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "你",
+     "word_id": "ni3_4f60",
+     "pinyin": "nǐ"
+    },
+    {
+     "t": "为什么",
+     "word_id": "wei4shen2me5_4e3a",
+     "pinyin": "wèishénme"
+    },
+    {
+     "t": "哭",
+     "word_id": "ku1_54ed",
+     "pinyin": "kū"
+    },
+    {
+     "t": "？",
+     "word_id": null,
+     "pinyin": "？"
+    }
+   ],
+   "text": "你为什么哭？",
+   "vi": "Sao bạn khóc?",
+   "reviewed": false
+  },
+  {
+   "id": "s033",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "可以",
+     "word_id": "ke3yi3_53ef",
+     "pinyin": "kěyǐ"
+    },
+    {
+     "t": "帮助",
+     "word_id": "bang1zhu4_5e2e",
+     "pinyin": "bāngzhù"
+    },
+    {
+     "t": "你",
+     "word_id": "ni3_4f60",
+     "pinyin": "nǐ"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我可以帮助你。",
+   "vi": "Tôi có thể giúp bạn.",
+   "reviewed": false
+  },
+  {
+   "id": "s034",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "画",
+     "word_id": "hua4_753b",
+     "pinyin": "huà"
+    },
+    {
+     "t": "花",
+     "word_id": "hua1_82b1",
+     "pinyin": "huā"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我喜欢画花。",
+   "vi": "Tôi thích vẽ hoa.",
+   "reviewed": false
+  },
+  {
+   "id": "s035",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "春天",
+     "word_id": "chun1tian1_6625",
+     "pinyin": "chūntiān"
+    },
+    {
+     "t": "的",
+     "word_id": "de5_7684",
+     "pinyin": "de"
+    },
+    {
+     "t": "花",
+     "word_id": "hua1_82b1",
+     "pinyin": "huā"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "漂亮",
+     "word_id": "piao4liang5_6f02",
+     "pinyin": "piàoliang"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "春天的花很漂亮。",
+   "vi": "Hoa mùa xuân rất đẹp.",
+   "reviewed": false
+  },
+  {
+   "id": "s036",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "你",
+     "word_id": "ni3_4f60",
+     "pinyin": "nǐ"
+    },
+    {
+     "t": "应该",
+     "word_id": "ying1gai1_5e94",
+     "pinyin": "yīnggāi"
+    },
+    {
+     "t": "努力",
+     "word_id": "nu3li4_52aa",
+     "pinyin": "nǔlì"
+    },
+    {
+     "t": "学习",
+     "word_id": "xue2xi2_5b66",
+     "pinyin": "xuéxí"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "你应该努力学习。",
+   "vi": "Bạn nên cố gắng học tập.",
+   "reviewed": false
+  },
+  {
+   "id": "s037",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "听",
+     "word_id": "ting1_542c",
+     "pinyin": "tīng"
+    },
+    {
+     "t": "音乐",
+     "word_id": "yin1yue4_97f3",
+     "pinyin": "yīnyuè"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我喜欢听音乐。",
+   "vi": "Tôi thích nghe nhạc.",
+   "reviewed": false
+  },
+  {
+   "id": "s038",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "妈妈",
+     "word_id": "ma1ma5_5988",
+     "pinyin": "māma"
+    },
+    {
+     "t": "的",
+     "word_id": "de5_7684",
+     "pinyin": "de"
+    },
+    {
+     "t": "眼睛",
+     "word_id": "yan3jing5_773c",
+     "pinyin": "yǎnjing"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "漂亮",
+     "word_id": "piao4liang5_6f02",
+     "pinyin": "piàoliang"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "妈妈的眼睛很漂亮。",
+   "vi": "Mắt của mẹ rất đẹp.",
+   "reviewed": false
+  },
+  {
+   "id": "s039",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "冬天",
+     "word_id": "dong1tian1_51ac",
+     "pinyin": "dōngtiān"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "冷",
+     "word_id": "leng3_51b7",
+     "pinyin": "lěng"
+    },
+    {
+     "t": "，",
+     "word_id": null,
+     "pinyin": "，"
+    },
+    {
+     "t": "夏天",
+     "word_id": "xia4tian1_590f",
+     "pinyin": "xiàtiān"
+    },
+    {
+     "t": "很",
+     "word_id": "hen3_5f88",
+     "pinyin": "hěn"
+    },
+    {
+     "t": "热",
+     "word_id": "re4_70ed",
+     "pinyin": "rè"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "冬天很冷，夏天很热。",
+   "vi": "Mùa đông rất lạnh, mùa hè rất nóng.",
+   "reviewed": false
+  },
+  {
+   "id": "s040",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "懂",
+     "word_id": "dong3_61c2",
+     "pinyin": "dǒng"
+    },
+    {
+     "t": "了",
+     "word_id": "le5_4e86",
+     "pinyin": "le"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我懂了。",
+   "vi": "Tôi hiểu rồi.",
+   "reviewed": false
+  },
+  {
+   "id": "s041",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "有",
+     "word_id": "you3_6709",
+     "pinyin": "yǒu"
+    },
+    {
+     "t": "一",
+     "word_id": "yi1_4e00",
+     "pinyin": "yī"
+    },
+    {
+     "t": "只",
+     "word_id": "zhi1_53ea",
+     "pinyin": "zhī"
+    },
+    {
+     "t": "猫",
+     "word_id": "mao1_732b",
+     "pinyin": "māo"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我有一只猫。",
+   "vi": "Tôi có một con mèo.",
+   "reviewed": false
+  },
+  {
+   "id": "s042",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "我",
+     "word_id": "wo3_6211",
+     "pinyin": "wǒ"
+    },
+    {
+     "t": "买",
+     "word_id": "mai3_4e70",
+     "pinyin": "mǎi"
+    },
+    {
+     "t": "了",
+     "word_id": "le5_4e86",
+     "pinyin": "le"
+    },
+    {
+     "t": "一",
+     "word_id": "yi1_4e00",
+     "pinyin": "yī"
+    },
+    {
+     "t": "件",
+     "word_id": "jian4_4ef6",
+     "pinyin": "jiàn"
+    },
+    {
+     "t": "礼物",
+     "word_id": "li3wu4_793c",
+     "pinyin": "lǐwù"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "我买了一件礼物。",
+   "vi": "Tôi đã mua một món quà.",
+   "reviewed": false
+  },
+  {
+   "id": "s043",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "他",
+     "word_id": "ta1_4ed6",
+     "pinyin": "tā"
+    },
+    {
+     "t": "自己",
+     "word_id": "zi4ji3_81ea",
+     "pinyin": "zìjǐ"
+    },
+    {
+     "t": "去",
+     "word_id": "qu4_53bb",
+     "pinyin": "qù"
+    },
+    {
+     "t": "了",
+     "word_id": "le5_4e86",
+     "pinyin": "le"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "他自己去了。",
+   "vi": "Anh ấy tự đi rồi.",
+   "reviewed": false
+  },
+  {
+   "id": "s044",
+   "tier": 2,
+   "tokens": [
+    {
+     "t": "爸爸",
+     "word_id": "ba4ba5_7238",
+     "pinyin": "bàba"
+    },
+    {
+     "t": "喜欢",
+     "word_id": "xi3huan5_559c",
+     "pinyin": "xǐhuan"
+    },
+    {
+     "t": "运动",
+     "word_id": "yun4dong4_8fd0",
+     "pinyin": "yùndòng"
+    },
+    {
+     "t": "。",
+     "word_id": null,
+     "pinyin": "。"
+    }
+   ],
+   "text": "爸爸喜欢运动。",
+   "vi": "Bố thích chơi thể thao.",
+   "reviewed": false
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+# Đẩy một tag (git tag v1.0.0 && git push origin v1.0.0) → build VuonChu.exe trên Windows
+# và đính gói zip vào GitHub Release của tag đó. Game đã tải về sẽ thấy release này và báo
+# "Có bản cập nhật" (client/net/updates.py) — tag phải khớp GAME_VERSION trong client/config.py.
+# Địa chỉ máy chủ (chỉ cho máy chủ riêng) lấy từ biến của repo:
+# Settings → Secrets and variables → Actions → Variables: SERVER_URL, SERVER_LIST_URL.
+name: release-exe
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Cài thư viện
+        run: python -m pip install -r client/requirements.txt pyinstaller
+      - name: Build exe (kèm chạy thử exe)
+        run: >
+          python tools/build_exe.py
+          --server-url "${{ vars.SERVER_URL || 'http://127.0.0.1:8000' }}"
+          --server-list-url "${{ vars.SERVER_LIST_URL }}"
+          --update-repo "${{ github.repository }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: VuonChu-windows
+          path: dist/*.zip
+      - name: Đính vào GitHub Release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*.zip

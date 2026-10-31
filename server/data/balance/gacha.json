@@ -1,0 +1,126 @@
+{
+  "_comment": "All gacha numbers (spec 6.1, 13). rates are base probabilities per roll; pity rules force at least min_rarity on the Nth consecutive roll without it. The effective rate with pity is slightly higher than the base rate and is shown in game next to the base rate.",
+  "daily_roll_limit": 15,
+  "daily_free_rolls": 1,
+  "duplicate_seed_sell_price": 20,
+  "banners": {
+    "seeds": {
+      "enabled": true,
+      "name_vi": "Hạt Chữ",
+      "price": {
+        "spirit_stones": 100
+      },
+      "price_10": {
+        "spirit_stones": 900
+      },
+      "rarities": [
+        "common",
+        "rare",
+        "epic",
+        "legendary"
+      ],
+      "rates": {
+        "common": 0.7,
+        "rare": 0.22,
+        "epic": 0.07,
+        "legendary": 0.01
+      },
+      "pity": [
+        {
+          "min_rarity": "legendary",
+          "every": 90
+        },
+        {
+          "min_rarity": "epic",
+          "every": 40
+        }
+      ],
+      "ten_pull_min_rarity": "rare",
+      "counts_toward_daily_limit": true
+    },
+    "bees": {
+      "enabled": true,
+      "opens_in_stage": 5,
+      "name_vi": "Trứng Ong",
+      "price": {
+        "spirit_stones": 300
+      },
+      "alt_price": {
+        "immortal_jade": 5
+      },
+      "rarities": [
+        "pham",
+        "linh",
+        "huyen",
+        "dia",
+        "thien"
+      ],
+      "rates": {
+        "pham": 0.6,
+        "linh": 0.27,
+        "huyen": 0.09,
+        "dia": 0.03,
+        "thien": 0.01
+      },
+      "pity": [
+        {
+          "min_rarity": "thien",
+          "every": 90
+        },
+        {
+          "min_rarity": "huyen",
+          "every": 30
+        }
+      ],
+      "ten_pull_min_rarity": "linh",
+      "counts_toward_daily_limit": false,
+      "price_10": {
+        "spirit_stones": 2700
+      },
+      "alt_price_10": {
+        "immortal_jade": 45
+      }
+    },
+    "pets": {
+      "enabled": true,
+      "opens_in_stage": 8,
+      "name_vi": "Linh Thú",
+      "price": {
+        "spirit_stones": 500
+      },
+      "alt_price": {
+        "immortal_jade": 10
+      },
+      "rarities": [
+        "common",
+        "rare",
+        "epic",
+        "legendary"
+      ],
+      "rates": {
+        "common": 0.55,
+        "rare": 0.3,
+        "epic": 0.12,
+        "legendary": 0.03
+      },
+      "pity": [
+        {
+          "min_rarity": "legendary",
+          "every": 60
+        },
+        {
+          "min_rarity": "epic",
+          "every": 20
+        }
+      ],
+      "ten_pull_min_rarity": "rare",
+      "counts_toward_daily_limit": false,
+      "price_10": {
+        "spirit_stones": 4500
+      },
+      "alt_price_10": {
+        "immortal_jade": 90
+      }
+    }
+  }
+}

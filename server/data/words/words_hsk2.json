@@ -1,0 +1,7359 @@
+{
+ "license": "CC BY-SA 4.0 — derived from CC-CEDICT (https://cc-cedict.org/wiki/) and makemeahanzi dictionary.txt (LGPL-3.0+); HSK lists from drkameleon/complete-hsk-vocabulary (MIT). See CREDITS.md.",
+ "generated_by": "tools/build_wordlist.py",
+ "generated_at": "2026-10-29T16:23:11+00:00",
+ "cedict_date": "2023-11-07T06:42:16Z",
+ "tier": 2,
+ "words": [
+  {
+   "id": "gou3_72d7",
+   "hanzi": "狗",
+   "traditional": "狗",
+   "pinyin": "gǒu",
+   "pinyin_numeric": "gou3",
+   "readings_all": [
+    "gou3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 620,
+   "pos": [
+    "n"
+   ],
+   "topic": "animals",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "dog"
+   ],
+   "meaning_vi": "con chó",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "狗",
+      "word_id": "gou3_72d7",
+      "pinyin": "gǒu"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "可爱",
+      "word_id": "ke3ai4_53ef",
+      "pinyin": "kě'ài"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Con chó của tôi rất đáng yêu."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "只",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    },
+    {
+     "hanzi": "条",
+     "pinyin_numeric": "tiao2",
+     "pinyin": "tiáo"
+    }
+   ],
+   "chars": [
+    {
+     "char": "狗",
+     "radical": "犭",
+     "decomposition": "⿰犭句",
+     "components": [
+      "犭",
+      "句"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "dog"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "gou3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "mao1_732b",
+   "hanzi": "猫",
+   "traditional": "貓",
+   "pinyin": "māo",
+   "pinyin_numeric": "mao1",
+   "readings_all": [
+    "mao1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1150,
+   "pos": [
+    "n",
+    "v"
+   ],
+   "topic": "animals",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "cat",
+    "(coll.) modem"
+   ],
+   "meaning_vi": "con mèo",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "猫",
+      "word_id": "mao1_732b",
+      "pinyin": "māo"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "吃",
+      "word_id": "chi1_5403",
+      "pinyin": "chī"
+     },
+     {
+      "t": "鱼",
+      "word_id": "yu2_9c7c",
+      "pinyin": "yú"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Mèo thích ăn cá."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "只",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    }
+   ],
+   "chars": [
+    {
+     "char": "猫",
+     "radical": "犭",
+     "decomposition": "⿰犭苗",
+     "components": [
+      "犭",
+      "苗"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "animal"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "mao1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yu2_9c7c",
+   "hanzi": "鱼",
+   "traditional": "魚",
+   "pinyin": "yú",
+   "pinyin_numeric": "yu2",
+   "readings_all": [
+    "yu2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1189,
+   "pos": [
+    "n"
+   ],
+   "topic": "animals",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "fish"
+   ],
+   "meaning_vi": "con cá",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "吃",
+      "word_id": "chi1_5403",
+      "pinyin": "chī"
+     },
+     {
+      "t": "鱼",
+      "word_id": "yu2_9c7c",
+      "pinyin": "yú"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích ăn cá."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "条",
+     "pinyin_numeric": "tiao2",
+     "pinyin": "tiáo"
+    },
+    {
+     "hanzi": "尾",
+     "pinyin_numeric": "wei3",
+     "pinyin": "wěi"
+    }
+   ],
+   "chars": [
+    {
+     "char": "鱼",
+     "radical": "鱼",
+     "decomposition": "⿱⿱⺈田一",
+     "components": [
+      "⺈",
+      "田",
+      "一"
+     ],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A fish swimming upwards"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "Yu2",
+     "yu2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "ji1_9e21",
+   "hanzi": "鸡",
+   "traditional": "雞",
+   "pinyin": "jī",
+   "pinyin_numeric": "ji1",
+   "readings_all": [
+    "ji1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1356,
+   "pos": [
+    "n"
+   ],
+   "topic": "animals",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "fowl",
+    "chicken"
+   ],
+   "meaning_vi": "con gà",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "家",
+      "word_id": "jia1_5bb6",
+      "pinyin": "jiā"
+     },
+     {
+      "t": "有",
+      "word_id": "you3_6709",
+      "pinyin": "yǒu"
+     },
+     {
+      "t": "一",
+      "word_id": "yi1_4e00",
+      "pinyin": "yī"
+     },
+     {
+      "t": "只",
+      "word_id": "zhi1_53ea",
+      "pinyin": "zhī"
+     },
+     {
+      "t": "鸡",
+      "word_id": "ji1_9e21",
+      "pinyin": "jī"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Nhà tôi có một con gà."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "只",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    }
+   ],
+   "chars": [
+    {
+     "char": "鸡",
+     "radical": "鸟",
+     "decomposition": "⿰又鸟",
+     "components": [
+      "又",
+      "鸟"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Another 又 kind of bird 鸟"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "ji1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "niao3_9e1f",
+   "hanzi": "鸟",
+   "traditional": "鳥",
+   "pinyin": "niǎo",
+   "pinyin_numeric": "niao3",
+   "readings_all": [
+    "diao3",
+    "niao3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1593,
+   "pos": [
+    "n"
+   ],
+   "topic": "animals",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "bird",
+    "\"bird\" radical in Chinese characters (Kangxi radical 196)",
+    "(intensifier) damned",
+    "goddamn"
+   ],
+   "meaning_vi": "con chim",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "鸟",
+      "word_id": "niao3_9e1f",
+      "pinyin": "niǎo"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích chim."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "只",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    },
+    {
+     "hanzi": "群",
+     "pinyin_numeric": "qun2",
+     "pinyin": "qún"
+    }
+   ],
+   "chars": [
+    {
+     "char": "鸟",
+     "radical": "鸟",
+     "decomposition": "？",
+     "components": [],
+     "etymology_type": "pictographic",
+     "etymology_hint": "Simplified form of 烏, a bird"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "diao3",
+     "niao3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "dong4wu4_52a8",
+   "hanzi": "动物",
+   "traditional": "動物",
+   "pinyin": "dòngwù",
+   "pinyin_numeric": "dong4 wu4",
+   "readings_all": [
+    "dong4 wu4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1438,
+   "pos": [
+    "n"
+   ],
+   "topic": "animals",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "animal"
+   ],
+   "meaning_vi": "động vật",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "动物",
+      "word_id": "dong4wu4_52a8",
+      "pinyin": "dòngwù"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích động vật."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "只",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    },
+    {
+     "hanzi": "群",
+     "pinyin_numeric": "qun2",
+     "pinyin": "qún"
+    },
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "动",
+     "radical": "力",
+     "decomposition": "⿰云力",
+     "components": [
+      "云",
+      "力"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "strength"
+    },
+    {
+     "char": "物",
+     "radical": "牛",
+     "decomposition": "⿰牛勿",
+     "components": [
+      "牛",
+      "勿"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "ox"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "dong4 wu4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "hai3_6d77",
+   "hanzi": "海",
+   "traditional": "海",
+   "pinyin": "hǎi",
+   "pinyin_numeric": "hai3",
+   "readings_all": [
+    "hai3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1082,
+   "pos": [
+    "n",
+    "nr"
+   ],
+   "topic": "nature",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "ocean",
+    "sea",
+    "great number of people or things"
+   ],
+   "meaning_vi": "biển",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "海",
+      "word_id": "hai3_6d77",
+      "pinyin": "hǎi"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "大",
+      "word_id": "da4_5927",
+      "pinyin": "dà"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Biển rất rộng."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    },
+    {
+     "hanzi": "片",
+     "pinyin_numeric": "pian4",
+     "pinyin": "piàn"
+    }
+   ],
+   "chars": [
+    {
+     "char": "海",
+     "radical": "氵",
+     "decomposition": "⿰氵每",
+     "components": [
+      "氵",
+      "每"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "water"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "Hai3",
+     "hai3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "he2_6cb3",
+   "hanzi": "河",
+   "traditional": "河",
+   "pinyin": "hé",
+   "pinyin_numeric": "he2",
+   "readings_all": [
+    "he2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2245,
+   "pos": [
+    "n"
+   ],
+   "topic": "nature",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "river"
+   ],
+   "meaning_vi": "sông",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "河",
+      "word_id": "he2_6cb3",
+      "pinyin": "hé"
+     },
+     {
+      "t": "水",
+      "word_id": "shui3_6c34",
+      "pinyin": "shuǐ"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "冷",
+      "word_id": "leng3_51b7",
+      "pinyin": "lěng"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Nước sông rất lạnh."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "条",
+     "pinyin_numeric": "tiao2",
+     "pinyin": "tiáo"
+    },
+    {
+     "hanzi": "道",
+     "pinyin_numeric": "dao4",
+     "pinyin": "dào"
+    }
+   ],
+   "chars": [
+    {
+     "char": "河",
+     "radical": "氵",
+     "decomposition": "⿰氵可",
+     "components": [
+      "氵",
+      "可"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "water"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "he2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "hu2_6e56",
+   "hanzi": "湖",
+   "traditional": "湖",
+   "pinyin": "hú",
+   "pinyin_numeric": "hu2",
+   "readings_all": [
+    "hu2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2468,
+   "pos": [
+    "n",
+    "b"
+   ],
+   "topic": "nature",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "lake"
+   ],
+   "meaning_vi": "hồ",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "湖",
+      "word_id": "hu2_6e56",
+      "pinyin": "hú"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "漂亮",
+      "word_id": "piao4liang5_6f02",
+      "pinyin": "piàoliang"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Cái hồ rất đẹp."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    },
+    {
+     "hanzi": "片",
+     "pinyin_numeric": "pian4",
+     "pinyin": "piàn"
+    }
+   ],
+   "chars": [
+    {
+     "char": "湖",
+     "radical": "氵",
+     "decomposition": "⿰氵胡",
+     "components": [
+      "氵",
+      "胡"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "water"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "hu2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "xue3_96ea",
+   "hanzi": "雪",
+   "traditional": "雪",
+   "pinyin": "xuě",
+   "pinyin_numeric": "xue3",
+   "readings_all": [
+    "xue3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1971,
+   "pos": [
+    "n"
+   ],
+   "topic": "weather",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "snow",
+    "(literary) to wipe away (a humiliation etc)"
+   ],
+   "meaning_vi": "tuyết",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "雪",
+      "word_id": "xue3_96ea",
+      "pinyin": "xuě"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích tuyết."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "场",
+     "pinyin_numeric": "chang2",
+     "pinyin": "cháng"
+    }
+   ],
+   "chars": [
+    {
+     "char": "雪",
+     "radical": "雨",
+     "decomposition": "⿱雨彐",
+     "components": [
+      "雨",
+      "彐"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "rain"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "Xue3",
+     "xue3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yun2_4e91",
+   "hanzi": "云",
+   "traditional": "云",
+   "pinyin": "yún",
+   "pinyin_numeric": "yun2",
+   "readings_all": [
+    "yun2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 3335,
+   "pos": [
+    "n",
+    "g",
+    "b"
+   ],
+   "topic": "weather",
+   "rarity": "epic",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "(classical) to say",
+    "cloud"
+   ],
+   "meaning_vi": "mây",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "在",
+      "word_id": "zai4_5728",
+      "pinyin": "zài"
+     },
+     {
+      "t": "看",
+      "word_id": "kan4_770b",
+      "pinyin": "kàn"
+     },
+     {
+      "t": "云",
+      "word_id": "yun2_4e91",
+      "pinyin": "yún"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi đang ngắm mây."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "朵",
+     "pinyin_numeric": "duo3",
+     "pinyin": "duǒ"
+    }
+   ],
+   "chars": [
+    {
+     "char": "云",
+     "radical": "二",
+     "decomposition": "⿱二厶",
+     "components": [
+      "二",
+      "厶"
+     ],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A cloud"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yun2",
+     "Yun2",
+     "yun2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "cao3_8349",
+   "hanzi": "草",
+   "traditional": "艸",
+   "pinyin": "cǎo",
+   "pinyin_numeric": "cao3",
+   "readings_all": [
+    "cao3",
+    "cao4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2467,
+   "pos": [
+    "n"
+   ],
+   "topic": "nature",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "grass",
+    "straw",
+    "manuscript",
+    "draft (of a document)",
+    "careless"
+   ],
+   "meaning_vi": "cỏ",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "草",
+      "word_id": "cao3_8349",
+      "pinyin": "cǎo"
+     },
+     {
+      "t": "是",
+      "word_id": "shi4_662f",
+      "pinyin": "shì"
+     },
+     {
+      "t": "绿",
+      "word_id": "lv4_7eff",
+      "pinyin": "lǜ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Cỏ màu xanh lá."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "棵",
+     "pinyin_numeric": "ke1",
+     "pinyin": "kē"
+    },
+    {
+     "hanzi": "撮",
+     "pinyin_numeric": "zuo3",
+     "pinyin": "zuǒ"
+    },
+    {
+     "hanzi": "株",
+     "pinyin_numeric": "zhu1",
+     "pinyin": "zhū"
+    },
+    {
+     "hanzi": "根",
+     "pinyin_numeric": "gen1",
+     "pinyin": "gēn"
+    }
+   ],
+   "chars": [
+    {
+     "char": "草",
+     "radical": "艹",
+     "decomposition": "⿱艹早",
+     "components": [
+      "艹",
+      "早"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "grass"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "cao3",
+     "cao3",
+     "cao4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "tai4yang5_592a",
+   "hanzi": "太阳",
+   "traditional": "太陽",
+   "pinyin": "tàiyang",
+   "pinyin_numeric": "tai4 yang5",
+   "readings_all": [
+    "tai4 yang5"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2001,
+   "pos": [
+    "n"
+   ],
+   "topic": "nature",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "sun"
+   ],
+   "meaning_vi": "mặt trời",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "太阳",
+      "word_id": "tai4yang5_592a",
+      "pinyin": "tàiyang"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "热",
+      "word_id": "re4_70ed",
+      "pinyin": "rè"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Mặt trời rất nóng."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "太",
+     "radical": "大",
+     "decomposition": "⿵大丶",
+     "components": [
+      "大",
+      "丶"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A giant 大 with a normal-sized man 丶 for scale"
+    },
+    {
+     "char": "阳",
+     "radical": "阝",
+     "decomposition": "⿰阝日",
+     "components": [
+      "阝",
+      "日"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "The place 阝 of the sun 日; compare 阴"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "tai4 yang5"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yue4liang5_6708",
+   "hanzi": "月亮",
+   "traditional": "月亮",
+   "pinyin": "yuèliang",
+   "pinyin_numeric": "yue4 liang5",
+   "readings_all": [
+    "yue4 liang5"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 4781,
+   "pos": [
+    "n"
+   ],
+   "topic": "nature",
+   "rarity": "epic",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "the moon"
+   ],
+   "meaning_vi": "mặt trăng",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "月亮",
+      "word_id": "yue4liang5_6708",
+      "pinyin": "yuèliang"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "漂亮",
+      "word_id": "piao4liang5_6f02",
+      "pinyin": "piàoliang"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Mặt trăng rất đẹp."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "月",
+     "radical": "月",
+     "decomposition": "⿵冂二",
+     "components": [
+      "冂",
+      "二"
+     ],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A crescent moon"
+    },
+    {
+     "char": "亮",
+     "radical": "亠",
+     "decomposition": "⿳亠口⿱冖几",
+     "components": [
+      "亠",
+      "口",
+      "冖",
+      "几"
+     ],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A lit oil lamp"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yue4 liang5"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "xing1xing5_661f",
+   "hanzi": "星星",
+   "traditional": "星星",
+   "pinyin": "xīngxing",
+   "pinyin_numeric": "xing1 xing5",
+   "readings_all": [
+    "xing1 xing5"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 4903,
+   "pos": [
+    "n"
+   ],
+   "topic": "nature",
+   "rarity": "epic",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "(coll.) a star; the stars in the sky"
+   ],
+   "meaning_vi": "ngôi sao",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "看",
+      "word_id": "kan4_770b",
+      "pinyin": "kàn"
+     },
+     {
+      "t": "星星",
+      "word_id": "xing1xing5_661f",
+      "pinyin": "xīngxing"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích ngắm sao."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "星",
+     "radical": "日",
+     "decomposition": "⿱日生",
+     "components": [
+      "日",
+      "生"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "sun"
+    },
+    {
+     "char": "星",
+     "radical": "日",
+     "decomposition": "⿱日生",
+     "components": [
+      "日",
+      "生"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "sun"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "xing1 xing5"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "kong1qi4_7a7a",
+   "hanzi": "空气",
+   "traditional": "空氣",
+   "pinyin": "kōngqì",
+   "pinyin_numeric": "kong1 qi4",
+   "readings_all": [
+    "kong1 qi4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2055,
+   "pos": [
+    "n"
+   ],
+   "topic": "nature",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "air",
+    "atmosphere"
+   ],
+   "meaning_vi": "không khí",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "空气",
+      "word_id": "kong1qi4_7a7a",
+      "pinyin": "kōngqì"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "好",
+      "word_id": "hao3_597d",
+      "pinyin": "hǎo"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Không khí rất trong lành."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "空",
+     "radical": "穴",
+     "decomposition": "⿱穴工",
+     "components": [
+      "穴",
+      "工"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "cave"
+    },
+    {
+     "char": "气",
+     "radical": "气",
+     "decomposition": "⿱亻？",
+     "components": [],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A person 亻 breathing air"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "kong1 qi4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "chun1tian1_6625",
+   "hanzi": "春天",
+   "traditional": "春天",
+   "pinyin": "chūntiān",
+   "pinyin_numeric": "chun1 tian1",
+   "readings_all": [
+    "chun1 tian1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 4411,
+   "pos": [
+    "t"
+   ],
+   "topic": "time",
+   "rarity": "epic",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "spring (season)"
+   ],
+   "meaning_vi": "mùa xuân",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "春天",
+      "word_id": "chun1tian1_6625",
+      "pinyin": "chūntiān"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "花",
+      "word_id": "hua1_82b1",
+      "pinyin": "huā"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "漂亮",
+      "word_id": "piao4liang5_6f02",
+      "pinyin": "piàoliang"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Hoa mùa xuân rất đẹp."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "春",
+     "radical": "日",
+     "decomposition": "⿱？日",
+     "components": [],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "sun"
+    },
+    {
+     "char": "天",
+     "radical": "大",
+     "decomposition": "⿱一大",
+     "components": [
+      "一",
+      "大"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "The heavens 一 above a man 大"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "chun1 tian1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "xia4tian1_590f",
+   "hanzi": "夏天",
+   "traditional": "夏天",
+   "pinyin": "xiàtiān",
+   "pinyin_numeric": "xia4 tian1",
+   "readings_all": [
+    "xia4 tian1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2925,
+   "pos": [
+    "t"
+   ],
+   "topic": "time",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "summer"
+   ],
+   "meaning_vi": "mùa hè",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "夏天",
+      "word_id": "xia4tian1_590f",
+      "pinyin": "xiàtiān"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "热",
+      "word_id": "re4_70ed",
+      "pinyin": "rè"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Mùa hè rất nóng."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "夏",
+     "radical": "夊",
+     "decomposition": "⿳一自夂",
+     "components": [
+      "一",
+      "自",
+      "夂"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    },
+    {
+     "char": "天",
+     "radical": "大",
+     "decomposition": "⿱一大",
+     "components": [
+      "一",
+      "大"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "The heavens 一 above a man 大"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "xia4 tian1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "qiu1tian1_79cb",
+   "hanzi": "秋天",
+   "traditional": "秋天",
+   "pinyin": "qiūtiān",
+   "pinyin_numeric": "qiu1 tian1",
+   "readings_all": [
+    "qiu1 tian1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 7055,
+   "pos": [
+    "t"
+   ],
+   "topic": "time",
+   "rarity": "epic",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "autumn"
+   ],
+   "meaning_vi": "mùa thu",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "秋天",
+      "word_id": "qiu1tian1_79cb",
+      "pinyin": "qiūtiān"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích mùa thu."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "秋",
+     "radical": "禾",
+     "decomposition": "⿰禾火",
+     "components": [
+      "禾",
+      "火"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "The time of year when farmers would burn 禾 crops 火"
+    },
+    {
+     "char": "天",
+     "radical": "大",
+     "decomposition": "⿱一大",
+     "components": [
+      "一",
+      "大"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "The heavens 一 above a man 大"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "qiu1 tian1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "dong1tian1_51ac",
+   "hanzi": "冬天",
+   "traditional": "冬天",
+   "pinyin": "dōngtiān",
+   "pinyin_numeric": "dong1 tian1",
+   "readings_all": [
+    "dong1 tian1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 3291,
+   "pos": [
+    "t"
+   ],
+   "topic": "time",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "winter"
+   ],
+   "meaning_vi": "mùa đông",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "冬天",
+      "word_id": "dong1tian1_51ac",
+      "pinyin": "dōngtiān"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "冷",
+      "word_id": "leng3_51b7",
+      "pinyin": "lěng"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Mùa đông rất lạnh."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "冬",
+     "radical": "⺀",
+     "decomposition": "⿱夂⺀",
+     "components": [
+      "夂",
+      "⺀"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A man walking 夂 on ice ⺀"
+    },
+    {
+     "char": "天",
+     "radical": "大",
+     "decomposition": "⿱一大",
+     "components": [
+      "一",
+      "大"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "The heavens 一 above a man 大"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "dong1 tian1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "zhou1mo4_5468",
+   "hanzi": "周末",
+   "traditional": "週末",
+   "pinyin": "zhōumò",
+   "pinyin_numeric": "zhou1 mo4",
+   "readings_all": [
+    "zhou1 mo4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1269,
+   "pos": [
+    "t"
+   ],
+   "topic": "time",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "weekend"
+   ],
+   "meaning_vi": "cuối tuần",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "周末",
+      "word_id": "zhou1mo4_5468",
+      "pinyin": "zhōumò"
+     },
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "在",
+      "word_id": "zai4_5728",
+      "pinyin": "zài"
+     },
+     {
+      "t": "家",
+      "word_id": "jia1_5bb6",
+      "pinyin": "jiā"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Cuối tuần tôi ở nhà."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "周",
+     "radical": "口",
+     "decomposition": "⿵冂⿱土口",
+     "components": [
+      "冂",
+      "土",
+      "口"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Border 冂 around land 土 with a well 口"
+    },
+    {
+     "char": "末",
+     "radical": "木",
+     "decomposition": "⿻木一",
+     "components": [
+      "木",
+      "一"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "The top 一 of a tree 木"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "zhou1 mo4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "fen1zhong1_5206",
+   "hanzi": "分钟",
+   "traditional": "分鐘",
+   "pinyin": "fēnzhōng",
+   "pinyin_numeric": "fen1 zhong1",
+   "readings_all": [
+    "fen1 zhong1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 465,
+   "pos": [
+    "qt"
+   ],
+   "topic": "time",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "minute"
+   ],
+   "meaning_vi": "phút",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "学习",
+      "word_id": "xue2xi2_5b66",
+      "pinyin": "xuéxí"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "十",
+      "word_id": "shi2_5341",
+      "pinyin": "shí"
+     },
+     {
+      "t": "分钟",
+      "word_id": "fen1zhong1_5206",
+      "pinyin": "fēnzhōng"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi đã học mười phút."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "分",
+     "radical": "刀",
+     "decomposition": "⿱八刀",
+     "components": [
+      "八",
+      "刀"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Pieces 八 being further subdivided with a knife 刀 "
+    },
+    {
+     "char": "钟",
+     "radical": "钅",
+     "decomposition": "⿰钅中",
+     "components": [
+      "钅",
+      "中"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "metal"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "fen1 zhong1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "hong2_7ea2",
+   "hanzi": "红",
+   "traditional": "紅",
+   "pinyin": "hóng",
+   "pinyin_numeric": "hong2",
+   "readings_all": [
+    "hong2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 794,
+   "pos": [
+    "a",
+    "v",
+    "g"
+   ],
+   "topic": "colors",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "red",
+    "popular",
+    "revolutionary",
+    "bonus"
+   ],
+   "meaning_vi": "đỏ",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "花",
+      "word_id": "hua1_82b1",
+      "pinyin": "huā"
+     },
+     {
+      "t": "是",
+      "word_id": "shi4_662f",
+      "pinyin": "shì"
+     },
+     {
+      "t": "红",
+      "word_id": "hong2_7ea2",
+      "pinyin": "hóng"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Hoa màu đỏ."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "红",
+     "radical": "纟",
+     "decomposition": "⿰纟工",
+     "components": [
+      "纟",
+      "工"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "silk"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "Hong2",
+     "hong2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "hei1_9ed1",
+   "hanzi": "黑",
+   "traditional": "黑",
+   "pinyin": "hēi",
+   "pinyin_numeric": "hei1",
+   "readings_all": [
+    "hei1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 724,
+   "pos": [
+    "a",
+    "g",
+    "b"
+   ],
+   "topic": "colors",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "black",
+    "dark",
+    "sinister",
+    "secret",
+    "shady"
+   ],
+   "meaning_vi": "đen; tối",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "猫",
+      "word_id": "mao1_732b",
+      "pinyin": "māo"
+     },
+     {
+      "t": "是",
+      "word_id": "shi4_662f",
+      "pinyin": "shì"
+     },
+     {
+      "t": "黑",
+      "word_id": "hei1_9ed1",
+      "pinyin": "hēi"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Con mèo của tôi màu đen."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "黑",
+     "radical": "黑",
+     "decomposition": "⿱？灬",
+     "components": [],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A man's face blacked by soot from a fire 灬"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "Hei1",
+     "hei1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "lan2_84dd",
+   "hanzi": "蓝",
+   "traditional": "藍",
+   "pinyin": "lán",
+   "pinyin_numeric": "lan2",
+   "readings_all": [
+    "lan2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1615,
+   "pos": [
+    "a",
+    "g"
+   ],
+   "topic": "colors",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "blue",
+    "indigo plant"
+   ],
+   "meaning_vi": "xanh lam, xanh da trời",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "海",
+      "word_id": "hai3_6d77",
+      "pinyin": "hǎi"
+     },
+     {
+      "t": "是",
+      "word_id": "shi4_662f",
+      "pinyin": "shì"
+     },
+     {
+      "t": "蓝",
+      "word_id": "lan2_84dd",
+      "pinyin": "lán"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Biển màu xanh lam."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "蓝",
+     "radical": "艹",
+     "decomposition": "⿱艹监",
+     "components": [
+      "艹",
+      "监"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "plant"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "Lan2",
+     "lan2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "huang2_9ec4",
+   "hanzi": "黄",
+   "traditional": "黃",
+   "pinyin": "huáng",
+   "pinyin_numeric": "huang2",
+   "readings_all": [
+    "huang2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1809,
+   "pos": [
+    "nr",
+    "a",
+    "b"
+   ],
+   "topic": "colors",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "yellow",
+    "pornographic",
+    "to fall through"
+   ],
+   "meaning_vi": "vàng (màu)",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "狗",
+      "word_id": "gou3_72d7",
+      "pinyin": "gǒu"
+     },
+     {
+      "t": "是",
+      "word_id": "shi4_662f",
+      "pinyin": "shì"
+     },
+     {
+      "t": "黄",
+      "word_id": "huang2_9ec4",
+      "pinyin": "huáng"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Con chó của tôi màu vàng."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "黄",
+     "radical": "黄",
+     "decomposition": "⿱？⿱由八",
+     "components": [],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A jade pendant"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "Huang2",
+     "huang2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "lv4_7eff",
+   "hanzi": "绿",
+   "traditional": "綠",
+   "pinyin": "lǜ",
+   "pinyin_numeric": "lü4",
+   "readings_all": [
+    "lü4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2608,
+   "pos": [
+    "a",
+    "an"
+   ],
+   "topic": "colors",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "green"
+   ],
+   "meaning_vi": "xanh lá",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "树",
+      "word_id": "shu4_6811",
+      "pinyin": "shù"
+     },
+     {
+      "t": "是",
+      "word_id": "shi4_662f",
+      "pinyin": "shì"
+     },
+     {
+      "t": "绿",
+      "word_id": "lv4_7eff",
+      "pinyin": "lǜ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Cây màu xanh lá."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "绿",
+     "radical": "纟",
+     "decomposition": "⿰纟录",
+     "components": [
+      "纟",
+      "录"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "silk"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "lü4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yan2se4_989c",
+   "hanzi": "颜色",
+   "traditional": "顏色",
+   "pinyin": "yánsè",
+   "pinyin_numeric": "yan2 se4",
+   "readings_all": [
+    "yan2 se4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1880,
+   "pos": [
+    "n"
+   ],
+   "topic": "colors",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "color",
+    "countenance",
+    "appearance",
+    "facial expression",
+    "pigment"
+   ],
+   "meaning_vi": "màu sắc",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "颜色",
+      "word_id": "yan2se4_989c",
+      "pinyin": "yánsè"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "漂亮",
+      "word_id": "piao4liang5_6f02",
+      "pinyin": "piàoliang"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Màu sắc rất đẹp."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "颜",
+     "radical": "页",
+     "decomposition": "⿰彦页",
+     "components": [
+      "彦",
+      "页"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "head"
+    },
+    {
+     "char": "色",
+     "radical": "色",
+     "decomposition": "⿱⺈巴",
+     "components": [
+      "⺈",
+      "巴"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "What a person ⺈ desires 巴"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yan2 se4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "lian3_8138",
+   "hanzi": "脸",
+   "traditional": "臉",
+   "pinyin": "liǎn",
+   "pinyin_numeric": "lian3",
+   "readings_all": [
+    "lian3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 629,
+   "pos": [
+    "n",
+    "q"
+   ],
+   "topic": "body",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "face"
+   ],
+   "meaning_vi": "mặt, khuôn mặt",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "他",
+      "word_id": "ta1_4ed6",
+      "pinyin": "tā"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "脸",
+      "word_id": "lian3_8138",
+      "pinyin": "liǎn"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "红",
+      "word_id": "hong2_7ea2",
+      "pinyin": "hóng"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Mặt anh ấy rất đỏ."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "张",
+     "pinyin_numeric": "zhang1",
+     "pinyin": "zhāng"
+    },
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "脸",
+     "radical": "⺼",
+     "decomposition": "⿰⺼佥",
+     "components": [
+      "⺼",
+      "佥"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "flesh"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "lian3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yan3jing5_773c",
+   "hanzi": "眼睛",
+   "traditional": "眼睛",
+   "pinyin": "yǎnjing",
+   "pinyin_numeric": "yan3 jing5",
+   "readings_all": [
+    "yan3 jing5"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 814,
+   "pos": [
+    "n"
+   ],
+   "topic": "body",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "eye"
+   ],
+   "meaning_vi": "mắt",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "妈妈",
+      "word_id": "ma1ma5_5988",
+      "pinyin": "māma"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "眼睛",
+      "word_id": "yan3jing5_773c",
+      "pinyin": "yǎnjing"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "漂亮",
+      "word_id": "piao4liang5_6f02",
+      "pinyin": "piàoliang"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Mắt của mẹ rất đẹp."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "只",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    },
+    {
+     "hanzi": "双",
+     "pinyin_numeric": "shuang1",
+     "pinyin": "shuāng"
+    }
+   ],
+   "chars": [
+    {
+     "char": "眼",
+     "radical": "目",
+     "decomposition": "⿰目艮",
+     "components": [
+      "目",
+      "艮"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "eye"
+    },
+    {
+     "char": "睛",
+     "radical": "目",
+     "decomposition": "⿰目青",
+     "components": [
+      "目",
+      "青"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "eye"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yan3 jing5"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "zui3_5634",
+   "hanzi": "嘴",
+   "traditional": "嘴",
+   "pinyin": "zuǐ",
+   "pinyin_numeric": "zui3",
+   "readings_all": [
+    "zui3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1059,
+   "pos": [
+    "n"
+   ],
+   "topic": "body",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "mouth",
+    "beak",
+    "nozzle",
+    "spout (of teapot etc)"
+   ],
+   "meaning_vi": "miệng",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "他",
+      "word_id": "ta1_4ed6",
+      "pinyin": "tā"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "嘴",
+      "word_id": "zui3_5634",
+      "pinyin": "zuǐ"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "大",
+      "word_id": "da4_5927",
+      "pinyin": "dà"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Miệng anh ấy rất to."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "张",
+     "pinyin_numeric": "zhang1",
+     "pinyin": "zhāng"
+    },
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "嘴",
+     "radical": "口",
+     "decomposition": "⿰口觜",
+     "components": [
+      "口",
+      "觜"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "mouth"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "zui3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "tui3_817f",
+   "hanzi": "腿",
+   "traditional": "腿",
+   "pinyin": "tuǐ",
+   "pinyin_numeric": "tui3",
+   "readings_all": [
+    "tui3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1216,
+   "pos": [
+    "n"
+   ],
+   "topic": "body",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "leg",
+    "hip bone"
+   ],
+   "meaning_vi": "chân (từ hông xuống)",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "狗",
+      "word_id": "gou3_72d7",
+      "pinyin": "gǒu"
+     },
+     {
+      "t": "有",
+      "word_id": "you3_6709",
+      "pinyin": "yǒu"
+     },
+     {
+      "t": "四",
+      "word_id": "si4_56db",
+      "pinyin": "sì"
+     },
+     {
+      "t": "条",
+      "word_id": "tiao2_6761",
+      "pinyin": "tiáo"
+     },
+     {
+      "t": "腿",
+      "word_id": "tui3_817f",
+      "pinyin": "tuǐ"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Con chó của tôi có bốn cái chân."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "条",
+     "pinyin_numeric": "tiao2",
+     "pinyin": "tiáo"
+    }
+   ],
+   "chars": [
+    {
+     "char": "腿",
+     "radical": "⺼",
+     "decomposition": "⿰⺼退",
+     "components": [
+      "⺼",
+      "退"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Flesh ⺼ used to walk 退; 退 also provides the pronunciation"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "tui3",
+     "tui3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "tou2fa5_5934",
+   "hanzi": "头发",
+   "traditional": "頭髮",
+   "pinyin": "tóufa",
+   "pinyin_numeric": "tou2 fa5",
+   "readings_all": [
+    "tou2 fa5"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1533,
+   "pos": [
+    "n"
+   ],
+   "topic": "body",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "hair (on the head)"
+   ],
+   "meaning_vi": "tóc",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "姐姐",
+      "word_id": "jie3jie5_59d0",
+      "pinyin": "jiějie"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "头发",
+      "word_id": "tou2fa5_5934",
+      "pinyin": "tóufa"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "黑",
+      "word_id": "hei1_9ed1",
+      "pinyin": "hēi"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tóc chị gái rất đen."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "头",
+     "radical": "大",
+     "decomposition": "⿻⺀大",
+     "components": [
+      "⺀",
+      "大"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "high"
+    },
+    {
+     "char": "发",
+     "radical": "又",
+     "decomposition": "⿸？又",
+     "components": [],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "tou2 fa5"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "jian4kang1_5065",
+   "hanzi": "健康",
+   "traditional": "健康",
+   "pinyin": "jiànkāng",
+   "pinyin_numeric": "jian4 kang1",
+   "readings_all": [
+    "jian4 kang1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 952,
+   "pos": [
+    "a",
+    "an",
+    "ad"
+   ],
+   "topic": "body",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "health",
+    "healthy"
+   ],
+   "meaning_vi": "khỏe mạnh; sức khỏe",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "爸爸",
+      "word_id": "ba4ba5_7238",
+      "pinyin": "bàba"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "健康",
+      "word_id": "jian4kang1_5065",
+      "pinyin": "jiànkāng"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Bố rất khỏe mạnh."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "健",
+     "radical": "亻",
+     "decomposition": "⿰亻建",
+     "components": [
+      "亻",
+      "建"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Someone 亻 who can build 建 things; 建 also provides the pronunciation"
+    },
+    {
+     "char": "康",
+     "radical": "广",
+     "decomposition": "⿸广隶",
+     "components": [
+      "广",
+      "隶"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A home 广 with a servant 隶"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "jian4 kang1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "kuai4le4_5feb",
+   "hanzi": "快乐",
+   "traditional": "快樂",
+   "pinyin": "kuàilè",
+   "pinyin_numeric": "kuai4 le4",
+   "readings_all": [
+    "kuai4 le4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 637,
+   "pos": [
+    "a",
+    "an"
+   ],
+   "topic": "feelings",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "happy; joyful"
+   ],
+   "meaning_vi": "vui vẻ, hạnh phúc",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "快乐",
+      "word_id": "kuai4le4_5feb",
+      "pinyin": "kuàilè"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi rất vui."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "快",
+     "radical": "忄",
+     "decomposition": "⿰忄夬",
+     "components": [
+      "忄",
+      "夬"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A decisive 夬 will 忄; 夬 also provides the pronunciation"
+    },
+    {
+     "char": "乐",
+     "radical": "丿",
+     "decomposition": "⿻⿱丿？小",
+     "components": [],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Simplified form of 樂, a musical instrument with wood 木, strings 幺, and a pick 白"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "kuai4 le4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "kai1xin1_5f00",
+   "hanzi": "开心",
+   "traditional": "開心",
+   "pinyin": "kāixīn",
+   "pinyin_numeric": "kai1 xin1",
+   "readings_all": [
+    "kai1 xin1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 667,
+   "pos": [
+    "a",
+    "v",
+    "an"
+   ],
+   "topic": "feelings",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to feel happy",
+    "to rejoice",
+    "to have a great time",
+    "to make fun of sb"
+   ],
+   "meaning_vi": "vui, vui vẻ",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "他",
+      "word_id": "ta1_4ed6",
+      "pinyin": "tā"
+     },
+     {
+      "t": "不",
+      "word_id": "bu4_4e0d",
+      "pinyin": "bù"
+     },
+     {
+      "t": "开心",
+      "word_id": "kai1xin1_5f00",
+      "pinyin": "kāixīn"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Anh ấy không vui."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "开",
+     "radical": "廾",
+     "decomposition": "⿱一廾",
+     "components": [
+      "一",
+      "廾"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Simplified form of 開; hands 廾 lifting the latch 一 of a door"
+    },
+    {
+     "char": "心",
+     "radical": "心",
+     "decomposition": "？",
+     "components": [],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A heart"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "kai1 xin1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "ku1_54ed",
+   "hanzi": "哭",
+   "traditional": "哭",
+   "pinyin": "kū",
+   "pinyin_numeric": "ku1",
+   "readings_all": [
+    "ku1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 898,
+   "pos": [
+    "v"
+   ],
+   "topic": "feelings",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to cry; to weep"
+   ],
+   "meaning_vi": "khóc",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "妹妹",
+      "word_id": "mei4mei5_59b9",
+      "pinyin": "mèimei"
+     },
+     {
+      "t": "在",
+      "word_id": "zai4_5728",
+      "pinyin": "zài"
+     },
+     {
+      "t": "哭",
+      "word_id": "ku1_54ed",
+      "pinyin": "kū"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Em gái đang khóc."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "哭",
+     "radical": "口",
+     "decomposition": "⿱⿰口口犬",
+     "components": [
+      "口",
+      "口",
+      "犬"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "To shed a tear from your eyes 口 over a person 犬"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "ku1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "pa4_6015",
+   "hanzi": "怕",
+   "traditional": "怕",
+   "pinyin": "pà",
+   "pinyin_numeric": "pa4",
+   "readings_all": [
+    "pa4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 899,
+   "pos": [
+    "v"
+   ],
+   "topic": "feelings",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to be afraid",
+    "to fear",
+    "to dread",
+    "to be unable to endure",
+    "perhaps"
+   ],
+   "meaning_vi": "sợ",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "怕",
+      "word_id": "pa4_6015",
+      "pinyin": "pà"
+     },
+     {
+      "t": "狗",
+      "word_id": "gou3_72d7",
+      "pinyin": "gǒu"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi sợ chó."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "怕",
+     "radical": "忄",
+     "decomposition": "⿰忄白",
+     "components": [
+      "忄",
+      "白"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "heart"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "Pa4",
+     "pa4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "ke3ai4_53ef",
+   "hanzi": "可爱",
+   "traditional": "可愛",
+   "pinyin": "kě'ài",
+   "pinyin_numeric": "ke3 ai4",
+   "readings_all": [
+    "ke3 ai4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 799,
+   "pos": [
+    "a"
+   ],
+   "topic": "feelings",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "adorable",
+    "cute",
+    "lovely"
+   ],
+   "meaning_vi": "đáng yêu, dễ thương",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "猫",
+      "word_id": "mao1_732b",
+      "pinyin": "māo"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "可爱",
+      "word_id": "ke3ai4_53ef",
+      "pinyin": "kě'ài"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Mèo rất đáng yêu."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "可",
+     "radical": "口",
+     "decomposition": "⿻丁口",
+     "components": [
+      "丁",
+      "口"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "vigorous"
+    },
+    {
+     "char": "爱",
+     "radical": "爫",
+     "decomposition": "⿱⿱爫冖友",
+     "components": [
+      "爫",
+      "冖",
+      "友"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "To bring a friend 友 into one's house 冖"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "ke3 ai4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "piao4liang5_6f02",
+   "hanzi": "漂亮",
+   "traditional": "漂亮",
+   "pinyin": "piàoliang",
+   "pinyin_numeric": "piao4 liang5",
+   "readings_all": [
+    "piao4 liang5"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 915,
+   "pos": [
+    "a"
+   ],
+   "topic": "feelings",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "pretty; beautiful"
+   ],
+   "meaning_vi": "đẹp, xinh",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "花",
+      "word_id": "hua1_82b1",
+      "pinyin": "huā"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "漂亮",
+      "word_id": "piao4liang5_6f02",
+      "pinyin": "piàoliang"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Hoa rất đẹp."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "漂",
+     "radical": "氵",
+     "decomposition": "⿰氵票",
+     "components": [
+      "氵",
+      "票"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "water"
+    },
+    {
+     "char": "亮",
+     "radical": "亠",
+     "decomposition": "⿳亠口⿱冖几",
+     "components": [
+      "亠",
+      "口",
+      "冖",
+      "几"
+     ],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A lit oil lamp"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "piao4 liang5"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yin1yue4_97f3",
+   "hanzi": "音乐",
+   "traditional": "音樂",
+   "pinyin": "yīnyuè",
+   "pinyin_numeric": "yin1 yue4",
+   "readings_all": [
+    "yin1 yue4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 742,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "music"
+   ],
+   "meaning_vi": "âm nhạc",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "听",
+      "word_id": "ting1_542c",
+      "pinyin": "tīng"
+     },
+     {
+      "t": "音乐",
+      "word_id": "yin1yue4_97f3",
+      "pinyin": "yīnyuè"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích nghe nhạc."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "张",
+     "pinyin_numeric": "zhang1",
+     "pinyin": "zhāng"
+    },
+    {
+     "hanzi": "曲",
+     "pinyin_numeric": "qu3",
+     "pinyin": "qǔ"
+    },
+    {
+     "hanzi": "段",
+     "pinyin_numeric": "duan4",
+     "pinyin": "duàn"
+    }
+   ],
+   "chars": [
+    {
+     "char": "音",
+     "radical": "音",
+     "decomposition": "⿱立日",
+     "components": [
+      "立",
+      "日"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A tongue 立 forming a sound in the mouth 日"
+    },
+    {
+     "char": "乐",
+     "radical": "丿",
+     "decomposition": "⿻⿱丿？小",
+     "components": [],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Simplified form of 樂, a musical instrument with wood 木, strings 幺, and a pick 白"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yin1 yue4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "zhao4pian4_7167",
+   "hanzi": "照片",
+   "traditional": "照片",
+   "pinyin": "zhàopiàn",
+   "pinyin_numeric": "zhao4 pian4",
+   "readings_all": [
+    "zhao4 pian4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 766,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "photograph",
+    "picture"
+   ],
+   "meaning_vi": "ảnh, bức ảnh",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "在",
+      "word_id": "zai4_5728",
+      "pinyin": "zài"
+     },
+     {
+      "t": "看",
+      "word_id": "kan4_770b",
+      "pinyin": "kàn"
+     },
+     {
+      "t": "照片",
+      "word_id": "zhao4pian4_7167",
+      "pinyin": "zhàopiàn"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi đang xem ảnh."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "张",
+     "pinyin_numeric": "zhang1",
+     "pinyin": "zhāng"
+    },
+    {
+     "hanzi": "套",
+     "pinyin_numeric": "tao4",
+     "pinyin": "tào"
+    },
+    {
+     "hanzi": "幅",
+     "pinyin_numeric": "fu2",
+     "pinyin": "fú"
+    }
+   ],
+   "chars": [
+    {
+     "char": "照",
+     "radical": "灬",
+     "decomposition": "⿱昭灬",
+     "components": [
+      "昭",
+      "灬"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "fire"
+    },
+    {
+     "char": "片",
+     "radical": "片",
+     "decomposition": "⿸？？",
+     "components": [],
+     "etymology_type": "pictographic",
+     "etymology_hint": "Half of a tree trunk; compare 爿"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "zhao4 pian4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yin2hang2_94f6",
+   "hanzi": "银行",
+   "traditional": "銀行",
+   "pinyin": "yínháng",
+   "pinyin_numeric": "yin2 hang2",
+   "readings_all": [
+    "yin2 hang2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 769,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "bank"
+   ],
+   "meaning_vi": "ngân hàng",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "爸爸",
+      "word_id": "ba4ba5_7238",
+      "pinyin": "bàba"
+     },
+     {
+      "t": "在",
+      "word_id": "zai4_5728",
+      "pinyin": "zài"
+     },
+     {
+      "t": "银行",
+      "word_id": "yin2hang2_94f6",
+      "pinyin": "yínháng"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Bố đang ở ngân hàng."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "家",
+     "pinyin_numeric": "jia1",
+     "pinyin": "jiā"
+    },
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "银",
+     "radical": "钅",
+     "decomposition": "⿰钅艮",
+     "components": [
+      "钅",
+      "艮"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "money"
+    },
+    {
+     "char": "行",
+     "radical": "行",
+     "decomposition": "⿰彳亍",
+     "components": [
+      "彳",
+      "亍"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "To take small steps 亍 with one's feet 彳"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yin2 hang2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "gu4shi5_6545",
+   "hanzi": "故事",
+   "traditional": "故事",
+   "pinyin": "gùshi",
+   "pinyin_numeric": "gu4 shi5",
+   "readings_all": [
+    "gu4 shi4",
+    "gu4 shi5"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 772,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "narrative; story; tale"
+   ],
+   "meaning_vi": "câu chuyện",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "听",
+      "word_id": "ting1_542c",
+      "pinyin": "tīng"
+     },
+     {
+      "t": "故事",
+      "word_id": "gu4shi5_6545",
+      "pinyin": "gùshi"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích nghe kể chuyện."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "故",
+     "radical": "攵",
+     "decomposition": "⿰古攵",
+     "components": [
+      "古",
+      "攵"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "tap"
+    },
+    {
+     "char": "事",
+     "radical": "亅",
+     "decomposition": "⿻⿳一口彐亅",
+     "components": [
+      "一",
+      "口",
+      "彐",
+      "亅"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "gu4 shi4",
+     "gu4 shi5"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yao4_836f",
+   "hanzi": "药",
+   "traditional": "藥",
+   "pinyin": "yào",
+   "pinyin_numeric": "yao4",
+   "readings_all": [
+    "yao4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 701,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "medicine",
+    "drug",
+    "substance used for a specific purpose (e.g. poisoning, explosion, fermenting)",
+    "to poison"
+   ],
+   "meaning_vi": "thuốc",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "不",
+      "word_id": "bu4_4e0d",
+      "pinyin": "bù"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "吃",
+      "word_id": "chi1_5403",
+      "pinyin": "chī"
+     },
+     {
+      "t": "药",
+      "word_id": "yao4_836f",
+      "pinyin": "yào"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi không thích uống thuốc."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "种",
+     "pinyin_numeric": "zhong3",
+     "pinyin": "zhǒng"
+    },
+    {
+     "hanzi": "服",
+     "pinyin_numeric": "fu4",
+     "pinyin": "fù"
+    },
+    {
+     "hanzi": "味",
+     "pinyin_numeric": "wei4",
+     "pinyin": "wèi"
+    }
+   ],
+   "chars": [
+    {
+     "char": "药",
+     "radical": "艹",
+     "decomposition": "⿱艹约",
+     "components": [
+      "艹",
+      "约"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "plant"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yao4",
+     "yao4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "bi3_7b14",
+   "hanzi": "笔",
+   "traditional": "筆",
+   "pinyin": "bǐ",
+   "pinyin_numeric": "bi3",
+   "readings_all": [
+    "bi3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1245,
+   "pos": [
+    "q",
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "pen",
+    "pencil",
+    "writing brush",
+    "to write or compose",
+    "the strokes of Chinese characters"
+   ],
+   "meaning_vi": "bút",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "买",
+      "word_id": "mai3_4e70",
+      "pinyin": "mǎi"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "笔",
+      "word_id": "bi3_7b14",
+      "pinyin": "bǐ"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi đã mua bút."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "支",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    },
+    {
+     "hanzi": "枝",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    }
+   ],
+   "chars": [
+    {
+     "char": "笔",
+     "radical": "⺮",
+     "decomposition": "⿱⺮毛",
+     "components": [
+      "⺮",
+      "毛"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A bamboo rod ⺮ tipped with hair 毛"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "bi3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "xie2_978b",
+   "hanzi": "鞋",
+   "traditional": "鞋",
+   "pinyin": "xié",
+   "pinyin_numeric": "xie2",
+   "readings_all": [
+    "xie2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1249,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "shoe"
+   ],
+   "meaning_vi": "giày",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "鞋",
+      "word_id": "xie2_978b",
+      "pinyin": "xié"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "小",
+      "word_id": "xiao3_5c0f",
+      "pinyin": "xiǎo"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Giày của tôi rất nhỏ."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "双",
+     "pinyin_numeric": "shuang1",
+     "pinyin": "shuāng"
+    },
+    {
+     "hanzi": "只",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    }
+   ],
+   "chars": [
+    {
+     "char": "鞋",
+     "radical": "革",
+     "decomposition": "⿰革圭",
+     "components": [
+      "革",
+      "圭"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "leather"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "xie2",
+     "xie2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "chuan2_8239",
+   "hanzi": "船",
+   "traditional": "舩",
+   "pinyin": "chuán",
+   "pinyin_numeric": "chuan2",
+   "readings_all": [
+    "chuan2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1346,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "boat",
+    "vessel",
+    "ship"
+   ],
+   "meaning_vi": "thuyền, tàu thủy",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "坐",
+      "word_id": "zuo4_5750",
+      "pinyin": "zuò"
+     },
+     {
+      "t": "船",
+      "word_id": "chuan2_8239",
+      "pinyin": "chuán"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích đi thuyền."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "条",
+     "pinyin_numeric": "tiao2",
+     "pinyin": "tiáo"
+    },
+    {
+     "hanzi": "艘",
+     "pinyin_numeric": "sou1",
+     "pinyin": "sōu"
+    },
+    {
+     "hanzi": "只",
+     "pinyin_numeric": "zhi1",
+     "pinyin": "zhī"
+    }
+   ],
+   "chars": [
+    {
+     "char": "船",
+     "radical": "舟",
+     "decomposition": "⿰舟⿱几口",
+     "components": [
+      "舟",
+      "几",
+      "口"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "ship"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "chuan2",
+     "chuan2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "deng1_706f",
+   "hanzi": "灯",
+   "traditional": "燈",
+   "pinyin": "dēng",
+   "pinyin_numeric": "deng1",
+   "readings_all": [
+    "deng1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2001,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "lamp",
+    "light",
+    "lantern"
+   ],
+   "meaning_vi": "đèn",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "家",
+      "word_id": "jia1_5bb6",
+      "pinyin": "jiā"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "灯",
+      "word_id": "deng1_706f",
+      "pinyin": "dēng"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "漂亮",
+      "word_id": "piao4liang5_6f02",
+      "pinyin": "piàoliang"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Đèn nhà tôi rất đẹp."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "盏",
+     "pinyin_numeric": "zhan3",
+     "pinyin": "zhǎn"
+    }
+   ],
+   "chars": [
+    {
+     "char": "灯",
+     "radical": "火",
+     "decomposition": "⿰火丁",
+     "components": [
+      "火",
+      "丁"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "fire"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "deng1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "li3wu4_793c",
+   "hanzi": "礼物",
+   "traditional": "禮物",
+   "pinyin": "lǐwù",
+   "pinyin_numeric": "li3 wu4",
+   "readings_all": [
+    "li3 wu4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1673,
+   "pos": [
+    "n"
+   ],
+   "topic": "things",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "gift; present"
+   ],
+   "meaning_vi": "quà, món quà",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "谢谢",
+      "word_id": "xie4xie5_8c22",
+      "pinyin": "xièxie"
+     },
+     {
+      "t": "你",
+      "word_id": "ni3_4f60",
+      "pinyin": "nǐ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "礼物",
+      "word_id": "li3wu4_793c",
+      "pinyin": "lǐwù"
+     },
+     {
+      "t": "！",
+      "word_id": null,
+      "pinyin": "！"
+     }
+    ],
+    "vi": "Cảm ơn món quà của bạn!"
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "件",
+     "pinyin_numeric": "jian4",
+     "pinyin": "jiàn"
+    },
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    },
+    {
+     "hanzi": "份",
+     "pinyin_numeric": "fen4",
+     "pinyin": "fèn"
+    }
+   ],
+   "chars": [
+    {
+     "char": "礼",
+     "radical": "礻",
+     "decomposition": "⿰礻乚",
+     "components": [
+      "礻",
+      "乚"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "spirit"
+    },
+    {
+     "char": "物",
+     "radical": "牛",
+     "decomposition": "⿰牛勿",
+     "components": [
+      "牛",
+      "勿"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "ox"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "li3 wu4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "bang1zhu4_5e2e",
+   "hanzi": "帮助",
+   "traditional": "幫助",
+   "pinyin": "bāngzhù",
+   "pinyin_numeric": "bang1 zhu4",
+   "readings_all": [
+    "bang1 zhu4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 499,
+   "pos": [
+    "v",
+    "vn"
+   ],
+   "topic": "actions",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "assistance; aid",
+    "to help; to assist"
+   ],
+   "meaning_vi": "giúp đỡ; sự giúp đỡ",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "谢谢",
+      "word_id": "xie4xie5_8c22",
+      "pinyin": "xièxie"
+     },
+     {
+      "t": "你",
+      "word_id": "ni3_4f60",
+      "pinyin": "nǐ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "帮助",
+      "word_id": "bang1zhu4_5e2e",
+      "pinyin": "bāngzhù"
+     },
+     {
+      "t": "！",
+      "word_id": null,
+      "pinyin": "！"
+     }
+    ],
+    "vi": "Cảm ơn sự giúp đỡ của bạn!"
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "帮",
+     "radical": "巾",
+     "decomposition": "⿱邦巾",
+     "components": [
+      "邦",
+      "巾"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A nation's 邦 flag 巾; 邦 also provides the pronunciation"
+    },
+    {
+     "char": "助",
+     "radical": "力",
+     "decomposition": "⿰且力",
+     "components": [
+      "且",
+      "力"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "strength"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "bang1 zhu4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "li2kai1_79bb",
+   "hanzi": "离开",
+   "traditional": "離開",
+   "pinyin": "líkāi",
+   "pinyin_numeric": "li2 kai1",
+   "readings_all": [
+    "li2 kai1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 557,
+   "pos": [
+    "v"
+   ],
+   "topic": "actions",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to depart; to leave"
+   ],
+   "meaning_vi": "rời đi, rời khỏi",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "他",
+      "word_id": "ta1_4ed6",
+      "pinyin": "tā"
+     },
+     {
+      "t": "已经",
+      "word_id": "yi3jing1_5df2",
+      "pinyin": "yǐjīng"
+     },
+     {
+      "t": "离开",
+      "word_id": "li2kai1_79bb",
+      "pinyin": "líkāi"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Anh ấy đã rời đi rồi."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "离",
+     "radical": "禸",
+     "decomposition": "⿱⿱亠凶禸",
+     "components": [
+      "亠",
+      "凶",
+      "禸"
+     ],
+     "etymology_type": "pictographic",
+     "etymology_hint": "An animal standing straight; 亠 is the head"
+    },
+    {
+     "char": "开",
+     "radical": "廾",
+     "decomposition": "⿱一廾",
+     "components": [
+      "一",
+      "廾"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Simplified form of 開; hands 廾 lifting the latch 一 of a door"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "li2 kai1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "dong3_61c2",
+   "hanzi": "懂",
+   "traditional": "懂",
+   "pinyin": "dǒng",
+   "pinyin_numeric": "dong3",
+   "readings_all": [
+    "dong3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 669,
+   "pos": [
+    "v"
+   ],
+   "topic": "actions",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to understand",
+    "to comprehend"
+   ],
+   "meaning_vi": "hiểu",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "懂",
+      "word_id": "dong3_61c2",
+      "pinyin": "dǒng"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi hiểu rồi."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "懂",
+     "radical": "忄",
+     "decomposition": "⿰忄董",
+     "components": [
+      "忄",
+      "董"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "mind"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "dong3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "hua4_753b",
+   "hanzi": "画",
+   "traditional": "畫",
+   "pinyin": "huà",
+   "pinyin_numeric": "hua4",
+   "readings_all": [
+    "hua4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1119,
+   "pos": [
+    "n",
+    "v",
+    "q"
+   ],
+   "topic": "actions",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to draw; to paint",
+    "picture; painting",
+    "to draw (a line) (variant of 劃|划[hua4])",
+    "stroke of a Chinese character (variant of 劃|划[hua4])",
+    "(calligraphy) horizontal stroke (variant of 劃|划[hua4])"
+   ],
+   "meaning_vi": "vẽ; bức tranh",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "画",
+      "word_id": "hua4_753b",
+      "pinyin": "huà"
+     },
+     {
+      "t": "花",
+      "word_id": "hua1_82b1",
+      "pinyin": "huā"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích vẽ hoa."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "幅",
+     "pinyin_numeric": "fu2",
+     "pinyin": "fú"
+    },
+    {
+     "hanzi": "张",
+     "pinyin_numeric": "zhang1",
+     "pinyin": "zhāng"
+    }
+   ],
+   "chars": [
+    {
+     "char": "画",
+     "radical": "田",
+     "decomposition": "⿱一⿶凵田",
+     "components": [
+      "一",
+      "凵",
+      "田"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A painting on an easel; compare 畫, which includes the brush"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "hua4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yun4dong4_8fd0",
+   "hanzi": "运动",
+   "traditional": "運動",
+   "pinyin": "yùndòng",
+   "pinyin_numeric": "yun4 dong4",
+   "readings_all": [
+    "yun4 dong4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1138,
+   "pos": [
+    "vn",
+    "n",
+    "v"
+   ],
+   "topic": "actions",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to move",
+    "to exercise",
+    "sports",
+    "exercise",
+    "motion"
+   ],
+   "meaning_vi": "vận động, thể thao",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "爸爸",
+      "word_id": "ba4ba5_7238",
+      "pinyin": "bàba"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "运动",
+      "word_id": "yun4dong4_8fd0",
+      "pinyin": "yùndòng"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Bố thích chơi thể thao."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "场",
+     "pinyin_numeric": "chang3",
+     "pinyin": "chǎng"
+    }
+   ],
+   "chars": [
+    {
+     "char": "运",
+     "radical": "辶",
+     "decomposition": "⿺辶云",
+     "components": [
+      "辶",
+      "云"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "walk"
+    },
+    {
+     "char": "动",
+     "radical": "力",
+     "decomposition": "⿰云力",
+     "components": [
+      "云",
+      "力"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "strength"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yun4 dong4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "lv3you2_65c5",
+   "hanzi": "旅游",
+   "traditional": "旅遊",
+   "pinyin": "lǚyóu",
+   "pinyin_numeric": "lü3 you2",
+   "readings_all": [
+    "lü3 you2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 2534,
+   "pos": [
+    "vn",
+    "v"
+   ],
+   "topic": "actions",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "trip",
+    "journey",
+    "tourism",
+    "travel",
+    "tour"
+   ],
+   "meaning_vi": "du lịch",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "去",
+      "word_id": "qu4_53bb",
+      "pinyin": "qù"
+     },
+     {
+      "t": "中国",
+      "word_id": "zhong1guo2_4e2d",
+      "pinyin": "Zhōngguó"
+     },
+     {
+      "t": "旅游",
+      "word_id": "lv3you2_65c5",
+      "pinyin": "lǚyóu"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi đi du lịch Trung Quốc."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "旅",
+     "radical": "方",
+     "decomposition": "⿰方⿱？氏",
+     "components": [],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A man 方 traveling with a pack 氏 on his back"
+    },
+    {
+     "char": "游",
+     "radical": "氵",
+     "decomposition": "⿰氵斿",
+     "components": [
+      "氵",
+      "斿"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "To swim freely 斿 through the seas 氵"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "lü3 you2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "huan1ying2_6b22",
+   "hanzi": "欢迎",
+   "traditional": "歡迎",
+   "pinyin": "huānyíng",
+   "pinyin_numeric": "huan1 ying2",
+   "readings_all": [
+    "huan1 ying2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 796,
+   "pos": [
+    "v",
+    "vn"
+   ],
+   "topic": "actions",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to welcome",
+    "welcome"
+   ],
+   "meaning_vi": "chào mừng, hoan nghênh",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "欢迎",
+      "word_id": "huan1ying2_6b22",
+      "pinyin": "huānyíng"
+     },
+     {
+      "t": "你",
+      "word_id": "ni3_4f60",
+      "pinyin": "nǐ"
+     },
+     {
+      "t": "来",
+      "word_id": "lai2_6765",
+      "pinyin": "lái"
+     },
+     {
+      "t": "中国",
+      "word_id": "zhong1guo2_4e2d",
+      "pinyin": "Zhōngguó"
+     },
+     {
+      "t": "！",
+      "word_id": null,
+      "pinyin": "！"
+     }
+    ],
+    "vi": "Chào mừng bạn đến Trung Quốc!"
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "欢",
+     "radical": "欠",
+     "decomposition": "⿰又欠",
+     "components": [
+      "又",
+      "欠"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    },
+    {
+     "char": "迎",
+     "radical": "辶",
+     "decomposition": "⿺辶卬",
+     "components": [
+      "辶",
+      "卬"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "walk"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "huan1 ying2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "can1jia1_53c2",
+   "hanzi": "参加",
+   "traditional": "參加",
+   "pinyin": "cānjiā",
+   "pinyin_numeric": "can1 jia1",
+   "readings_all": [
+    "can1 jia1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 355,
+   "pos": [
+    "v"
+   ],
+   "topic": "actions",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to participate",
+    "to take part",
+    "to join"
+   ],
+   "meaning_vi": "tham gia",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "你",
+      "word_id": "ni3_4f60",
+      "pinyin": "nǐ"
+     },
+     {
+      "t": "来",
+      "word_id": "lai2_6765",
+      "pinyin": "lái"
+     },
+     {
+      "t": "参加",
+      "word_id": "can1jia1_53c2",
+      "pinyin": "cānjiā"
+     },
+     {
+      "t": "吗",
+      "word_id": "ma5_5417",
+      "pinyin": "ma"
+     },
+     {
+      "t": "？",
+      "word_id": null,
+      "pinyin": "？"
+     }
+    ],
+    "vi": "Bạn có đến tham gia không?"
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "参",
+     "radical": "厶",
+     "decomposition": "⿱⿱厶大彡",
+     "components": [
+      "厶",
+      "大",
+      "彡"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": null
+    },
+    {
+     "char": "加",
+     "radical": "力",
+     "decomposition": "⿰力口",
+     "components": [
+      "力",
+      "口"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Supporting a cause with the strength 力 of one's words 口"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "can1 jia1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "xiang1xin4_76f8",
+   "hanzi": "相信",
+   "traditional": "相信",
+   "pinyin": "xiāngxìn",
+   "pinyin_numeric": "xiang1 xin4",
+   "readings_all": [
+    "xiang1 xin4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 431,
+   "pos": [
+    "v"
+   ],
+   "topic": "actions",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to be convinced (that sth is true); to believe; to accept sth as true"
+   ],
+   "meaning_vi": "tin, tin tưởng",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "相信",
+      "word_id": "xiang1xin4_76f8",
+      "pinyin": "xiāngxìn"
+     },
+     {
+      "t": "你",
+      "word_id": "ni3_4f60",
+      "pinyin": "nǐ"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi tin bạn."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "相",
+     "radical": "目",
+     "decomposition": "⿰木目",
+     "components": [
+      "木",
+      "目"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "To stare 目 at a tree 木, meaning to observe"
+    },
+    {
+     "char": "信",
+     "radical": "亻",
+     "decomposition": "⿰亻言",
+     "components": [
+      "亻",
+      "言"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "xiang1 xin4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "lian4xi2_7ec3",
+   "hanzi": "练习",
+   "traditional": "練習",
+   "pinyin": "liànxí",
+   "pinyin_numeric": "lian4 xi2",
+   "readings_all": [
+    "lian4 xi2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 3084,
+   "pos": [
+    "v",
+    "vn"
+   ],
+   "topic": "actions",
+   "rarity": "rare",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to practice",
+    "exercise",
+    "drill",
+    "practice"
+   ],
+   "meaning_vi": "luyện tập; bài tập",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "在",
+      "word_id": "zai4_5728",
+      "pinyin": "zài"
+     },
+     {
+      "t": "练习",
+      "word_id": "lian4xi2_7ec3",
+      "pinyin": "liànxí"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi đang luyện tập."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "练",
+     "radical": "纟",
+     "decomposition": "⿰纟柬",
+     "components": [
+      "纟",
+      "柬"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "thread"
+    },
+    {
+     "char": "习",
+     "radical": "冫",
+     "decomposition": "⿹？冫",
+     "components": [],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "lian4 xi2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "ke3yi3_53ef",
+   "hanzi": "可以",
+   "traditional": "可以",
+   "pinyin": "kěyǐ",
+   "pinyin_numeric": "ke3 yi3",
+   "readings_all": [
+    "ke3 yi3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 58,
+   "pos": [
+    "v"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "can",
+    "may",
+    "possible",
+    "able to",
+    "not bad"
+   ],
+   "meaning_vi": "có thể; được",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "可以",
+      "word_id": "ke3yi3_53ef",
+      "pinyin": "kěyǐ"
+     },
+     {
+      "t": "坐",
+      "word_id": "zuo4_5750",
+      "pinyin": "zuò"
+     },
+     {
+      "t": "吗",
+      "word_id": "ma5_5417",
+      "pinyin": "ma"
+     },
+     {
+      "t": "？",
+      "word_id": null,
+      "pinyin": "？"
+     }
+    ],
+    "vi": "Tôi ngồi được không?"
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "可",
+     "radical": "口",
+     "decomposition": "⿻丁口",
+     "components": [
+      "丁",
+      "口"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "vigorous"
+    },
+    {
+     "char": "以",
+     "radical": "人",
+     "decomposition": "⿰？人",
+     "components": [],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "ke3 yi3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yi3jing1_5df2",
+   "hanzi": "已经",
+   "traditional": "已經",
+   "pinyin": "yǐjīng",
+   "pinyin_numeric": "yi3 jing1",
+   "readings_all": [
+    "yi3 jing1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 85,
+   "pos": [
+    "d"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "already"
+   ],
+   "meaning_vi": "đã (rồi)",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "已经",
+      "word_id": "yi3jing1_5df2",
+      "pinyin": "yǐjīng"
+     },
+     {
+      "t": "吃",
+      "word_id": "chi1_5403",
+      "pinyin": "chī"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi ăn rồi."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "已",
+     "radical": "己",
+     "decomposition": "？",
+     "components": [],
+     "etymology_type": null,
+     "etymology_hint": null
+    },
+    {
+     "char": "经",
+     "radical": "纟",
+     "decomposition": "⿰纟⿱？工",
+     "components": [],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "thread"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yi3 jing1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yin1wei4_56e0",
+   "hanzi": "因为",
+   "traditional": "因為",
+   "pinyin": "yīnwèi",
+   "pinyin_numeric": "yin1 wei4",
+   "readings_all": [
+    "yin1 wei4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 91,
+   "pos": [
+    "p",
+    "c"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "because",
+    "owing to",
+    "on account of"
+   ],
+   "meaning_vi": "vì, bởi vì",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "因为",
+      "word_id": "yin1wei4_56e0",
+      "pinyin": "yīnwèi"
+     },
+     {
+      "t": "天气",
+      "word_id": "tian1qi4_5929",
+      "pinyin": "tiānqì"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "冷",
+      "word_id": "leng3_51b7",
+      "pinyin": "lěng"
+     },
+     {
+      "t": "，",
+      "word_id": null,
+      "pinyin": "，"
+     },
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "不",
+      "word_id": "bu4_4e0d",
+      "pinyin": "bù"
+     },
+     {
+      "t": "去",
+      "word_id": "qu4_53bb",
+      "pinyin": "qù"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Vì trời rất lạnh nên tôi không đi nữa."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "因",
+     "radical": "囗",
+     "decomposition": "⿴囗大",
+     "components": [
+      "囗",
+      "大"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    },
+    {
+     "char": "为",
+     "radical": "丶",
+     "decomposition": "⿻丶⿴力丶",
+     "components": [
+      "丶",
+      "力",
+      "丶"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yin1 wei4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "suo3yi3_6240",
+   "hanzi": "所以",
+   "traditional": "所以",
+   "pinyin": "suǒyǐ",
+   "pinyin_numeric": "suo3 yi3",
+   "readings_all": [
+    "suo3 yi3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 157,
+   "pos": [
+    "c"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "therefore",
+    "as a result",
+    "so",
+    "the reason why"
+   ],
+   "meaning_vi": "cho nên, vì vậy",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "天气",
+      "word_id": "tian1qi4_5929",
+      "pinyin": "tiānqì"
+     },
+     {
+      "t": "很",
+      "word_id": "hen3_5f88",
+      "pinyin": "hěn"
+     },
+     {
+      "t": "冷",
+      "word_id": "leng3_51b7",
+      "pinyin": "lěng"
+     },
+     {
+      "t": "，",
+      "word_id": null,
+      "pinyin": "，"
+     },
+     {
+      "t": "所以",
+      "word_id": "suo3yi3_6240",
+      "pinyin": "suǒyǐ"
+     },
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "不",
+      "word_id": "bu4_4e0d",
+      "pinyin": "bù"
+     },
+     {
+      "t": "去",
+      "word_id": "qu4_53bb",
+      "pinyin": "qù"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Trời rất lạnh, vì vậy tôi không đi."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "所",
+     "radical": "户",
+     "decomposition": "⿰户斤",
+     "components": [
+      "户",
+      "斤"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "An axe 斤 swung at a door 户"
+    },
+    {
+     "char": "以",
+     "radical": "人",
+     "decomposition": "⿰？人",
+     "components": [],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "suo3 yi3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "dan4shi4_4f46",
+   "hanzi": "但是",
+   "traditional": "但是",
+   "pinyin": "dànshì",
+   "pinyin_numeric": "dan4 shi4",
+   "readings_all": [
+    "dan4 shi4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 115,
+   "pos": [
+    "c"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "but; however"
+   ],
+   "meaning_vi": "nhưng",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "猫",
+      "word_id": "mao1_732b",
+      "pinyin": "māo"
+     },
+     {
+      "t": "，",
+      "word_id": null,
+      "pinyin": "，"
+     },
+     {
+      "t": "但是",
+      "word_id": "dan4shi4_4f46",
+      "pinyin": "dànshì"
+     },
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "怕",
+      "word_id": "pa4_6015",
+      "pinyin": "pà"
+     },
+     {
+      "t": "狗",
+      "word_id": "gou3_72d7",
+      "pinyin": "gǒu"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích mèo, nhưng tôi sợ chó."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "但",
+     "radical": "亻",
+     "decomposition": "⿰亻旦",
+     "components": [
+      "亻",
+      "旦"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": null
+    },
+    {
+     "char": "是",
+     "radical": "日",
+     "decomposition": "⿱日疋",
+     "components": [
+      "日",
+      "疋"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "To speak 日 directly 疋"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "dan4 shi4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "zi4ji3_81ea",
+   "hanzi": "自己",
+   "traditional": "自己",
+   "pinyin": "zìjǐ",
+   "pinyin_numeric": "zi4 ji3",
+   "readings_all": [
+    "zi4 ji3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 56,
+   "pos": [
+    "r",
+    "v"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "oneself",
+    "one's own"
+   ],
+   "meaning_vi": "tự mình, bản thân",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "自己",
+      "word_id": "zi4ji3_81ea",
+      "pinyin": "zìjǐ"
+     },
+     {
+      "t": "去",
+      "word_id": "qu4_53bb",
+      "pinyin": "qù"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi tự đi."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "自",
+     "radical": "自",
+     "decomposition": "⿻目？",
+     "components": [],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A nose; in China, people refer to themselves by pointing to their noses"
+    },
+    {
+     "char": "己",
+     "radical": "己",
+     "decomposition": "⿱？乚",
+     "components": [],
+     "etymology_type": "pictographic",
+     "etymology_hint": "A loom woven with thread"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "zi4 ji3"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "wen4ti2_95ee",
+   "hanzi": "问题",
+   "traditional": "問題",
+   "pinyin": "wèntí",
+   "pinyin_numeric": "wen4 ti2",
+   "readings_all": [
+    "wen4 ti2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 109,
+   "pos": [
+    "n"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "question",
+    "problem",
+    "issue",
+    "topic"
+   ],
+   "meaning_vi": "câu hỏi; vấn đề",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "有",
+      "word_id": "you3_6709",
+      "pinyin": "yǒu"
+     },
+     {
+      "t": "一",
+      "word_id": "yi1_4e00",
+      "pinyin": "yī"
+     },
+     {
+      "t": "个",
+      "word_id": "ge4_4e2a",
+      "pinyin": "gè"
+     },
+     {
+      "t": "问题",
+      "word_id": "wen4ti2_95ee",
+      "pinyin": "wèntí"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi có một câu hỏi."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "问",
+     "radical": "门",
+     "decomposition": "⿵门口",
+     "components": [
+      "门",
+      "口"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "mouth"
+    },
+    {
+     "char": "题",
+     "radical": "页",
+     "decomposition": "⿺是页",
+     "components": [
+      "是",
+      "页"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "head"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "wen4 ti2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "wei4shen2me5_4e3a",
+   "hanzi": "为什么",
+   "traditional": "為什麼",
+   "pinyin": "wèishénme",
+   "pinyin_numeric": "wei4 shen2 me5",
+   "readings_all": [
+    "wei4 shen2 me5"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 299,
+   "pos": [
+    "r"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "why?",
+    "for what reason?"
+   ],
+   "meaning_vi": "tại sao",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "你",
+      "word_id": "ni3_4f60",
+      "pinyin": "nǐ"
+     },
+     {
+      "t": "为什么",
+      "word_id": "wei4shen2me5_4e3a",
+      "pinyin": "wèishénme"
+     },
+     {
+      "t": "哭",
+      "word_id": "ku1_54ed",
+      "pinyin": "kū"
+     },
+     {
+      "t": "？",
+      "word_id": null,
+      "pinyin": "？"
+     }
+    ],
+    "vi": "Sao bạn khóc?"
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "为",
+     "radical": "丶",
+     "decomposition": "⿻丶⿴力丶",
+     "components": [
+      "丶",
+      "力",
+      "丶"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    },
+    {
+     "char": "什",
+     "radical": "亻",
+     "decomposition": "⿰亻十",
+     "components": [
+      "亻",
+      "十"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A file of ten 十 people 亻"
+    },
+    {
+     "char": "么",
+     "radical": "丿",
+     "decomposition": "⿱丿厶",
+     "components": [
+      "丿",
+      "厶"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "wei4 shen2 me5"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "yi1ding4_4e00",
+   "hanzi": "一定",
+   "traditional": "一定",
+   "pinyin": "yīdìng",
+   "pinyin_numeric": "yi1 ding4",
+   "readings_all": [
+    "yi1 ding4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 198,
+   "pos": [
+    "d",
+    "b"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "surely",
+    "certainly",
+    "necessarily",
+    "fixed",
+    "a certain (extent etc)"
+   ],
+   "meaning_vi": "nhất định, chắc chắn",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "一定",
+      "word_id": "yi1ding4_4e00",
+      "pinyin": "yīdìng"
+     },
+     {
+      "t": "来",
+      "word_id": "lai2_6765",
+      "pinyin": "lái"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi nhất định sẽ đến."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "一",
+     "radical": "一",
+     "decomposition": "？",
+     "components": [],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Represents heaven (天), earth (旦), or the number 1"
+    },
+    {
+     "char": "定",
+     "radical": "宀",
+     "decomposition": "⿱宀疋",
+     "components": [
+      "宀",
+      "疋"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A person 疋 settling under a roof 宀"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "yi1 ding4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "ying1gai1_5e94",
+   "hanzi": "应该",
+   "traditional": "應該",
+   "pinyin": "yīnggāi",
+   "pinyin_numeric": "ying1 gai1",
+   "readings_all": [
+    "ying1 gai1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 174,
+   "pos": [
+    "v"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "ought to",
+    "should",
+    "must"
+   ],
+   "meaning_vi": "nên, cần phải",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "你",
+      "word_id": "ni3_4f60",
+      "pinyin": "nǐ"
+     },
+     {
+      "t": "应该",
+      "word_id": "ying1gai1_5e94",
+      "pinyin": "yīnggāi"
+     },
+     {
+      "t": "睡觉",
+      "word_id": "shui4jiao4_7761",
+      "pinyin": "shuìjiào"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Bạn nên đi ngủ rồi."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "应",
+     "radical": "广",
+     "decomposition": "⿸广⿱⺍一",
+     "components": [
+      "广",
+      "⺍",
+      "一"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    },
+    {
+     "char": "该",
+     "radical": "讠",
+     "decomposition": "⿰讠亥",
+     "components": [
+      "讠",
+      "亥"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "speech"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "ying1 gai1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "ta1_5b83",
+   "hanzi": "它",
+   "traditional": "它",
+   "pinyin": "tā",
+   "pinyin_numeric": "ta1",
+   "readings_all": [
+    "ta1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 114,
+   "pos": [
+    "r"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "it"
+   ],
+   "meaning_vi": "nó (đồ vật, con vật)",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "它",
+      "word_id": "ta1_5b83",
+      "pinyin": "tā"
+     },
+     {
+      "t": "是",
+      "word_id": "shi4_662f",
+      "pinyin": "shì"
+     },
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "狗",
+      "word_id": "gou3_72d7",
+      "pinyin": "gǒu"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Nó là con chó của tôi."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "它",
+     "radical": "宀",
+     "decomposition": "⿱宀匕",
+     "components": [
+      "宀",
+      "匕"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "ta1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "da4jia1_5927",
+   "hanzi": "大家",
+   "traditional": "大家",
+   "pinyin": "dàjiā",
+   "pinyin_numeric": "da4 jia1",
+   "readings_all": [
+    "da4 jia1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 189,
+   "pos": [
+    "r",
+    "n"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "everyone",
+    "influential family",
+    "great expert"
+   ],
+   "meaning_vi": "mọi người",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "大家",
+      "word_id": "da4jia1_5927",
+      "pinyin": "dàjiā"
+     },
+     {
+      "t": "好",
+      "word_id": "hao3_597d",
+      "pinyin": "hǎo"
+     },
+     {
+      "t": "！",
+      "word_id": null,
+      "pinyin": "！"
+     }
+    ],
+    "vi": "Chào mọi người!"
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "大",
+     "radical": "大",
+     "decomposition": "⿻一人",
+     "components": [
+      "一",
+      "人"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A man 人 with outstretched arms"
+    },
+    {
+     "char": "家",
+     "radical": "宀",
+     "decomposition": "⿱宀豕",
+     "components": [
+      "宀",
+      "豕"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "roof"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "da4 jia1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "nu3li4_52aa",
+   "hanzi": "努力",
+   "traditional": "努力",
+   "pinyin": "nǔlì",
+   "pinyin_numeric": "nu3 li4",
+   "readings_all": [
+    "nu3 li4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 505,
+   "pos": [
+    "ad",
+    "an",
+    "a"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to make an effort; to try hard; to strive",
+    "hard-working; conscientious"
+   ],
+   "meaning_vi": "cố gắng, nỗ lực",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "你",
+      "word_id": "ni3_4f60",
+      "pinyin": "nǐ"
+     },
+     {
+      "t": "应该",
+      "word_id": "ying1gai1_5e94",
+      "pinyin": "yīnggāi"
+     },
+     {
+      "t": "努力",
+      "word_id": "nu3li4_52aa",
+      "pinyin": "nǔlì"
+     },
+     {
+      "t": "学习",
+      "word_id": "xue2xi2_5b66",
+      "pinyin": "xuéxí"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Bạn nên cố gắng học tập."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "努",
+     "radical": "力",
+     "decomposition": "⿱奴力",
+     "components": [
+      "奴",
+      "力"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "strength"
+    },
+    {
+     "char": "力",
+     "radical": "力",
+     "decomposition": "⿻丿？",
+     "components": [],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A plow's head representing strength"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "nu3 li4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "zhi1_53ea",
+   "hanzi": "只",
+   "traditional": "隻",
+   "pinyin": "zhī",
+   "pinyin_numeric": "zhi1",
+   "readings_all": [
+    "zhi1",
+    "zhi3"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 98,
+   "pos": [
+    "d",
+    "q"
+   ],
+   "topic": "measure",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "classifier for birds and certain animals, one of a pair, some utensils, vessels etc"
+   ],
+   "meaning_vi": "con (lượng từ cho chim, thú nhỏ...)",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "有",
+      "word_id": "you3_6709",
+      "pinyin": "yǒu"
+     },
+     {
+      "t": "一",
+      "word_id": "yi1_4e00",
+      "pinyin": "yī"
+     },
+     {
+      "t": "只",
+      "word_id": "zhi1_53ea",
+      "pinyin": "zhī"
+     },
+     {
+      "t": "猫",
+      "word_id": "mao1_732b",
+      "pinyin": "māo"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi có một con mèo."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "只",
+     "radical": "口",
+     "decomposition": "⿱口八",
+     "components": [
+      "口",
+      "八"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Simple words 八 coming from the mouth 口"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "zhi3",
+     "zhi3",
+     "zhi1",
+     "zhi3",
+     "zhi1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "tiao2_6761",
+   "hanzi": "条",
+   "traditional": "條",
+   "pinyin": "tiáo",
+   "pinyin_numeric": "tiao2",
+   "readings_all": [
+    "tiao2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 277,
+   "pos": [
+    "q"
+   ],
+   "topic": "measure",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "strip",
+    "item",
+    "article",
+    "clause (of law or treaty)",
+    "classifier for long thin things (ribbon, river, road, trousers etc)"
+   ],
+   "meaning_vi": "con, cái, dải (lượng từ cho vật dài)",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "有",
+      "word_id": "you3_6709",
+      "pinyin": "yǒu"
+     },
+     {
+      "t": "一",
+      "word_id": "yi1_4e00",
+      "pinyin": "yī"
+     },
+     {
+      "t": "条",
+      "word_id": "tiao2_6761",
+      "pinyin": "tiáo"
+     },
+     {
+      "t": "鱼",
+      "word_id": "yu2_9c7c",
+      "pinyin": "yú"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi có một con cá."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "条",
+     "radical": "木",
+     "decomposition": "⿱夂木",
+     "components": [
+      "夂",
+      "木"
+     ],
+     "etymology_type": null,
+     "etymology_hint": null
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "tiao2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "jian4_4ef6",
+   "hanzi": "件",
+   "traditional": "件",
+   "pinyin": "jiàn",
+   "pinyin_numeric": "jian4",
+   "readings_all": [
+    "jian4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 292,
+   "pos": [
+    "q",
+    "g"
+   ],
+   "topic": "measure",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "item",
+    "component",
+    "classifier for events, things, clothes etc"
+   ],
+   "meaning_vi": "cái, chiếc, việc (lượng từ cho quần áo, sự việc)",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "买",
+      "word_id": "mai3_4e70",
+      "pinyin": "mǎi"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "一",
+      "word_id": "yi1_4e00",
+      "pinyin": "yī"
+     },
+     {
+      "t": "件",
+      "word_id": "jian4_4ef6",
+      "pinyin": "jiàn"
+     },
+     {
+      "t": "礼物",
+      "word_id": "li3wu4_793c",
+      "pinyin": "lǐwù"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi đã mua một món quà."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "件",
+     "radical": "亻",
+     "decomposition": "⿰亻牛",
+     "components": [
+      "亻",
+      "牛"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A man 亻 dividing up a cow 牛"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "jian4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "liang4_8f86",
+   "hanzi": "辆",
+   "traditional": "輛",
+   "pinyin": "liàng",
+   "pinyin_numeric": "liang4",
+   "readings_all": [
+    "liang4"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 699,
+   "pos": [
+    "q"
+   ],
+   "topic": "measure",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "classifier for vehicles"
+   ],
+   "meaning_vi": "chiếc (lượng từ cho xe)",
+   "meaning_vi_reviewed": false,
+   "example": null,
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "辆",
+     "radical": "车",
+     "decomposition": "⿰车两",
+     "components": [
+      "车",
+      "两"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Two 两 carts 车; 两 also provides the pronunciation"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "liang4"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "ping2_74f6",
+   "hanzi": "瓶",
+   "traditional": "瓶",
+   "pinyin": "píng",
+   "pinyin_numeric": "ping2",
+   "readings_all": [
+    "ping2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1373,
+   "pos": [
+    "q",
+    "n"
+   ],
+   "topic": "measure",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "bottle",
+    "vase",
+    "pitcher",
+    "classifier for wine and liquids"
+   ],
+   "meaning_vi": "chai, lọ; (lượng từ) chai",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "买",
+      "word_id": "mai3_4e70",
+      "pinyin": "mǎi"
+     },
+     {
+      "t": "了",
+      "word_id": "le5_4e86",
+      "pinyin": "le"
+     },
+     {
+      "t": "一",
+      "word_id": "yi1_4e00",
+      "pinyin": "yī"
+     },
+     {
+      "t": "瓶",
+      "word_id": "ping2_74f6",
+      "pinyin": "píng"
+     },
+     {
+      "t": "牛奶",
+      "word_id": "niu2nai3_725b",
+      "pinyin": "niúnǎi"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi đã mua một chai sữa."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [
+    {
+     "hanzi": "个",
+     "pinyin_numeric": "ge4",
+     "pinyin": "gè"
+    }
+   ],
+   "chars": [
+    {
+     "char": "瓶",
+     "radical": "瓦",
+     "decomposition": "⿰并瓦",
+     "components": [
+      "并",
+      "瓦"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "pottery"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "ping2",
+     "ping2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "wan3an1_665a",
+   "hanzi": "晚安",
+   "traditional": "晚安",
+   "pinyin": "wǎn'ān",
+   "pinyin_numeric": "wan3 an1",
+   "readings_all": [
+    "wan3 an1"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 1116,
+   "pos": [
+    "v"
+   ],
+   "topic": "greetings",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "Good night!",
+    "Good evening!"
+   ],
+   "meaning_vi": "chúc ngủ ngon",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "妈妈",
+      "word_id": "ma1ma5_5988",
+      "pinyin": "māma"
+     },
+     {
+      "t": "，",
+      "word_id": null,
+      "pinyin": "，"
+     },
+     {
+      "t": "晚安",
+      "word_id": "wan3an1_665a",
+      "pinyin": "wǎn'ān"
+     },
+     {
+      "t": "！",
+      "word_id": null,
+      "pinyin": "！"
+     }
+    ],
+    "vi": "Mẹ ơi, chúc mẹ ngủ ngon!"
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "晚",
+     "radical": "日",
+     "decomposition": "⿰日免",
+     "components": [
+      "日",
+      "免"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "Avoiding 免 the sun 日; 免 also provides the pronunciation"
+    },
+    {
+     "char": "安",
+     "radical": "宀",
+     "decomposition": "⿱宀女",
+     "components": [
+      "宀",
+      "女"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": "A woman 女 safe in a house 宀"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "wan3 an1"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  },
+  {
+   "id": "sheng1huo2_751f",
+   "hanzi": "生活",
+   "traditional": "生活",
+   "pinyin": "shēnghuó",
+   "pinyin_numeric": "sheng1 huo2",
+   "readings_all": [
+    "sheng1 huo2"
+   ],
+   "tier": 2,
+   "hsk_level": 2,
+   "frequency": 203,
+   "pos": [
+    "vn",
+    "v"
+   ],
+   "topic": "grammar",
+   "rarity": "common",
+   "hidden": false,
+   "gacha": true,
+   "meaning_en": [
+    "to live",
+    "life",
+    "livelihood"
+   ],
+   "meaning_vi": "cuộc sống; sinh sống",
+   "meaning_vi_reviewed": false,
+   "example": {
+    "tokens": [
+     {
+      "t": "我",
+      "word_id": "wo3_6211",
+      "pinyin": "wǒ"
+     },
+     {
+      "t": "喜欢",
+      "word_id": "xi3huan5_559c",
+      "pinyin": "xǐhuan"
+     },
+     {
+      "t": "中国",
+      "word_id": "zhong1guo2_4e2d",
+      "pinyin": "Zhōngguó"
+     },
+     {
+      "t": "的",
+      "word_id": "de5_7684",
+      "pinyin": "de"
+     },
+     {
+      "t": "生活",
+      "word_id": "sheng1huo2_751f",
+      "pinyin": "shēnghuó"
+     },
+     {
+      "t": "。",
+      "word_id": null,
+      "pinyin": "。"
+     }
+    ],
+    "vi": "Tôi thích cuộc sống ở Trung Quốc."
+   },
+   "example_reviewed": false,
+   "story_vi": null,
+   "measure_words": [],
+   "chars": [
+    {
+     "char": "生",
+     "radical": "生",
+     "decomposition": "⿻一土",
+     "components": [
+      "一",
+      "土"
+     ],
+     "etymology_type": "ideographic",
+     "etymology_hint": " A shoot 屮 growing in the soil 土"
+    },
+    {
+     "char": "活",
+     "radical": "氵",
+     "decomposition": "⿰氵舌",
+     "components": [
+      "氵",
+      "舌"
+     ],
+     "etymology_type": "pictophonetic",
+     "etymology_hint": "water"
+    }
+   ],
+   "fictional": false,
+   "source": {
+    "list": "hsk3.0",
+    "hsk_pinyin": [
+     "sheng1 huo2"
+    ],
+    "cedict": "CC-CEDICT 2023-11-07T06:42:16Z"
+   }
+  }
+ ]
+}

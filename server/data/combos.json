@@ -1,0 +1,107 @@
+{
+ "combos": [
+  {
+   "id": "water_aura",
+   "kind": "aura",
+   "source": "水",
+   "effect": "review_wait_mult",
+   "text_vi": "Nước tưới mát các ô bên cạnh, cây kề bên đến hạn ôn sớm hơn."
+  },
+  {
+   "id": "fire_aura",
+   "kind": "aura",
+   "source": "火",
+   "effect": "growth_mult",
+   "text_vi": "Hơi ấm của lửa giúp cây kề bên lớn nhanh hơn."
+  },
+  {
+   "id": "fire_burns_wood",
+   "kind": "hazard",
+   "source": "火",
+   "target": "木",
+   "effect": "wither_chance",
+   "text_vi": "Lửa đặt cạnh gỗ thì... cẩn thận cháy vườn!"
+  },
+  {
+   "id": "ming",
+   "kind": "unlock",
+   "pattern": "adjacent",
+   "components": [
+    "日",
+    "月"
+   ],
+   "result": "明",
+   "text_vi": "Mặt trời 日 và mặt trăng 月 đứng cạnh nhau tỏa sáng: 明 (sáng).",
+   "etymology_verified": true,
+   "decomposition": "⿰日月"
+  },
+  {
+   "id": "lin",
+   "kind": "unlock",
+   "pattern": "adjacent",
+   "components": [
+    "木",
+    "木"
+   ],
+   "result": "林",
+   "text_vi": "Hai cây 木 đứng cạnh nhau thành rừng nhỏ: 林.",
+   "etymology_verified": true,
+   "decomposition": "⿰木木"
+  },
+  {
+   "id": "sen",
+   "kind": "unlock",
+   "pattern": "three_line_or_l",
+   "components": [
+    "木",
+    "木",
+    "木"
+   ],
+   "result": "森",
+   "reward_decoration": "small_forest",
+   "text_vi": "Ba cây 木 thành rừng rậm: 森.",
+   "etymology_verified": true,
+   "decomposition": "⿱木⿰木木"
+  },
+  {
+   "id": "hao",
+   "kind": "unlock",
+   "pattern": "adjacent",
+   "components": [
+    "女",
+    "子"
+   ],
+   "result": "好",
+   "reward_stones_key": "hao_bonus",
+   "text_vi": "Người mẹ 女 bên đứa con 子, thật là tốt đẹp: 好.",
+   "etymology_verified": true,
+   "decomposition": "⿰女子"
+  },
+  {
+   "id": "xiu",
+   "kind": "unlock",
+   "pattern": "adjacent",
+   "components": [
+    "人",
+    "木"
+   ],
+   "result": "休",
+   "text_vi": "Người 人 (亻) tựa vào cây 木 để nghỉ ngơi: 休.",
+   "etymology_verified": true,
+   "decomposition": "⿰亻木"
+  },
+  {
+   "id": "ma_question",
+   "kind": "unlock",
+   "pattern": "adjacent",
+   "components": [
+    "口",
+    "马"
+   ],
+   "result": "吗",
+   "text_vi": "Cái miệng 口 bên con ngựa 马 thành chữ hỏi 吗: 口 chỉ nghĩa (lời nói), 马 gợi âm.",
+   "etymology_verified": true,
+   "decomposition": "⿰口马"
+  }
+ ]
+}

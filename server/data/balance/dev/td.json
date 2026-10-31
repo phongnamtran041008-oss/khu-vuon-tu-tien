@@ -1,0 +1,4 @@
+{
+  "_comment": "BALANCE_PROFILE=dev: cho phép tua nhanh ải tới ×40 để thử (và để test giao diện chơi qua chương 1 trong vài phút). Số liệu chơi không đổi.",
+  "anti_cheat": {"max_speed": 40}
+}

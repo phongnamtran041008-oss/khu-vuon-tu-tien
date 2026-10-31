@@ -1,0 +1,11 @@
+{
+  "_comment": "Chat and friends (spec 15.3).",
+  "chat_min_interval_seconds": 2.0,
+  "chat_max_len": 200,
+  "chat_world_history": 40,
+  "chat_zone_history": 20,
+  "friends_max": 100,
+  "help_reward": 10,
+  "help_daily_limit": 5,
+  "reports_per_day": 20
+}

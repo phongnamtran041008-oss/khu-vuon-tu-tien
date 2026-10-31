@@ -1,0 +1,37 @@
+{
+  "_comment": "Luyện đan (spec 12.3). The fire minigame (systems/alchemy_fire.py, same file in the client): a needle sweeps the heat bar 0..100 and back; each of the 3 presses must land in the văn hỏa zone (perfect = its centre). The needle starts from 0 again after each press. period_ms: one sweep there and back, per press, by difficulty. zone_width / perfect_width in bar units, widened by the furnace level. Points: press perfect/good/miss, pinyin right/wrong (a character not learned yet is shown with its reading and skipped). Quality = the first entry whose min the share total / best possible reaches (best possible = 2 per press + 1 per character asked), so a player who has not learned the characters of a name can still brew Thượng phẩm with three perfect presses. Ingredients and the fee are spent when the fire is lit; an abandoned brew is lost.",
+  "presses": 3,
+  "bar": 100,
+  "period_ms": {"1": [2400, 2100, 1800], "2": [2000, 1750, 1500], "3": [1700, 1450, 1250]},
+  "zone_width": {"1": 24, "2": 18, "3": 14},
+  "perfect_width": 6,
+  "zone_center_range": [25, 80],
+  "points": {"perfect": 2, "good": 1, "miss": 0, "pinyin_right": 1, "pinyin_wrong": -1},
+  "quality": [
+    {"id": "thuong", "name_vi": "Thượng phẩm", "min": 0.85},
+    {"id": "trung", "name_vi": "Trung phẩm", "min": 0.6},
+    {"id": "ha", "name_vi": "Hạ phẩm", "min": 0.3},
+    {"id": "phe", "name_vi": "Phế đan", "min": -1}
+  ],
+  "session_seconds": 900,
+  "min_press_ms": 120,
+  "time_grace_ms": 2000,
+  "max_needle_ms": 20000,
+  "xp_per_right_pinyin": 3,
+  "public_furnace_level": 1,
+  "public_furnace_reach": 72,
+  "furnace": [
+    {"level": 1, "name_vi": "Đan Lô Đất Nung", "zone_bonus": 0, "extra_chance": 0.0},
+    {"level": 2, "name_vi": "Đan Lô Đồng Xanh", "zone_bonus": 3, "extra_chance": 0.0,
+     "cost": {"spirit_stones": 800}, "materials": [{"item": "muc_tinh", "qty": 10}, {"item": "go_linh_moc", "qty": 8}]},
+    {"level": 3, "name_vi": "Đan Lô Tử Kim", "zone_bonus": 5, "extra_chance": 0.25,
+     "cost": {"spirit_stones": 2500}, "materials": [{"item": "muc_tinh", "qty": 25}, {"item": "mac_linh_chi", "qty": 5}]}
+  ],
+  "buff_seconds": 600,
+  "buffs": {
+    "tu_linh": {"name_vi": "Tụ Linh", "xp_mult": 1.5},
+    "khang_muc": {"name_vi": "Kháng Mực", "ink_res": 15},
+    "ngo_tinh": {"name_vi": "Ngộ Tính", "extra_seconds": 3}
+  },
+  "bee_food": {"phong_vuong_dan": {"xp": 400, "bond": 15}}
+}

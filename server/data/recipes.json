@@ -1,0 +1,76 @@
+{
+  "_comment": "Đan phương (spec 12.3). item: the recipe item that must be in the bag. ingredients: kind item (exact item id), fruit (a quả chữ of at least that rarity, the least precious one held is used), fish (a caught fish of at least that rarity). fee: Linh Thạch for the furnace (a sink). yield: pills made per quality (phế đan gives nothing). difficulty 1-3 picks the needle speed and the size of the văn hỏa zone (balance/alchemy.json). chars: the pill's name, one character per press of the fire minigame; pinyin checked against CC-CEDICT by tests/test_alchemy.py, hv = Hán-Việt reading shown with it.",
+  "recipes": {
+    "hoi_huyet_dan": {
+      "item": "dp_hoi_huyet", "difficulty": 1, "min_realm": "pham_nhan", "fee": 10,
+      "ingredients": [{"kind": "fruit", "rarity": "common", "qty": 2}, {"kind": "item", "item": "truc_diep_thao", "qty": 1}],
+      "yield": {"ha": 1, "trung": 2, "thuong": 3},
+      "chars": [{"c": "回", "pinyin": "huí", "numeric": "hui2", "hv": "hồi"},
+                {"c": "血", "pinyin": "xuè", "numeric": "xue4", "hv": "huyết"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"}]
+    },
+    "hoi_khi_dan": {
+      "item": "dp_hoi_khi", "difficulty": 1, "min_realm": "pham_nhan", "fee": 10,
+      "ingredients": [{"kind": "fruit", "rarity": "common", "qty": 1}, {"kind": "item", "item": "linh_mat", "qty": 1},
+                      {"kind": "item", "item": "truc_diep_thao", "qty": 1}],
+      "yield": {"ha": 1, "trung": 2, "thuong": 3},
+      "chars": [{"c": "回", "pinyin": "huí", "numeric": "hui2", "hv": "hồi"},
+                {"c": "气", "pinyin": "qì", "numeric": "qi4", "hv": "khí"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"}]
+    },
+    "khang_muc_dan": {
+      "item": "dp_khang_muc", "difficulty": 2, "min_realm": "pham_nhan", "fee": 25,
+      "ingredients": [{"kind": "item", "item": "muc_tinh", "qty": 2}, {"kind": "fish", "rarity": "linh", "qty": 1},
+                      {"kind": "item", "item": "truc_diep_thao", "qty": 1}],
+      "yield": {"ha": 1, "trung": 2, "thuong": 2},
+      "chars": [{"c": "抗", "pinyin": "kàng", "numeric": "kang4", "hv": "kháng"},
+                {"c": "墨", "pinyin": "mò", "numeric": "mo4", "hv": "mặc"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"}]
+    },
+    "tu_linh_dan": {
+      "item": "dp_tu_linh", "difficulty": 2, "min_realm": "luyen_khi", "fee": 40,
+      "ingredients": [{"kind": "fruit", "rarity": "rare", "qty": 1}, {"kind": "item", "item": "linh_mat", "qty": 2},
+                      {"kind": "item", "item": "mac_linh_chi", "qty": 1}],
+      "yield": {"ha": 1, "trung": 1, "thuong": 2},
+      "chars": [{"c": "聚", "pinyin": "jù", "numeric": "ju4", "hv": "tụ"},
+                {"c": "灵", "pinyin": "líng", "numeric": "ling2", "hv": "linh"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"}]
+    },
+    "ngo_tinh_dan": {
+      "item": "dp_ngo_tinh", "difficulty": 2, "min_realm": "luyen_khi", "fee": 40,
+      "ingredients": [{"kind": "fruit", "rarity": "rare", "qty": 1}, {"kind": "item", "item": "linh_qua", "qty": 1},
+                      {"kind": "item", "item": "mac_linh_chi", "qty": 1}],
+      "yield": {"ha": 1, "trung": 1, "thuong": 2},
+      "chars": [{"c": "悟", "pinyin": "wù", "numeric": "wu4", "hv": "ngộ"},
+                {"c": "性", "pinyin": "xìng", "numeric": "xing4", "hv": "tính"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"}]
+    },
+    "phong_vuong_dan": {
+      "item": "dp_phong_vuong", "difficulty": 2, "min_realm": "pham_nhan", "fee": 30,
+      "ingredients": [{"kind": "item", "item": "linh_mat", "qty": 3}, {"kind": "item", "item": "sap_ong", "qty": 2},
+                      {"kind": "item", "item": "linh_qua", "qty": 1}],
+      "yield": {"ha": 1, "trung": 1, "thuong": 2},
+      "chars": [{"c": "蜂", "pinyin": "fēng", "numeric": "feng1", "hv": "phong"},
+                {"c": "王", "pinyin": "wáng", "numeric": "wang2", "hv": "vương"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"}]
+    },
+    "truc_co_dan": {
+      "item": "dp_truc_co", "difficulty": 3, "min_realm": "luyen_khi", "fee": 150,
+      "ingredients": [{"kind": "fruit", "rarity": "rare", "qty": 3}, {"kind": "item", "item": "linh_qua", "qty": 2},
+                      {"kind": "item", "item": "mac_linh_chi", "qty": 2}, {"kind": "item", "item": "muc_tinh", "qty": 5}],
+      "yield": {"ha": 1, "trung": 1, "thuong": 1},
+      "chars": [{"c": "筑", "pinyin": "zhù", "numeric": "zhu4", "hv": "trúc"},
+                {"c": "基", "pinyin": "jī", "numeric": "ji1", "hv": "cơ"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"}]
+    },
+    "kim_dan_dan": {
+      "item": "dp_kim_dan", "difficulty": 3, "min_realm": "truc_co", "fee": 500,
+      "ingredients": [{"kind": "fruit", "rarity": "epic", "qty": 3}, {"kind": "item", "item": "linh_qua", "qty": 4},
+                      {"kind": "item", "item": "mac_linh_chi", "qty": 4}, {"kind": "fish", "rarity": "huyen", "qty": 1}],
+      "yield": {"ha": 1, "trung": 1, "thuong": 1},
+      "chars": [{"c": "金", "pinyin": "jīn", "numeric": "jin1", "hv": "kim"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"},
+                {"c": "丹", "pinyin": "dān", "numeric": "dan1", "hv": "đan"}]
+    }
+  }
+}

@@ -1,0 +1,7027 @@
+{
+ "compressionlevel": -1,
+ "height": 38,
+ "width": 56,
+ "infinite": false,
+ "orientation": "orthogonal",
+ "renderorder": "right-down",
+ "tiledversion": "1.10.2",
+ "tileheight": 16,
+ "tilewidth": 16,
+ "type": "map",
+ "version": "1.10",
+ "nextlayerid": 4,
+ "nextobjectid": 285,
+ "properties": [
+  {
+   "name": "zone",
+   "type": "string",
+   "value": "ho_nghien_muc"
+  },
+  {
+   "name": "name_vi",
+   "type": "string",
+   "value": "Hồ Nghiên Mực"
+  },
+  {
+   "name": "music",
+   "type": "string",
+   "value": "forest"
+  },
+  {
+   "name": "safe",
+   "type": "string",
+   "value": "false"
+  }
+ ],
+ "layers": [
+  {
+   "id": 1,
+   "name": "ground",
+   "type": "tilelayer",
+   "width": 56,
+   "height": 38,
+   "x": 0,
+   "y": 0,
+   "opacity": 1,
+   "visible": true,
+   "data": [
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    3,
+    3,
+    3,
+    3,
+    1,
+    1,
+    3,
+    2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    2,
+    3,
+    3,
+    2,
+    5,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    3,
+    2,
+    1,
+    3,
+    2,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    3,
+    1,
+    2,
+    5,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    3,
+    1,
+    5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    5,
+    3,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    3,
+    1,
+    2,
+    2,
+    2,
+    5,
+    1,
+    2,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1,
+    3,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    5,
+    1,
+    5,
+    1,
+    3,
+    1,
+    2,
+    2,
+    3,
+    2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    2,
+    2,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    3,
+    1,
+    3,
+    2,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    5,
+    5,
+    1,
+    1,
+    2,
+    3,
+    2,
+    3,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    5,
+    3,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    2,
+    1,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    3,
+    2,
+    2,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    5,
+    2,
+    2,
+    1,
+    3,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    2,
+    1,
+    1,
+    3,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    5,
+    1,
+    1,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    10,
+    10,
+    10,
+    10,
+    5,
+    1,
+    2,
+    1,
+    2,
+    2,
+    1,
+    3,
+    3,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    2,
+    3,
+    2,
+    1,
+    1,
+    2,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    1,
+    3,
+    1,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    3,
+    2,
+    2,
+    2,
+    10,
+    10,
+    10,
+    10,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    5,
+    2,
+    5,
+    3,
+    1,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    5,
+    1,
+    2,
+    1,
+    1,
+    3,
+    2,
+    2,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    2,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    5,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    3,
+    1,
+    1,
+    5,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    5,
+    1,
+    3,
+    1,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    1,
+    1,
+    3,
+    3,
+    2,
+    1,
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    3,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    5,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    10,
+    10,
+    10,
+    10,
+    2,
+    1,
+    1,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    1,
+    5,
+    3,
+    1,
+    1,
+    1,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    2,
+    3,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    11,
+    11,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    3,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    1,
+    3,
+    1,
+    1,
+    2,
+    3,
+    1,
+    3,
+    1,
+    10,
+    10,
+    10,
+    10,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    11,
+    11,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    3,
+    3,
+    2,
+    2,
+    2,
+    2,
+    1,
+    5,
+    1,
+    1,
+    1,
+    3,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    11,
+    11,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    1,
+    2,
+    1,
+    2,
+    3,
+    1,
+    7,
+    6,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    11,
+    11,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    3,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1,
+    6,
+    7,
+    1,
+    3,
+    1,
+    1,
+    1,
+    5,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    5,
+    2,
+    1,
+    2,
+    2,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    11,
+    11,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    7,
+    6,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    2,
+    1,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    11,
+    11,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    6,
+    7,
+    1,
+    1,
+    2,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    10,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    11,
+    11,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    10,
+    1,
+    1,
+    1,
+    3,
+    1,
+    2,
+    1,
+    7,
+    6,
+    1,
+    1,
+    3,
+    1,
+    1,
+    3,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    1,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    10,
+    11,
+    11,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    5,
+    2,
+    2,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    3,
+    1,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    3,
+    1,
+    2,
+    3,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    5,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1,
+    2,
+    1,
+    2,
+    2,
+    1,
+    2,
+    3,
+    3,
+    1,
+    2,
+    2,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    3,
+    5,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    3,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    5,
+    1,
+    3,
+    1,
+    2,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    3,
+    5,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    2,
+    5,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    3,
+    1,
+    2,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    5,
+    1,
+    3,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    2,
+    3,
+    1,
+    3,
+    1,
+    2,
+    1,
+    2,
+    3,
+    3,
+    1,
+    5,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    2,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    2,
+    3,
+    2,
+    3,
+    2,
+    2,
+    2,
+    5,
+    2,
+    3,
+    2,
+    5,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    2,
+    1,
+    5,
+    1,
+    1,
+    3,
+    3,
+    5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    3,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    5,
+    2,
+    1,
+    1,
+    2,
+    3,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    3,
+    1,
+    5,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    5,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    2,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    2,
+    3,
+    1,
+    3,
+    1,
+    3,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    2,
+    2,
+    3,
+    1,
+    1,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    2,
+    5,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    5,
+    1,
+    3,
+    2,
+    5,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    3,
+    2,
+    5,
+    1,
+    1,
+    1,
+    2,
+    3,
+    3,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1
+   ]
+  },
+  {
+   "id": 2,
+   "name": "objects",
+   "type": "objectgroup",
+   "draworder": "topdown",
+   "opacity": 1,
+   "visible": true,
+   "x": 0,
+   "y": 0,
+   "objects": [
+    {
+     "id": 6,
+     "name": "lake_0",
+     "type": "area",
+     "x": 224,
+     "y": 112,
+     "width": 448,
+     "height": 304,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "kind",
+       "type": "string",
+       "value": "fishing"
+      },
+      {
+       "name": "pool",
+       "type": "string",
+       "value": "ho"
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "name": "lake_1",
+     "type": "area",
+     "x": 160,
+     "y": 192,
+     "width": 64,
+     "height": 128,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "kind",
+       "type": "string",
+       "value": "fishing"
+      },
+      {
+       "name": "pool",
+       "type": "string",
+       "value": "ho"
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "name": "lake_2",
+     "type": "area",
+     "x": 672,
+     "y": 160,
+     "width": 64,
+     "height": 112,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "kind",
+       "type": "string",
+       "value": "fishing"
+      },
+      {
+       "name": "pool",
+       "type": "string",
+       "value": "ho"
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "name": "Lều Ngư Ông",
+     "type": "prop",
+     "x": 288,
+     "y": 448,
+     "width": 64,
+     "height": 56,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "hut"
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "name": "Ngư Ông",
+     "type": "npc",
+     "x": 400,
+     "y": 432,
+     "width": 16,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "npc",
+       "type": "string",
+       "value": "fisher"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "fisher"
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "name": "Bảng Ngư Phổ",
+     "type": "interact",
+     "x": 496,
+     "y": 448,
+     "width": 16,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tablet"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "fish_book"
+      }
+     ]
+    },
+    {
+     "id": 15,
+     "name": "lantern",
+     "type": "prop",
+     "x": 420,
+     "y": 400,
+     "width": 8,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "lantern"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "0"
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "name": "lantern",
+     "type": "prop",
+     "x": 468,
+     "y": 400,
+     "width": 8,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "lantern"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "1"
+      }
+     ]
+    },
+    {
+     "id": 17,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "586"
+      }
+     ]
+    },
+    {
+     "id": 19,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "119"
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "name": "tree",
+     "type": "prop",
+     "x": 24,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "675"
+      }
+     ]
+    },
+    {
+     "id": 23,
+     "name": "tree",
+     "type": "prop",
+     "x": 24,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "639"
+      }
+     ]
+    },
+    {
+     "id": 25,
+     "name": "tree",
+     "type": "prop",
+     "x": 56,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "271"
+      }
+     ]
+    },
+    {
+     "id": 27,
+     "name": "tree",
+     "type": "prop",
+     "x": 56,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "990"
+      }
+     ]
+    },
+    {
+     "id": 29,
+     "name": "tree",
+     "type": "prop",
+     "x": 88,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "158"
+      }
+     ]
+    },
+    {
+     "id": 31,
+     "name": "tree",
+     "type": "prop",
+     "x": 88,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "82"
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "name": "tree",
+     "type": "prop",
+     "x": 120,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "200"
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "name": "tree",
+     "type": "prop",
+     "x": 120,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "455"
+      }
+     ]
+    },
+    {
+     "id": 37,
+     "name": "tree",
+     "type": "prop",
+     "x": 152,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "869"
+      }
+     ]
+    },
+    {
+     "id": 39,
+     "name": "tree",
+     "type": "prop",
+     "x": 152,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "532"
+      }
+     ]
+    },
+    {
+     "id": 41,
+     "name": "tree",
+     "type": "prop",
+     "x": 184,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "728"
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "name": "tree",
+     "type": "prop",
+     "x": 184,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "431"
+      }
+     ]
+    },
+    {
+     "id": 45,
+     "name": "tree",
+     "type": "prop",
+     "x": 216,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "376"
+      }
+     ]
+    },
+    {
+     "id": 47,
+     "name": "tree",
+     "type": "prop",
+     "x": 216,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "138"
+      }
+     ]
+    },
+    {
+     "id": 49,
+     "name": "tree",
+     "type": "prop",
+     "x": 248,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "709"
+      }
+     ]
+    },
+    {
+     "id": 51,
+     "name": "tree",
+     "type": "prop",
+     "x": 248,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "529"
+      }
+     ]
+    },
+    {
+     "id": 53,
+     "name": "tree",
+     "type": "prop",
+     "x": 280,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "719"
+      }
+     ]
+    },
+    {
+     "id": 55,
+     "name": "tree",
+     "type": "prop",
+     "x": 280,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "571"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "tree",
+     "type": "prop",
+     "x": 312,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "584"
+      }
+     ]
+    },
+    {
+     "id": 59,
+     "name": "tree",
+     "type": "prop",
+     "x": 312,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "625"
+      }
+     ]
+    },
+    {
+     "id": 61,
+     "name": "tree",
+     "type": "prop",
+     "x": 344,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "568"
+      }
+     ]
+    },
+    {
+     "id": 63,
+     "name": "tree",
+     "type": "prop",
+     "x": 344,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "103"
+      }
+     ]
+    },
+    {
+     "id": 65,
+     "name": "tree",
+     "type": "prop",
+     "x": 376,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "639"
+      }
+     ]
+    },
+    {
+     "id": 67,
+     "name": "tree",
+     "type": "prop",
+     "x": 376,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "776"
+      }
+     ]
+    },
+    {
+     "id": 69,
+     "name": "tree",
+     "type": "prop",
+     "x": 408,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "280"
+      }
+     ]
+    },
+    {
+     "id": 71,
+     "name": "tree",
+     "type": "prop",
+     "x": 408,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "66"
+      }
+     ]
+    },
+    {
+     "id": 73,
+     "name": "tree",
+     "type": "prop",
+     "x": 440,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "695"
+      }
+     ]
+    },
+    {
+     "id": 75,
+     "name": "tree",
+     "type": "prop",
+     "x": 440,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "125"
+      }
+     ]
+    },
+    {
+     "id": 77,
+     "name": "tree",
+     "type": "prop",
+     "x": 472,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "920"
+      }
+     ]
+    },
+    {
+     "id": 79,
+     "name": "tree",
+     "type": "prop",
+     "x": 472,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "182"
+      }
+     ]
+    },
+    {
+     "id": 81,
+     "name": "tree",
+     "type": "prop",
+     "x": 504,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "120"
+      }
+     ]
+    },
+    {
+     "id": 83,
+     "name": "tree",
+     "type": "prop",
+     "x": 504,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "908"
+      }
+     ]
+    },
+    {
+     "id": 85,
+     "name": "tree",
+     "type": "prop",
+     "x": 536,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "536"
+      }
+     ]
+    },
+    {
+     "id": 87,
+     "name": "tree",
+     "type": "prop",
+     "x": 536,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "595"
+      }
+     ]
+    },
+    {
+     "id": 89,
+     "name": "tree",
+     "type": "prop",
+     "x": 568,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "209"
+      }
+     ]
+    },
+    {
+     "id": 91,
+     "name": "tree",
+     "type": "prop",
+     "x": 568,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "190"
+      }
+     ]
+    },
+    {
+     "id": 93,
+     "name": "tree",
+     "type": "prop",
+     "x": 600,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "5"
+      }
+     ]
+    },
+    {
+     "id": 95,
+     "name": "tree",
+     "type": "prop",
+     "x": 600,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "761"
+      }
+     ]
+    },
+    {
+     "id": 97,
+     "name": "tree",
+     "type": "prop",
+     "x": 632,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "747"
+      }
+     ]
+    },
+    {
+     "id": 99,
+     "name": "tree",
+     "type": "prop",
+     "x": 632,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "956"
+      }
+     ]
+    },
+    {
+     "id": 101,
+     "name": "tree",
+     "type": "prop",
+     "x": 664,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "451"
+      }
+     ]
+    },
+    {
+     "id": 103,
+     "name": "tree",
+     "type": "prop",
+     "x": 664,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "640"
+      }
+     ]
+    },
+    {
+     "id": 105,
+     "name": "tree",
+     "type": "prop",
+     "x": 696,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "157"
+      }
+     ]
+    },
+    {
+     "id": 107,
+     "name": "tree",
+     "type": "prop",
+     "x": 696,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "256"
+      }
+     ]
+    },
+    {
+     "id": 109,
+     "name": "tree",
+     "type": "prop",
+     "x": 728,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "893"
+      }
+     ]
+    },
+    {
+     "id": 111,
+     "name": "tree",
+     "type": "prop",
+     "x": 728,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "53"
+      }
+     ]
+    },
+    {
+     "id": 113,
+     "name": "tree",
+     "type": "prop",
+     "x": 760,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "379"
+      }
+     ]
+    },
+    {
+     "id": 115,
+     "name": "tree",
+     "type": "prop",
+     "x": 760,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "801"
+      }
+     ]
+    },
+    {
+     "id": 117,
+     "name": "tree",
+     "type": "prop",
+     "x": 792,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "419"
+      }
+     ]
+    },
+    {
+     "id": 119,
+     "name": "tree",
+     "type": "prop",
+     "x": 792,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "633"
+      }
+     ]
+    },
+    {
+     "id": 121,
+     "name": "tree",
+     "type": "prop",
+     "x": 824,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "857"
+      }
+     ]
+    },
+    {
+     "id": 123,
+     "name": "tree",
+     "type": "prop",
+     "x": 824,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "417"
+      }
+     ]
+    },
+    {
+     "id": 125,
+     "name": "tree",
+     "type": "prop",
+     "x": 856,
+     "y": -8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "618"
+      }
+     ]
+    },
+    {
+     "id": 127,
+     "name": "tree",
+     "type": "prop",
+     "x": 856,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "330"
+      }
+     ]
+    },
+    {
+     "id": 129,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "955"
+      }
+     ]
+    },
+    {
+     "id": 131,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "47"
+      }
+     ]
+    },
+    {
+     "id": 133,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 56,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "376"
+      }
+     ]
+    },
+    {
+     "id": 135,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 56,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "783"
+      }
+     ]
+    },
+    {
+     "id": 137,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 88,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "774"
+      }
+     ]
+    },
+    {
+     "id": 139,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 88,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "169"
+      }
+     ]
+    },
+    {
+     "id": 141,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 120,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "271"
+      }
+     ]
+    },
+    {
+     "id": 143,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 120,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "628"
+      }
+     ]
+    },
+    {
+     "id": 145,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 152,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "789"
+      }
+     ]
+    },
+    {
+     "id": 147,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 152,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "653"
+      }
+     ]
+    },
+    {
+     "id": 149,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 184,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "510"
+      }
+     ]
+    },
+    {
+     "id": 151,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 184,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "451"
+      }
+     ]
+    },
+    {
+     "id": 153,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 216,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "840"
+      }
+     ]
+    },
+    {
+     "id": 155,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 216,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "705"
+      }
+     ]
+    },
+    {
+     "id": 157,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 248,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "550"
+      }
+     ]
+    },
+    {
+     "id": 159,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 248,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "120"
+      }
+     ]
+    },
+    {
+     "id": 161,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 280,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "377"
+      }
+     ]
+    },
+    {
+     "id": 163,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 312,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "738"
+      }
+     ]
+    },
+    {
+     "id": 165,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 344,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "125"
+      }
+     ]
+    },
+    {
+     "id": 167,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 344,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "931"
+      }
+     ]
+    },
+    {
+     "id": 169,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 376,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "409"
+      }
+     ]
+    },
+    {
+     "id": 171,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 376,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "275"
+      }
+     ]
+    },
+    {
+     "id": 173,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 408,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "806"
+      }
+     ]
+    },
+    {
+     "id": 175,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 408,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "704"
+      }
+     ]
+    },
+    {
+     "id": 177,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 440,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "733"
+      }
+     ]
+    },
+    {
+     "id": 179,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 440,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "251"
+      }
+     ]
+    },
+    {
+     "id": 181,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 472,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "747"
+      }
+     ]
+    },
+    {
+     "id": 183,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 472,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "930"
+      }
+     ]
+    },
+    {
+     "id": 185,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 504,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "687"
+      }
+     ]
+    },
+    {
+     "id": 187,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 504,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "812"
+      }
+     ]
+    },
+    {
+     "id": 189,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 536,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "121"
+      }
+     ]
+    },
+    {
+     "id": 191,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 536,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "1"
+      }
+     ]
+    },
+    {
+     "id": 193,
+     "name": "tree",
+     "type": "prop",
+     "x": -8,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "751"
+      }
+     ]
+    },
+    {
+     "id": 195,
+     "name": "tree",
+     "type": "prop",
+     "x": 872,
+     "y": 568,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "648"
+      }
+     ]
+    },
+    {
+     "id": 202,
+     "name": "Cổng Đông",
+     "type": "prop",
+     "x": 864,
+     "y": 264,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "portal"
+      }
+     ]
+    },
+    {
+     "id": 203,
+     "name": "to_village",
+     "type": "portal",
+     "x": 876,
+     "y": 272,
+     "width": 28,
+     "height": 64,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "target",
+       "type": "string",
+       "value": "truc_lam_thon"
+      },
+      {
+       "name": "target_spawn",
+       "type": "string",
+       "value": "from_lake"
+      }
+     ]
+    },
+    {
+     "id": 204,
+     "name": "Về Trúc Lâm Thôn",
+     "type": "sign",
+     "x": 816,
+     "y": 240,
+     "width": 16,
+     "height": 20,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "sign"
+      },
+      {
+       "name": "text",
+       "type": "string",
+       "value": "Trúc Lâm Thôn →"
+      }
+     ]
+    },
+    {
+     "id": 206,
+     "name": "rock",
+     "type": "prop",
+     "x": 128,
+     "y": 384,
+     "width": 16,
+     "height": 12,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "rock"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "0"
+      }
+     ]
+    },
+    {
+     "id": 208,
+     "name": "rock",
+     "type": "prop",
+     "x": 752,
+     "y": 320,
+     "width": 16,
+     "height": 12,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "rock"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "1"
+      }
+     ]
+    },
+    {
+     "id": 210,
+     "name": "rock",
+     "type": "prop",
+     "x": 192,
+     "y": 80,
+     "width": 16,
+     "height": 12,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "rock"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "2"
+      }
+     ]
+    },
+    {
+     "id": 212,
+     "name": "slimes_west",
+     "type": "monster_area",
+     "x": 32,
+     "y": 352,
+     "width": 160,
+     "height": 192,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "monster",
+       "type": "string",
+       "value": "ink_slime"
+      },
+      {
+       "name": "count",
+       "type": "string",
+       "value": "5"
+      }
+     ]
+    },
+    {
+     "id": 213,
+     "name": "wisps_north",
+     "type": "monster_area",
+     "x": 288,
+     "y": 16,
+     "width": 384,
+     "height": 80,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "monster",
+       "type": "string",
+       "value": "tone_wisp"
+      },
+      {
+       "name": "count",
+       "type": "string",
+       "value": "3"
+      }
+     ]
+    },
+    {
+     "id": 214,
+     "name": "slimes_east",
+     "type": "monster_area",
+     "x": 736,
+     "y": 416,
+     "width": 128,
+     "height": 144,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "monster",
+       "type": "string",
+       "value": "ink_slime"
+      },
+      {
+       "name": "count",
+       "type": "string",
+       "value": "3"
+      }
+     ]
+    },
+    {
+     "id": 215,
+     "name": "tree",
+     "type": "prop",
+     "x": 696,
+     "y": 360,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "275"
+      }
+     ]
+    },
+    {
+     "id": 217,
+     "name": "tree",
+     "type": "prop",
+     "x": 184,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "596"
+      }
+     ]
+    },
+    {
+     "id": 219,
+     "name": "tree",
+     "type": "prop",
+     "x": 680,
+     "y": 40,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "999"
+      }
+     ]
+    },
+    {
+     "id": 221,
+     "name": "tree",
+     "type": "prop",
+     "x": 56,
+     "y": 56,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "236"
+      }
+     ]
+    },
+    {
+     "id": 223,
+     "name": "tree",
+     "type": "prop",
+     "x": 88,
+     "y": 264,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "443"
+      }
+     ]
+    },
+    {
+     "id": 225,
+     "name": "tree",
+     "type": "prop",
+     "x": 152,
+     "y": 360,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "343"
+      }
+     ]
+    },
+    {
+     "id": 227,
+     "name": "tree",
+     "type": "prop",
+     "x": 120,
+     "y": 520,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "118"
+      }
+     ]
+    },
+    {
+     "id": 229,
+     "name": "tree",
+     "type": "prop",
+     "x": 88,
+     "y": 392,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "322"
+      }
+     ]
+    },
+    {
+     "id": 231,
+     "name": "tree",
+     "type": "prop",
+     "x": 392,
+     "y": 40,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "404"
+      }
+     ]
+    },
+    {
+     "id": 233,
+     "name": "tree",
+     "type": "prop",
+     "x": 808,
+     "y": 520,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "352"
+      }
+     ]
+    },
+    {
+     "id": 235,
+     "name": "tree",
+     "type": "prop",
+     "x": 296,
+     "y": 8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "774"
+      }
+     ]
+    },
+    {
+     "id": 237,
+     "name": "tree",
+     "type": "prop",
+     "x": 728,
+     "y": 72,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "690"
+      }
+     ]
+    },
+    {
+     "id": 239,
+     "name": "tree",
+     "type": "prop",
+     "x": 584,
+     "y": 456,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "5"
+      }
+     ]
+    },
+    {
+     "id": 241,
+     "name": "tree",
+     "type": "prop",
+     "x": 440,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "584"
+      }
+     ]
+    },
+    {
+     "id": 243,
+     "name": "tree",
+     "type": "prop",
+     "x": 104,
+     "y": 136,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "148"
+      }
+     ]
+    },
+    {
+     "id": 245,
+     "name": "tree",
+     "type": "prop",
+     "x": 40,
+     "y": 152,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "252"
+      }
+     ]
+    },
+    {
+     "id": 247,
+     "name": "tree",
+     "type": "prop",
+     "x": 56,
+     "y": 472,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "26"
+      }
+     ]
+    },
+    {
+     "id": 249,
+     "name": "tree",
+     "type": "prop",
+     "x": 808,
+     "y": 104,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "501"
+      }
+     ]
+    },
+    {
+     "id": 251,
+     "name": "tree",
+     "type": "prop",
+     "x": 168,
+     "y": 472,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "589"
+      }
+     ]
+    },
+    {
+     "id": 253,
+     "name": "tree",
+     "type": "prop",
+     "x": 24,
+     "y": 392,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "929"
+      }
+     ]
+    },
+    {
+     "id": 255,
+     "name": "tree",
+     "type": "prop",
+     "x": 472,
+     "y": 536,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "571"
+      }
+     ]
+    },
+    {
+     "id": 257,
+     "name": "tree",
+     "type": "prop",
+     "x": 120,
+     "y": 72,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "747"
+      }
+     ]
+    },
+    {
+     "id": 259,
+     "name": "tree",
+     "type": "prop",
+     "x": 568,
+     "y": 536,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "243"
+      }
+     ]
+    },
+    {
+     "id": 261,
+     "name": "tree",
+     "type": "prop",
+     "x": 488,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "697"
+      }
+     ]
+    },
+    {
+     "id": 263,
+     "name": "tree",
+     "type": "prop",
+     "x": 776,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "13"
+      }
+     ]
+    },
+    {
+     "id": 265,
+     "name": "tree",
+     "type": "prop",
+     "x": 552,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "705"
+      }
+     ]
+    },
+    {
+     "id": 267,
+     "name": "tree",
+     "type": "prop",
+     "x": 696,
+     "y": 456,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "603"
+      }
+     ]
+    },
+    {
+     "id": 269,
+     "name": "tree",
+     "type": "prop",
+     "x": 312,
+     "y": 536,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "80"
+      }
+     ]
+    },
+    {
+     "id": 271,
+     "name": "tree",
+     "type": "prop",
+     "x": 840,
+     "y": 456,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "905"
+      }
+     ]
+    },
+    {
+     "id": 273,
+     "name": "tree",
+     "type": "prop",
+     "x": 344,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "598"
+      }
+     ]
+    },
+    {
+     "id": 275,
+     "name": "tree",
+     "type": "prop",
+     "x": 648,
+     "y": 520,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "533"
+      }
+     ]
+    },
+    {
+     "id": 277,
+     "name": "tree",
+     "type": "prop",
+     "x": 840,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "441"
+      }
+     ]
+    },
+    {
+     "id": 279,
+     "name": "tree",
+     "type": "prop",
+     "x": 40,
+     "y": 216,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "421"
+      }
+     ]
+    },
+    {
+     "id": 281,
+     "name": "tree",
+     "type": "prop",
+     "x": 408,
+     "y": 536,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "743"
+      }
+     ]
+    },
+    {
+     "id": 283,
+     "name": "spawn",
+     "type": "spawn",
+     "x": 832,
+     "y": 304,
+     "width": 1,
+     "height": 1,
+     "rotation": 0,
+     "visible": true,
+     "properties": []
+    },
+    {
+     "id": 284,
+     "name": "from_village",
+     "type": "spawn",
+     "x": 832,
+     "y": 304,
+     "width": 1,
+     "height": 1,
+     "rotation": 0,
+     "visible": true,
+     "properties": []
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "collision",
+   "type": "objectgroup",
+   "draworder": "topdown",
+   "opacity": 1,
+   "visible": false,
+   "x": 0,
+   "y": 0,
+   "objects": [
+    {
+     "id": 1,
+     "name": "",
+     "type": "solid",
+     "x": 224,
+     "y": 112,
+     "width": 208,
+     "height": 304,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 2,
+     "name": "",
+     "type": "solid",
+     "x": 464,
+     "y": 112,
+     "width": 208,
+     "height": 304,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 3,
+     "name": "",
+     "type": "solid",
+     "x": 432,
+     "y": 112,
+     "width": 32,
+     "height": 192,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 4,
+     "name": "",
+     "type": "solid",
+     "x": 160,
+     "y": 192,
+     "width": 64,
+     "height": 128,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 5,
+     "name": "",
+     "type": "solid",
+     "x": 672,
+     "y": 160,
+     "width": 64,
+     "height": 112,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 10,
+     "name": "",
+     "type": "solid",
+     "x": 290,
+     "y": 474,
+     "width": 60,
+     "height": 30,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 12,
+     "name": "",
+     "type": "solid",
+     "x": 402,
+     "y": 446,
+     "width": 12,
+     "height": 10,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 14,
+     "name": "",
+     "type": "solid",
+     "x": 498,
+     "y": 464,
+     "width": 12,
+     "height": 8,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 18,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 20,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 22,
+     "name": "",
+     "type": "solid",
+     "x": 36,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 24,
+     "name": "",
+     "type": "solid",
+     "x": 36,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 26,
+     "name": "",
+     "type": "solid",
+     "x": 68,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 28,
+     "name": "",
+     "type": "solid",
+     "x": 68,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 30,
+     "name": "",
+     "type": "solid",
+     "x": 100,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 32,
+     "name": "",
+     "type": "solid",
+     "x": 100,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 34,
+     "name": "",
+     "type": "solid",
+     "x": 132,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 36,
+     "name": "",
+     "type": "solid",
+     "x": 132,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 38,
+     "name": "",
+     "type": "solid",
+     "x": 164,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 40,
+     "name": "",
+     "type": "solid",
+     "x": 164,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 42,
+     "name": "",
+     "type": "solid",
+     "x": 196,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 44,
+     "name": "",
+     "type": "solid",
+     "x": 196,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 46,
+     "name": "",
+     "type": "solid",
+     "x": 228,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 48,
+     "name": "",
+     "type": "solid",
+     "x": 228,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 50,
+     "name": "",
+     "type": "solid",
+     "x": 260,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 52,
+     "name": "",
+     "type": "solid",
+     "x": 260,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 54,
+     "name": "",
+     "type": "solid",
+     "x": 292,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 56,
+     "name": "",
+     "type": "solid",
+     "x": 292,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 58,
+     "name": "",
+     "type": "solid",
+     "x": 324,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 60,
+     "name": "",
+     "type": "solid",
+     "x": 324,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 62,
+     "name": "",
+     "type": "solid",
+     "x": 356,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 64,
+     "name": "",
+     "type": "solid",
+     "x": 356,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 66,
+     "name": "",
+     "type": "solid",
+     "x": 388,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 68,
+     "name": "",
+     "type": "solid",
+     "x": 388,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 70,
+     "name": "",
+     "type": "solid",
+     "x": 420,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 72,
+     "name": "",
+     "type": "solid",
+     "x": 420,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 74,
+     "name": "",
+     "type": "solid",
+     "x": 452,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 76,
+     "name": "",
+     "type": "solid",
+     "x": 452,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 78,
+     "name": "",
+     "type": "solid",
+     "x": 484,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 80,
+     "name": "",
+     "type": "solid",
+     "x": 484,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 82,
+     "name": "",
+     "type": "solid",
+     "x": 516,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 84,
+     "name": "",
+     "type": "solid",
+     "x": 516,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 86,
+     "name": "",
+     "type": "solid",
+     "x": 548,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 88,
+     "name": "",
+     "type": "solid",
+     "x": 548,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 90,
+     "name": "",
+     "type": "solid",
+     "x": 580,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 92,
+     "name": "",
+     "type": "solid",
+     "x": 580,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 94,
+     "name": "",
+     "type": "solid",
+     "x": 612,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 96,
+     "name": "",
+     "type": "solid",
+     "x": 612,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 98,
+     "name": "",
+     "type": "solid",
+     "x": 644,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 100,
+     "name": "",
+     "type": "solid",
+     "x": 644,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 102,
+     "name": "",
+     "type": "solid",
+     "x": 676,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 104,
+     "name": "",
+     "type": "solid",
+     "x": 676,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 106,
+     "name": "",
+     "type": "solid",
+     "x": 708,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 108,
+     "name": "",
+     "type": "solid",
+     "x": 708,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 110,
+     "name": "",
+     "type": "solid",
+     "x": 740,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 112,
+     "name": "",
+     "type": "solid",
+     "x": 740,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 114,
+     "name": "",
+     "type": "solid",
+     "x": 772,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 116,
+     "name": "",
+     "type": "solid",
+     "x": 772,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 118,
+     "name": "",
+     "type": "solid",
+     "x": 804,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 120,
+     "name": "",
+     "type": "solid",
+     "x": 804,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 122,
+     "name": "",
+     "type": "solid",
+     "x": 836,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 124,
+     "name": "",
+     "type": "solid",
+     "x": 836,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 126,
+     "name": "",
+     "type": "solid",
+     "x": 868,
+     "y": 24,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 128,
+     "name": "",
+     "type": "solid",
+     "x": 868,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 130,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 132,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 134,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 88,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 136,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 88,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 138,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 120,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 140,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 120,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 142,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 152,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 144,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 152,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 146,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 184,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 148,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 184,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 150,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 216,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 152,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 216,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 154,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 248,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 156,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 248,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 158,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 280,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 160,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 280,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 162,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 312,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 164,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 344,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 166,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 376,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 168,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 376,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 170,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 408,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 172,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 408,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 174,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 440,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 176,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 440,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 178,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 472,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 180,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 472,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 182,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 504,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 184,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 504,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 186,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 536,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 188,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 536,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 190,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 568,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 192,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 568,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 194,
+     "name": "",
+     "type": "solid",
+     "x": 4,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 196,
+     "name": "",
+     "type": "solid",
+     "x": 884,
+     "y": 600,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 197,
+     "name": "",
+     "type": "solid",
+     "x": 0,
+     "y": 0,
+     "width": 896,
+     "height": 24,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 198,
+     "name": "",
+     "type": "solid",
+     "x": 0,
+     "y": 588,
+     "width": 896,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 199,
+     "name": "",
+     "type": "solid",
+     "x": 0,
+     "y": 0,
+     "width": 16,
+     "height": 608,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 200,
+     "name": "",
+     "type": "solid",
+     "x": 880,
+     "y": 0,
+     "width": 16,
+     "height": 272,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 201,
+     "name": "",
+     "type": "solid",
+     "x": 880,
+     "y": 336,
+     "width": 16,
+     "height": 272,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 205,
+     "name": "",
+     "type": "solid",
+     "x": 822,
+     "y": 254,
+     "width": 4,
+     "height": 6,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 207,
+     "name": "",
+     "type": "solid",
+     "x": 130,
+     "y": 388,
+     "width": 12,
+     "height": 8,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 209,
+     "name": "",
+     "type": "solid",
+     "x": 754,
+     "y": 324,
+     "width": 12,
+     "height": 8,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 211,
+     "name": "",
+     "type": "solid",
+     "x": 194,
+     "y": 84,
+     "width": 12,
+     "height": 8,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 216,
+     "name": "",
+     "type": "solid",
+     "x": 708,
+     "y": 392,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 218,
+     "name": "",
+     "type": "solid",
+     "x": 196,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 220,
+     "name": "",
+     "type": "solid",
+     "x": 692,
+     "y": 72,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 222,
+     "name": "",
+     "type": "solid",
+     "x": 68,
+     "y": 88,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 224,
+     "name": "",
+     "type": "solid",
+     "x": 100,
+     "y": 296,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 226,
+     "name": "",
+     "type": "solid",
+     "x": 164,
+     "y": 392,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 228,
+     "name": "",
+     "type": "solid",
+     "x": 132,
+     "y": 552,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 230,
+     "name": "",
+     "type": "solid",
+     "x": 100,
+     "y": 424,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 232,
+     "name": "",
+     "type": "solid",
+     "x": 404,
+     "y": 72,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 234,
+     "name": "",
+     "type": "solid",
+     "x": 820,
+     "y": 552,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 236,
+     "name": "",
+     "type": "solid",
+     "x": 308,
+     "y": 40,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 238,
+     "name": "",
+     "type": "solid",
+     "x": 740,
+     "y": 104,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 240,
+     "name": "",
+     "type": "solid",
+     "x": 596,
+     "y": 488,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 242,
+     "name": "",
+     "type": "solid",
+     "x": 452,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 244,
+     "name": "",
+     "type": "solid",
+     "x": 116,
+     "y": 168,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 246,
+     "name": "",
+     "type": "solid",
+     "x": 52,
+     "y": 184,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 248,
+     "name": "",
+     "type": "solid",
+     "x": 68,
+     "y": 504,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 250,
+     "name": "",
+     "type": "solid",
+     "x": 820,
+     "y": 136,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 252,
+     "name": "",
+     "type": "solid",
+     "x": 180,
+     "y": 504,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 254,
+     "name": "",
+     "type": "solid",
+     "x": 36,
+     "y": 424,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 256,
+     "name": "",
+     "type": "solid",
+     "x": 484,
+     "y": 568,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 258,
+     "name": "",
+     "type": "solid",
+     "x": 132,
+     "y": 104,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 260,
+     "name": "",
+     "type": "solid",
+     "x": 580,
+     "y": 568,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 262,
+     "name": "",
+     "type": "solid",
+     "x": 500,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 264,
+     "name": "",
+     "type": "solid",
+     "x": 788,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 266,
+     "name": "",
+     "type": "solid",
+     "x": 564,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 268,
+     "name": "",
+     "type": "solid",
+     "x": 708,
+     "y": 488,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 270,
+     "name": "",
+     "type": "solid",
+     "x": 324,
+     "y": 568,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 272,
+     "name": "",
+     "type": "solid",
+     "x": 852,
+     "y": 488,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 274,
+     "name": "",
+     "type": "solid",
+     "x": 356,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 276,
+     "name": "",
+     "type": "solid",
+     "x": 660,
+     "y": 552,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 278,
+     "name": "",
+     "type": "solid",
+     "x": 852,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 280,
+     "name": "",
+     "type": "solid",
+     "x": 52,
+     "y": 248,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 282,
+     "name": "",
+     "type": "solid",
+     "x": 420,
+     "y": 568,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    }
+   ]
+  }
+ ],
+ "tilesets": [
+  {
+   "firstgid": 1,
+   "name": "tiles",
+   "image": "../sprites/tiles.png",
+   "imagewidth": 128,
+   "imageheight": 48,
+   "tilewidth": 16,
+   "tileheight": 16,
+   "tilecount": 21,
+   "columns": 8,
+   "margin": 0,
+   "spacing": 0
+  }
+ ]
+}

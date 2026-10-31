@@ -1,0 +1,114 @@
+{
+ "mishaps": [
+  {
+   "id": "horse_mom",
+   "target": "妈",
+   "wrong_pinyin": "ma3",
+   "wrong_hanzi": "马",
+   "wrong_vi": "con ngựa",
+   "effect": "horse_run",
+   "line_vi": "Con gọi mẹ hay gọi ngựa vậy?",
+   "target_id": "ma1_5988",
+   "wrong_pinyin_marked": "mǎ"
+  },
+  {
+   "id": "mom_horse",
+   "target": "马",
+   "wrong_pinyin": "ma1",
+   "wrong_hanzi": "妈",
+   "wrong_vi": "mẹ",
+   "effect": "horse_blush",
+   "line_vi": "Con ngựa được gọi là mẹ, cảm động rơm rớm nước mắt kìa.",
+   "target_id": "ma3_9a6c",
+   "wrong_pinyin_marked": "mā"
+  },
+  {
+   "id": "sell_hoe",
+   "target": "买",
+   "wrong_pinyin": "mai4",
+   "wrong_hanzi": "卖",
+   "wrong_vi": "bán",
+   "effect": "lose_stones",
+   "line_vi": "Bạn vừa rao bán cái cuốc của mình!",
+   "target_id": "mai3_4e70",
+   "wrong_pinyin_marked": "mài"
+  },
+  {
+   "id": "buy_back",
+   "target": "卖",
+   "wrong_pinyin": "mai3",
+   "wrong_hanzi": "买",
+   "wrong_vi": "mua",
+   "effect": "merchant_confused",
+   "line_vi": "Định bán hàng mà lại hô \"mua đây\", khách đứng hình luôn.",
+   "target_id": "mai4_5356",
+   "wrong_pinyin_marked": "mǎi"
+  },
+  {
+   "id": "kiss_ask",
+   "target": "问",
+   "wrong_pinyin": "wen3",
+   "wrong_hanzi": "吻",
+   "wrong_vi": "hôn",
+   "effect": "villager_blush",
+   "line_vi": "Con định hỏi người ta... hay định hôn người ta thế?",
+   "target_id": "wen4_95ee",
+   "wrong_pinyin_marked": "wěn"
+  },
+  {
+   "id": "water_sleep",
+   "target": "水",
+   "wrong_pinyin": "shui4",
+   "wrong_hanzi": "睡",
+   "wrong_vi": "ngủ",
+   "effect": "plants_sleep",
+   "line_vi": "Cây đang khát nước, con lại bảo nó đi ngủ à?",
+   "target_id": "shui3_6c34",
+   "wrong_pinyin_marked": "shuì"
+  },
+  {
+   "id": "please_light",
+   "target": "请",
+   "wrong_pinyin": "qing1",
+   "wrong_hanzi": "轻",
+   "wrong_vi": "nhẹ",
+   "effect": "float_up",
+   "line_vi": "Mời khách thì không mời, cả vườn lại nhẹ bẫng bay lên.",
+   "target_id": "qing3_8bf7",
+   "wrong_pinyin_marked": "qīng"
+  },
+  {
+   "id": "tea_insert",
+   "target": "茶",
+   "wrong_pinyin": "cha1",
+   "wrong_hanzi": "插",
+   "wrong_vi": "cắm, chèn",
+   "effect": "flower_in_teapot",
+   "line_vi": "Ai lại cắm hoa vào ấm trà của sư phụ thế này!",
+   "target_id": "cha2_8336",
+   "wrong_pinyin_marked": "chā"
+  },
+  {
+   "id": "flower_talk",
+   "target": "花",
+   "wrong_pinyin": "hua4",
+   "wrong_hanzi": "话",
+   "wrong_vi": "lời nói",
+   "effect": "flowers_talk",
+   "line_vi": "Hoa trong vườn bỗng nói chuyện râm ran, ồn quá!",
+   "target_id": "hua1_82b1",
+   "wrong_pinyin_marked": "huà"
+  },
+  {
+   "id": "mountain_flash",
+   "target": "山",
+   "wrong_pinyin": "shan3",
+   "wrong_hanzi": "闪",
+   "wrong_vi": "lóe, chớp",
+   "effect": "lightning_flash",
+   "line_vi": "Núi đâu không thấy, chỉ thấy một tia chớp lóe lên.",
+   "target_id": "shan1_5c71",
+   "wrong_pinyin_marked": "shǎn"
+  }
+ ]
+}

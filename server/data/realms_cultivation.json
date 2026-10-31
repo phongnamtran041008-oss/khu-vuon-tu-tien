@@ -1,0 +1,10 @@
+{
+  "_comment": "Cultivation realms in order (spec 7.3). hsk = vocabulary level of the realm.",
+  "realms": [
+    {"id": "pham_nhan", "name_vi": "Phàm Nhân", "hsk": 0, "stages": 0},
+    {"id": "luyen_khi", "name_vi": "Luyện Khí", "hsk": 1, "stages": 9},
+    {"id": "truc_co", "name_vi": "Trúc Cơ", "hsk": 2, "stages": 3},
+    {"id": "kim_dan", "name_vi": "Kim Đan", "hsk": 3, "stages": 3},
+    {"id": "nguyen_anh", "name_vi": "Nguyên Anh", "hsk": 4, "stages": 3}
+  ]
+}

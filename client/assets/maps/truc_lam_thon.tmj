@@ -1,0 +1,8169 @@
+{
+ "compressionlevel": -1,
+ "height": 36,
+ "width": 56,
+ "infinite": false,
+ "orientation": "orthogonal",
+ "renderorder": "right-down",
+ "tiledversion": "1.10.2",
+ "tileheight": 16,
+ "tilewidth": 16,
+ "type": "map",
+ "version": "1.10",
+ "nextlayerid": 4,
+ "nextobjectid": 301,
+ "properties": [
+  {
+   "name": "zone",
+   "type": "string",
+   "value": "truc_lam_thon"
+  },
+  {
+   "name": "name_vi",
+   "type": "string",
+   "value": "Trúc Lâm Thôn"
+  },
+  {
+   "name": "music",
+   "type": "string",
+   "value": "village"
+  },
+  {
+   "name": "safe",
+   "type": "string",
+   "value": "true"
+  }
+ ],
+ "layers": [
+  {
+   "id": 1,
+   "name": "ground",
+   "type": "tilelayer",
+   "width": 56,
+   "height": 36,
+   "x": 0,
+   "y": 0,
+   "opacity": 1,
+   "visible": true,
+   "data": [
+    3,
+    1,
+    1,
+    5,
+    1,
+    1,
+    1,
+    3,
+    1,
+    2,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    3,
+    2,
+    2,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    3,
+    3,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    3,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    4,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    5,
+    1,
+    3,
+    2,
+    2,
+    1,
+    3,
+    1,
+    3,
+    5,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    2,
+    5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    2,
+    2,
+    2,
+    2,
+    1,
+    2,
+    2,
+    3,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    2,
+    4,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    2,
+    1,
+    4,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    5,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    3,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    5,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    4,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    5,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    5,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    3,
+    3,
+    2,
+    1,
+    1,
+    1,
+    2,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    3,
+    1,
+    2,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    1,
+    3,
+    1,
+    4,
+    2,
+    2,
+    4,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    5,
+    1,
+    1,
+    1,
+    3,
+    1,
+    2,
+    2,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    2,
+    4,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    5,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    1,
+    3,
+    1,
+    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    4,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    1,
+    3,
+    2,
+    2,
+    3,
+    3,
+    1,
+    6,
+    7,
+    6,
+    7,
+    1,
+    1,
+    1,
+    1,
+    2,
+    5,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    4,
+    1,
+    3,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    7,
+    6,
+    7,
+    6,
+    1,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    3,
+    7,
+    6,
+    7,
+    6,
+    4,
+    2,
+    1,
+    2,
+    1,
+    1,
+    3,
+    2,
+    2,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    4,
+    3,
+    1,
+    1,
+    1,
+    1,
+    6,
+    7,
+    6,
+    7,
+    2,
+    3,
+    5,
+    5,
+    1,
+    1,
+    1,
+    5,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    6,
+    7,
+    6,
+    7,
+    1,
+    3,
+    1,
+    2,
+    2,
+    2,
+    6,
+    7,
+    6,
+    7,
+    2,
+    3,
+    3,
+    1,
+    1,
+    1,
+    3,
+    5,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    7,
+    6,
+    7,
+    6,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    7,
+    6,
+    7,
+    6,
+    3,
+    2,
+    1,
+    5,
+    1,
+    2,
+    7,
+    6,
+    7,
+    6,
+    1,
+    5,
+    1,
+    1,
+    2,
+    2,
+    2,
+    4,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    3,
+    3,
+    3,
+    5,
+    2,
+    1,
+    1,
+    6,
+    7,
+    6,
+    7,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    6,
+    7,
+    6,
+    7,
+    2,
+    1,
+    3,
+    2,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    7,
+    6,
+    7,
+    6,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    7,
+    6,
+    7,
+    6,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    5,
+    3,
+    3,
+    3,
+    1,
+    1,
+    1,
+    6,
+    7,
+    6,
+    7,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    5,
+    2,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    6,
+    7,
+    6,
+    7,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    7,
+    6,
+    7,
+    6,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    2,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    7,
+    6,
+    7,
+    6,
+    3,
+    1,
+    2,
+    3,
+    4,
+    3,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    1,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    3,
+    3,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    1,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    5,
+    1,
+    2,
+    1,
+    1,
+    1,
+    4,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    3,
+    3,
+    3,
+    3,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    3,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    3,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    13,
+    12,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    4,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    3,
+    2,
+    1,
+    3,
+    3,
+    2,
+    3,
+    2,
+    1,
+    3,
+    2,
+    2,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    2,
+    1,
+    4,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    5,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    3,
+    4,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    2,
+    1,
+    3,
+    1,
+    3,
+    4,
+    2,
+    1,
+    1,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    5,
+    2,
+    1,
+    3,
+    1,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    2,
+    6,
+    6,
+    7,
+    6,
+    6,
+    7,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    3,
+    2,
+    1,
+    2,
+    1,
+    2,
+    3,
+    2,
+    1,
+    1,
+    3,
+    1,
+    2,
+    3,
+    1,
+    2,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    2,
+    1,
+    1,
+    1,
+    3,
+    3,
+    3,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    6,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    5,
+    1,
+    3,
+    3,
+    2,
+    1,
+    6,
+    6,
+    7,
+    6,
+    2,
+    1,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    6,
+    7,
+    1,
+    1,
+    3,
+    1,
+    3,
+    3,
+    1,
+    3,
+    1,
+    1,
+    1,
+    2,
+    1,
+    2,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    6,
+    6,
+    7,
+    6,
+    2,
+    1,
+    2,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    8,
+    1,
+    3,
+    5,
+    3,
+    1,
+    2,
+    1,
+    2,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    6,
+    6,
+    7,
+    6,
+    2,
+    1,
+    1,
+    3,
+    4,
+    2,
+    1,
+    1,
+    5,
+    2,
+    2,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    2,
+    3,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    5,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    6,
+    6,
+    7,
+    6,
+    4,
+    1,
+    2,
+    1,
+    3,
+    3,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    4,
+    3,
+    3,
+    1,
+    1,
+    5,
+    1,
+    2,
+    2,
+    3,
+    2,
+    1,
+    2,
+    3,
+    1,
+    4,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    1,
+    1,
+    3,
+    1,
+    4,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    6,
+    6,
+    7,
+    6,
+    1,
+    2,
+    1,
+    1,
+    3,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    3,
+    3,
+    1,
+    1,
+    5,
+    3,
+    2,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    2,
+    2,
+    1,
+    1,
+    1,
+    5,
+    2,
+    2,
+    2,
+    1,
+    3,
+    2,
+    6,
+    6,
+    7,
+    6,
+    1,
+    1,
+    2,
+    1,
+    2,
+    2,
+    3,
+    1,
+    3,
+    2,
+    3,
+    2,
+    5,
+    1,
+    2,
+    1,
+    1,
+    3,
+    3,
+    1,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    2,
+    2,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    2,
+    2,
+    1,
+    5,
+    1,
+    1,
+    1,
+    3,
+    1,
+    6,
+    6,
+    7,
+    6,
+    2,
+    1,
+    5,
+    2,
+    2,
+    5,
+    1,
+    1,
+    2,
+    2,
+    1,
+    2,
+    1,
+    3,
+    5,
+    2,
+    3,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    3,
+    1,
+    2,
+    2,
+    3,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    3,
+    3,
+    1,
+    3,
+    6,
+    6,
+    7,
+    6,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    1,
+    2,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    2,
+    1,
+    1,
+    4,
+    2,
+    3,
+    1,
+    1
+   ]
+  },
+  {
+   "id": 2,
+   "name": "objects",
+   "type": "objectgroup",
+   "draworder": "topdown",
+   "opacity": 1,
+   "visible": true,
+   "x": 0,
+   "y": 0,
+   "objects": [
+    {
+     "id": 2,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "0"
+      }
+     ]
+    },
+    {
+     "id": 3,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "300"
+      }
+     ]
+    },
+    {
+     "id": 4,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 16,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "1"
+      }
+     ]
+    },
+    {
+     "id": 5,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 16,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "301"
+      }
+     ]
+    },
+    {
+     "id": 6,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 32,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "2"
+      }
+     ]
+    },
+    {
+     "id": 7,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 32,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "302"
+      }
+     ]
+    },
+    {
+     "id": 8,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 48,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "3"
+      }
+     ]
+    },
+    {
+     "id": 9,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 48,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "303"
+      }
+     ]
+    },
+    {
+     "id": 10,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 64,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "4"
+      }
+     ]
+    },
+    {
+     "id": 11,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 64,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "304"
+      }
+     ]
+    },
+    {
+     "id": 12,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 80,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "5"
+      }
+     ]
+    },
+    {
+     "id": 13,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 80,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "305"
+      }
+     ]
+    },
+    {
+     "id": 14,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 96,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "6"
+      }
+     ]
+    },
+    {
+     "id": 15,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 96,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "306"
+      }
+     ]
+    },
+    {
+     "id": 16,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 112,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "7"
+      }
+     ]
+    },
+    {
+     "id": 17,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 112,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "307"
+      }
+     ]
+    },
+    {
+     "id": 18,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 128,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "8"
+      }
+     ]
+    },
+    {
+     "id": 19,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 128,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "308"
+      }
+     ]
+    },
+    {
+     "id": 20,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 144,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "9"
+      }
+     ]
+    },
+    {
+     "id": 21,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 144,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "309"
+      }
+     ]
+    },
+    {
+     "id": 22,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 160,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "10"
+      }
+     ]
+    },
+    {
+     "id": 23,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 160,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "310"
+      }
+     ]
+    },
+    {
+     "id": 24,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 176,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "11"
+      }
+     ]
+    },
+    {
+     "id": 25,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 176,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "311"
+      }
+     ]
+    },
+    {
+     "id": 26,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 192,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "12"
+      }
+     ]
+    },
+    {
+     "id": 27,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 192,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "312"
+      }
+     ]
+    },
+    {
+     "id": 28,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 208,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "13"
+      }
+     ]
+    },
+    {
+     "id": 29,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 208,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "313"
+      }
+     ]
+    },
+    {
+     "id": 30,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 224,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "14"
+      }
+     ]
+    },
+    {
+     "id": 31,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 224,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "314"
+      }
+     ]
+    },
+    {
+     "id": 32,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 240,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "15"
+      }
+     ]
+    },
+    {
+     "id": 33,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 240,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "315"
+      }
+     ]
+    },
+    {
+     "id": 34,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 256,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "16"
+      }
+     ]
+    },
+    {
+     "id": 35,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 256,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "316"
+      }
+     ]
+    },
+    {
+     "id": 36,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 272,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "17"
+      }
+     ]
+    },
+    {
+     "id": 37,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 272,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "317"
+      }
+     ]
+    },
+    {
+     "id": 38,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 288,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "18"
+      }
+     ]
+    },
+    {
+     "id": 39,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 288,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "318"
+      }
+     ]
+    },
+    {
+     "id": 40,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 304,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "19"
+      }
+     ]
+    },
+    {
+     "id": 41,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 304,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "319"
+      }
+     ]
+    },
+    {
+     "id": 42,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 320,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "20"
+      }
+     ]
+    },
+    {
+     "id": 43,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 320,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "320"
+      }
+     ]
+    },
+    {
+     "id": 44,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 336,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "21"
+      }
+     ]
+    },
+    {
+     "id": 45,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 336,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "321"
+      }
+     ]
+    },
+    {
+     "id": 46,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 352,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "22"
+      }
+     ]
+    },
+    {
+     "id": 47,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 352,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "322"
+      }
+     ]
+    },
+    {
+     "id": 48,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 368,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "23"
+      }
+     ]
+    },
+    {
+     "id": 49,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 368,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "323"
+      }
+     ]
+    },
+    {
+     "id": 50,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 384,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "24"
+      }
+     ]
+    },
+    {
+     "id": 51,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 384,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "324"
+      }
+     ]
+    },
+    {
+     "id": 52,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 400,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "25"
+      }
+     ]
+    },
+    {
+     "id": 53,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 400,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "325"
+      }
+     ]
+    },
+    {
+     "id": 54,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 416,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "26"
+      }
+     ]
+    },
+    {
+     "id": 55,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 432,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "27"
+      }
+     ]
+    },
+    {
+     "id": 56,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 448,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "28"
+      }
+     ]
+    },
+    {
+     "id": 57,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 464,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "29"
+      }
+     ]
+    },
+    {
+     "id": 58,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 480,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "30"
+      }
+     ]
+    },
+    {
+     "id": 59,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 480,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "330"
+      }
+     ]
+    },
+    {
+     "id": 60,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 496,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "31"
+      }
+     ]
+    },
+    {
+     "id": 61,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 496,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "331"
+      }
+     ]
+    },
+    {
+     "id": 62,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 512,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "32"
+      }
+     ]
+    },
+    {
+     "id": 63,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 512,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "332"
+      }
+     ]
+    },
+    {
+     "id": 64,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 528,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "33"
+      }
+     ]
+    },
+    {
+     "id": 65,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 528,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "333"
+      }
+     ]
+    },
+    {
+     "id": 66,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 544,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "34"
+      }
+     ]
+    },
+    {
+     "id": 67,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 544,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "334"
+      }
+     ]
+    },
+    {
+     "id": 68,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 560,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "35"
+      }
+     ]
+    },
+    {
+     "id": 69,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 560,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "335"
+      }
+     ]
+    },
+    {
+     "id": 70,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 576,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "36"
+      }
+     ]
+    },
+    {
+     "id": 71,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 576,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "336"
+      }
+     ]
+    },
+    {
+     "id": 72,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 592,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "37"
+      }
+     ]
+    },
+    {
+     "id": 73,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 592,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "337"
+      }
+     ]
+    },
+    {
+     "id": 74,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 608,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "38"
+      }
+     ]
+    },
+    {
+     "id": 75,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 608,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "338"
+      }
+     ]
+    },
+    {
+     "id": 76,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 624,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "39"
+      }
+     ]
+    },
+    {
+     "id": 77,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 624,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "339"
+      }
+     ]
+    },
+    {
+     "id": 78,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 640,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "40"
+      }
+     ]
+    },
+    {
+     "id": 79,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 640,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "340"
+      }
+     ]
+    },
+    {
+     "id": 80,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 656,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "41"
+      }
+     ]
+    },
+    {
+     "id": 81,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 656,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "341"
+      }
+     ]
+    },
+    {
+     "id": 82,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 672,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "42"
+      }
+     ]
+    },
+    {
+     "id": 83,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 672,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "342"
+      }
+     ]
+    },
+    {
+     "id": 84,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 688,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "43"
+      }
+     ]
+    },
+    {
+     "id": 85,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 688,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "343"
+      }
+     ]
+    },
+    {
+     "id": 86,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 704,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "44"
+      }
+     ]
+    },
+    {
+     "id": 87,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 704,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "344"
+      }
+     ]
+    },
+    {
+     "id": 88,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 720,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "45"
+      }
+     ]
+    },
+    {
+     "id": 89,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 720,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "345"
+      }
+     ]
+    },
+    {
+     "id": 90,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 736,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "46"
+      }
+     ]
+    },
+    {
+     "id": 91,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 736,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "346"
+      }
+     ]
+    },
+    {
+     "id": 92,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 752,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "47"
+      }
+     ]
+    },
+    {
+     "id": 93,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 752,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "347"
+      }
+     ]
+    },
+    {
+     "id": 94,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 768,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "48"
+      }
+     ]
+    },
+    {
+     "id": 95,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 768,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "348"
+      }
+     ]
+    },
+    {
+     "id": 96,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 784,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "49"
+      }
+     ]
+    },
+    {
+     "id": 97,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 784,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "349"
+      }
+     ]
+    },
+    {
+     "id": 98,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 800,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "50"
+      }
+     ]
+    },
+    {
+     "id": 99,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 800,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "350"
+      }
+     ]
+    },
+    {
+     "id": 100,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 816,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "51"
+      }
+     ]
+    },
+    {
+     "id": 101,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 816,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "351"
+      }
+     ]
+    },
+    {
+     "id": 102,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 832,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "52"
+      }
+     ]
+    },
+    {
+     "id": 103,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 832,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "352"
+      }
+     ]
+    },
+    {
+     "id": 104,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 848,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "53"
+      }
+     ]
+    },
+    {
+     "id": 105,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 848,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "353"
+      }
+     ]
+    },
+    {
+     "id": 106,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 864,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "54"
+      }
+     ]
+    },
+    {
+     "id": 107,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 864,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "354"
+      }
+     ]
+    },
+    {
+     "id": 108,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": -16,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "55"
+      }
+     ]
+    },
+    {
+     "id": 109,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 528,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "355"
+      }
+     ]
+    },
+    {
+     "id": 110,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": -8,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "601"
+      }
+     ]
+    },
+    {
+     "id": 111,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": -8,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "901"
+      }
+     ]
+    },
+    {
+     "id": 112,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 8,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "602"
+      }
+     ]
+    },
+    {
+     "id": 113,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 8,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "902"
+      }
+     ]
+    },
+    {
+     "id": 114,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 24,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "603"
+      }
+     ]
+    },
+    {
+     "id": 115,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 24,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "903"
+      }
+     ]
+    },
+    {
+     "id": 116,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 40,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "604"
+      }
+     ]
+    },
+    {
+     "id": 117,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 40,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "904"
+      }
+     ]
+    },
+    {
+     "id": 118,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 56,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "605"
+      }
+     ]
+    },
+    {
+     "id": 119,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 56,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "905"
+      }
+     ]
+    },
+    {
+     "id": 120,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 72,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "606"
+      }
+     ]
+    },
+    {
+     "id": 121,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 72,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "906"
+      }
+     ]
+    },
+    {
+     "id": 122,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 88,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "607"
+      }
+     ]
+    },
+    {
+     "id": 123,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 88,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "907"
+      }
+     ]
+    },
+    {
+     "id": 124,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 104,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "608"
+      }
+     ]
+    },
+    {
+     "id": 125,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 104,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "908"
+      }
+     ]
+    },
+    {
+     "id": 126,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 120,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "609"
+      }
+     ]
+    },
+    {
+     "id": 127,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 120,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "909"
+      }
+     ]
+    },
+    {
+     "id": 128,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 136,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "610"
+      }
+     ]
+    },
+    {
+     "id": 129,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 136,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "910"
+      }
+     ]
+    },
+    {
+     "id": 130,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 152,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "611"
+      }
+     ]
+    },
+    {
+     "id": 131,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 152,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "911"
+      }
+     ]
+    },
+    {
+     "id": 132,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 168,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "612"
+      }
+     ]
+    },
+    {
+     "id": 133,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 168,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "912"
+      }
+     ]
+    },
+    {
+     "id": 134,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 184,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "613"
+      }
+     ]
+    },
+    {
+     "id": 135,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 184,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "913"
+      }
+     ]
+    },
+    {
+     "id": 136,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 200,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "614"
+      }
+     ]
+    },
+    {
+     "id": 137,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 200,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "914"
+      }
+     ]
+    },
+    {
+     "id": 138,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 216,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "615"
+      }
+     ]
+    },
+    {
+     "id": 139,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 216,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "915"
+      }
+     ]
+    },
+    {
+     "id": 140,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 296,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "620"
+      }
+     ]
+    },
+    {
+     "id": 141,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 296,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "920"
+      }
+     ]
+    },
+    {
+     "id": 142,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 312,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "621"
+      }
+     ]
+    },
+    {
+     "id": 143,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 312,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "921"
+      }
+     ]
+    },
+    {
+     "id": 144,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 328,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "622"
+      }
+     ]
+    },
+    {
+     "id": 145,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 328,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "922"
+      }
+     ]
+    },
+    {
+     "id": 146,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 344,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "623"
+      }
+     ]
+    },
+    {
+     "id": 147,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 344,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "923"
+      }
+     ]
+    },
+    {
+     "id": 148,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 360,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "624"
+      }
+     ]
+    },
+    {
+     "id": 149,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 360,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "924"
+      }
+     ]
+    },
+    {
+     "id": 150,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 376,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "625"
+      }
+     ]
+    },
+    {
+     "id": 151,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 376,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "925"
+      }
+     ]
+    },
+    {
+     "id": 152,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 392,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "626"
+      }
+     ]
+    },
+    {
+     "id": 153,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 392,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "926"
+      }
+     ]
+    },
+    {
+     "id": 154,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 408,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "627"
+      }
+     ]
+    },
+    {
+     "id": 155,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 408,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "927"
+      }
+     ]
+    },
+    {
+     "id": 156,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 424,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "628"
+      }
+     ]
+    },
+    {
+     "id": 157,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 424,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "928"
+      }
+     ]
+    },
+    {
+     "id": 158,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 440,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "629"
+      }
+     ]
+    },
+    {
+     "id": 159,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 440,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "929"
+      }
+     ]
+    },
+    {
+     "id": 160,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 456,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "630"
+      }
+     ]
+    },
+    {
+     "id": 161,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 456,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "930"
+      }
+     ]
+    },
+    {
+     "id": 162,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 472,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "631"
+      }
+     ]
+    },
+    {
+     "id": 163,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 472,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "931"
+      }
+     ]
+    },
+    {
+     "id": 164,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 488,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "632"
+      }
+     ]
+    },
+    {
+     "id": 165,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 488,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "932"
+      }
+     ]
+    },
+    {
+     "id": 166,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 504,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "633"
+      }
+     ]
+    },
+    {
+     "id": 167,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 504,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "933"
+      }
+     ]
+    },
+    {
+     "id": 168,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 0,
+     "y": 520,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "634"
+      }
+     ]
+    },
+    {
+     "id": 169,
+     "name": "bamboo",
+     "type": "prop",
+     "x": 880,
+     "y": 520,
+     "width": 16,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "bamboo"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "934"
+      }
+     ]
+    },
+    {
+     "id": 177,
+     "name": "Thiên Cơ Các",
+     "type": "interact",
+     "x": 400,
+     "y": 48,
+     "width": 64,
+     "height": 64,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "pavilion"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "gacha"
+      }
+     ]
+    },
+    {
+     "id": 179,
+     "name": "Tàng Thư Các",
+     "type": "interact",
+     "x": 576,
+     "y": 64,
+     "width": 64,
+     "height": 56,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "library"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "library"
+      }
+     ]
+    },
+    {
+     "id": 181,
+     "name": "Nhà Trúc Lão",
+     "type": "prop",
+     "x": 96,
+     "y": 64,
+     "width": 64,
+     "height": 56,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "hut"
+      }
+     ]
+    },
+    {
+     "id": 183,
+     "name": "Trúc Lão",
+     "type": "npc",
+     "x": 160,
+     "y": 128,
+     "width": 16,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "npc",
+       "type": "string",
+       "value": "truc_lao"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "talk_master"
+      }
+     ]
+    },
+    {
+     "id": 185,
+     "name": "Sạp Tạp Hóa",
+     "type": "interact",
+     "x": 176,
+     "y": 208,
+     "width": 40,
+     "height": 32,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "stall"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "shop"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "0"
+      }
+     ]
+    },
+    {
+     "id": 187,
+     "name": "Bà Chủ Sạp",
+     "type": "npc",
+     "x": 208,
+     "y": 176,
+     "width": 16,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "npc",
+       "type": "string",
+       "value": "shopkeeper"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "shop"
+      }
+     ]
+    },
+    {
+     "id": 189,
+     "name": "Sạp Vải",
+     "type": "interact",
+     "x": 176,
+     "y": 320,
+     "width": 40,
+     "height": 32,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "stall"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "cloth"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "1"
+      }
+     ]
+    },
+    {
+     "id": 191,
+     "name": "Lò Luyện Đan",
+     "type": "interact",
+     "x": 256,
+     "y": 400,
+     "width": 24,
+     "height": 28,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "furnace"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "alchemy"
+      }
+     ]
+    },
+    {
+     "id": 193,
+     "name": "Đan Sư",
+     "type": "npc",
+     "x": 224,
+     "y": 400,
+     "width": 16,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "npc",
+       "type": "string",
+       "value": "alchemist"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "alchemy"
+      }
+     ]
+    },
+    {
+     "id": 195,
+     "name": "Lò Rèn",
+     "type": "interact",
+     "x": 336,
+     "y": 432,
+     "width": 24,
+     "height": 20,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "anvil"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "forge"
+      }
+     ]
+    },
+    {
+     "id": 197,
+     "name": "Thợ Rèn",
+     "type": "npc",
+     "x": 368,
+     "y": 416,
+     "width": 16,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "npc",
+       "type": "string",
+       "value": "smith"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "forge"
+      }
+     ]
+    },
+    {
+     "id": 199,
+     "name": "Bảng Nhiệm Vụ",
+     "type": "interact",
+     "x": 512,
+     "y": 160,
+     "width": 24,
+     "height": 28,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "board"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "quests"
+      }
+     ]
+    },
+    {
+     "id": 201,
+     "name": "Cổng Thủ Vườn",
+     "type": "interact",
+     "x": 704,
+     "y": 384,
+     "width": 40,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "td_gate"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "td"
+      }
+     ]
+    },
+    {
+     "id": 203,
+     "name": "Giếng",
+     "type": "prop",
+     "x": 436,
+     "y": 256,
+     "width": 24,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "well"
+      }
+     ]
+    },
+    {
+     "id": 205,
+     "name": "Tiểu Lan",
+     "type": "npc",
+     "x": 480,
+     "y": 464,
+     "width": 16,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "npc",
+       "type": "string",
+       "value": "guide"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "talk_guide"
+      }
+     ]
+    },
+    {
+     "id": 207,
+     "name": "Thủ Thư",
+     "type": "npc",
+     "x": 656,
+     "y": 144,
+     "width": 16,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "npc",
+       "type": "string",
+       "value": "librarian"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "library"
+      }
+     ]
+    },
+    {
+     "id": 209,
+     "name": "lantern",
+     "type": "prop",
+     "x": 324,
+     "y": 176,
+     "width": 8,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "lantern"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "0"
+      }
+     ]
+    },
+    {
+     "id": 211,
+     "name": "lantern",
+     "type": "prop",
+     "x": 564,
+     "y": 176,
+     "width": 8,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "lantern"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "1"
+      }
+     ]
+    },
+    {
+     "id": 213,
+     "name": "lantern",
+     "type": "prop",
+     "x": 324,
+     "y": 352,
+     "width": 8,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "lantern"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "2"
+      }
+     ]
+    },
+    {
+     "id": 215,
+     "name": "lantern",
+     "type": "prop",
+     "x": 564,
+     "y": 352,
+     "width": 8,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "lantern"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "3"
+      }
+     ]
+    },
+    {
+     "id": 217,
+     "name": "lantern",
+     "type": "prop",
+     "x": 404,
+     "y": 368,
+     "width": 8,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "lantern"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "4"
+      }
+     ]
+    },
+    {
+     "id": 219,
+     "name": "lantern",
+     "type": "prop",
+     "x": 484,
+     "y": 368,
+     "width": 8,
+     "height": 24,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "lantern"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "5"
+      }
+     ]
+    },
+    {
+     "id": 221,
+     "name": "Nhà dân",
+     "type": "prop",
+     "x": 704,
+     "y": 96,
+     "width": 48,
+     "height": 48,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "house"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "0"
+      }
+     ]
+    },
+    {
+     "id": 223,
+     "name": "Nhà dân",
+     "type": "prop",
+     "x": 784,
+     "y": 160,
+     "width": 48,
+     "height": 48,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "house"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "1"
+      }
+     ]
+    },
+    {
+     "id": 225,
+     "name": "Nhà dân",
+     "type": "prop",
+     "x": 672,
+     "y": 496,
+     "width": 48,
+     "height": 48,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "house"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "2"
+      }
+     ]
+    },
+    {
+     "id": 227,
+     "name": "Nhà dân",
+     "type": "prop",
+     "x": 784,
+     "y": 496,
+     "width": 48,
+     "height": 48,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "house"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "3"
+      }
+     ]
+    },
+    {
+     "id": 229,
+     "name": "Nhà dân",
+     "type": "prop",
+     "x": 48,
+     "y": 304,
+     "width": 48,
+     "height": 48,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "house"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "4"
+      }
+     ]
+    },
+    {
+     "id": 231,
+     "name": "Nhà dân",
+     "type": "prop",
+     "x": 576,
+     "y": 480,
+     "width": 48,
+     "height": 48,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "house"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "5"
+      }
+     ]
+    },
+    {
+     "id": 233,
+     "name": "sign",
+     "type": "prop",
+     "x": 528,
+     "y": 284,
+     "width": 16,
+     "height": 20,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "sign"
+      }
+     ]
+    },
+    {
+     "id": 234,
+     "name": "Đi Rừng Mực Loang",
+     "type": "sign",
+     "x": 832,
+     "y": 224,
+     "width": 16,
+     "height": 20,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "sign"
+      },
+      {
+       "name": "text",
+       "type": "string",
+       "value": "Rừng Mực Loang →"
+      }
+     ]
+    },
+    {
+     "id": 236,
+     "name": "tree",
+     "type": "prop",
+     "x": 312,
+     "y": 8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "800"
+      }
+     ]
+    },
+    {
+     "id": 238,
+     "name": "tree",
+     "type": "prop",
+     "x": 840,
+     "y": 40,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "591"
+      }
+     ]
+    },
+    {
+     "id": 240,
+     "name": "tree",
+     "type": "prop",
+     "x": 264,
+     "y": 168,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "411"
+      }
+     ]
+    },
+    {
+     "id": 242,
+     "name": "tree",
+     "type": "prop",
+     "x": 200,
+     "y": 8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "630"
+      }
+     ]
+    },
+    {
+     "id": 244,
+     "name": "tree",
+     "type": "prop",
+     "x": 312,
+     "y": 104,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "494"
+      }
+     ]
+    },
+    {
+     "id": 246,
+     "name": "tree",
+     "type": "prop",
+     "x": 600,
+     "y": 328,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "42"
+      }
+     ]
+    },
+    {
+     "id": 248,
+     "name": "tree",
+     "type": "prop",
+     "x": 232,
+     "y": 72,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "247"
+      }
+     ]
+    },
+    {
+     "id": 250,
+     "name": "tree",
+     "type": "prop",
+     "x": 248,
+     "y": 488,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "363"
+      }
+     ]
+    },
+    {
+     "id": 252,
+     "name": "tree",
+     "type": "prop",
+     "x": 728,
+     "y": 200,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "273"
+      }
+     ]
+    },
+    {
+     "id": 254,
+     "name": "tree",
+     "type": "prop",
+     "x": 88,
+     "y": 152,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "769"
+      }
+     ]
+    },
+    {
+     "id": 256,
+     "name": "tree",
+     "type": "prop",
+     "x": 792,
+     "y": 88,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "505"
+      }
+     ]
+    },
+    {
+     "id": 258,
+     "name": "tree",
+     "type": "prop",
+     "x": 744,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "472"
+      }
+     ]
+    },
+    {
+     "id": 260,
+     "name": "tree",
+     "type": "prop",
+     "x": 504,
+     "y": 40,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "340"
+      }
+     ]
+    },
+    {
+     "id": 262,
+     "name": "tree",
+     "type": "prop",
+     "x": 808,
+     "y": 328,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "97"
+      }
+     ]
+    },
+    {
+     "id": 264,
+     "name": "tree",
+     "type": "prop",
+     "x": 360,
+     "y": 488,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "798"
+      }
+     ]
+    },
+    {
+     "id": 266,
+     "name": "tree",
+     "type": "prop",
+     "x": 296,
+     "y": 504,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "707"
+      }
+     ]
+    },
+    {
+     "id": 268,
+     "name": "tree",
+     "type": "prop",
+     "x": 696,
+     "y": 24,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "423"
+      }
+     ]
+    },
+    {
+     "id": 270,
+     "name": "tree",
+     "type": "prop",
+     "x": 776,
+     "y": 392,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "421"
+      }
+     ]
+    },
+    {
+     "id": 272,
+     "name": "tree",
+     "type": "prop",
+     "x": 264,
+     "y": 328,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "577"
+      }
+     ]
+    },
+    {
+     "id": 274,
+     "name": "tree",
+     "type": "prop",
+     "x": 24,
+     "y": 40,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "74"
+      }
+     ]
+    },
+    {
+     "id": 276,
+     "name": "tree",
+     "type": "prop",
+     "x": 40,
+     "y": 152,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "129"
+      }
+     ]
+    },
+    {
+     "id": 278,
+     "name": "tree",
+     "type": "prop",
+     "x": 680,
+     "y": 200,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "132"
+      }
+     ]
+    },
+    {
+     "id": 280,
+     "name": "tree",
+     "type": "prop",
+     "x": 840,
+     "y": 424,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "11"
+      }
+     ]
+    },
+    {
+     "id": 282,
+     "name": "tree",
+     "type": "prop",
+     "x": 792,
+     "y": 8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "421"
+      }
+     ]
+    },
+    {
+     "id": 284,
+     "name": "tree",
+     "type": "prop",
+     "x": 264,
+     "y": 8,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "tree"
+      },
+      {
+       "name": "variant",
+       "type": "string",
+       "value": "961"
+      }
+     ]
+    },
+    {
+     "id": 286,
+     "name": "to_abode",
+     "type": "portal",
+     "x": 416,
+     "y": 558,
+     "width": 64,
+     "height": 26,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "target",
+       "type": "string",
+       "value": "abode"
+      },
+      {
+       "name": "target_spawn",
+       "type": "string",
+       "value": "spawn"
+      }
+     ]
+    },
+    {
+     "id": 287,
+     "name": "Cổng Đông",
+     "type": "prop",
+     "x": 864,
+     "y": 248,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "portal"
+      }
+     ]
+    },
+    {
+     "id": 288,
+     "name": "to_forest",
+     "type": "portal",
+     "x": 876,
+     "y": 256,
+     "width": 28,
+     "height": 64,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "target",
+       "type": "string",
+       "value": "rung_muc_loang"
+      },
+      {
+       "name": "target_spawn",
+       "type": "string",
+       "value": "from_village"
+      }
+     ]
+    },
+    {
+     "id": 289,
+     "name": "spawn",
+     "type": "spawn",
+     "x": 448,
+     "y": 336,
+     "width": 1,
+     "height": 1,
+     "rotation": 0,
+     "visible": true,
+     "properties": []
+    },
+    {
+     "id": 290,
+     "name": "from_abode",
+     "type": "spawn",
+     "x": 448,
+     "y": 528,
+     "width": 1,
+     "height": 1,
+     "rotation": 0,
+     "visible": true,
+     "properties": []
+    },
+    {
+     "id": 291,
+     "name": "from_forest",
+     "type": "spawn",
+     "x": 832,
+     "y": 288,
+     "width": 1,
+     "height": 1,
+     "rotation": 0,
+     "visible": true,
+     "properties": []
+    },
+    {
+     "id": 292,
+     "name": "pond",
+     "type": "area",
+     "x": 64,
+     "y": 416,
+     "width": 112,
+     "height": 80,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "kind",
+       "type": "string",
+       "value": "pond"
+      },
+      {
+       "name": "pool",
+       "type": "string",
+       "value": "ao"
+      }
+     ]
+    },
+    {
+     "id": 293,
+     "name": "Cổng Tây",
+     "type": "prop",
+     "x": 0,
+     "y": 248,
+     "width": 32,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "portal"
+      }
+     ]
+    },
+    {
+     "id": 294,
+     "name": "to_lake",
+     "type": "portal",
+     "x": -8,
+     "y": 256,
+     "width": 28,
+     "height": 64,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "target",
+       "type": "string",
+       "value": "ho_nghien_muc"
+      },
+      {
+       "name": "target_spawn",
+       "type": "string",
+       "value": "from_village"
+      }
+     ]
+    },
+    {
+     "id": 295,
+     "name": "Đi Hồ Nghiên Mực",
+     "type": "sign",
+     "x": 48,
+     "y": 224,
+     "width": 16,
+     "height": 20,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "sign"
+      },
+      {
+       "name": "text",
+       "type": "string",
+       "value": "← Hồ Nghiên Mực"
+      }
+     ]
+    },
+    {
+     "id": 297,
+     "name": "from_lake",
+     "type": "spawn",
+     "x": 48,
+     "y": 288,
+     "width": 1,
+     "height": 1,
+     "rotation": 0,
+     "visible": true,
+     "properties": []
+    },
+    {
+     "id": 298,
+     "name": "Cổng Bí Cảnh",
+     "type": "interact",
+     "x": 336,
+     "y": 192,
+     "width": 40,
+     "height": 40,
+     "rotation": 0,
+     "visible": true,
+     "properties": [
+      {
+       "name": "sprite",
+       "type": "string",
+       "value": "realm_gate"
+      },
+      {
+       "name": "action",
+       "type": "string",
+       "value": "realm"
+      }
+     ]
+    },
+    {
+     "id": 300,
+     "name": "from_realm",
+     "type": "spawn",
+     "x": 356,
+     "y": 260,
+     "width": 1,
+     "height": 1,
+     "rotation": 0,
+     "visible": true,
+     "properties": []
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "collision",
+   "type": "objectgroup",
+   "draworder": "topdown",
+   "opacity": 1,
+   "visible": false,
+   "x": 0,
+   "y": 0,
+   "objects": [
+    {
+     "id": 1,
+     "name": "",
+     "type": "solid",
+     "x": 64,
+     "y": 416,
+     "width": 112,
+     "height": 80,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 170,
+     "name": "",
+     "type": "solid",
+     "x": 0,
+     "y": 0,
+     "width": 896,
+     "height": 24,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 171,
+     "name": "",
+     "type": "solid",
+     "x": 0,
+     "y": 556,
+     "width": 416,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 172,
+     "name": "",
+     "type": "solid",
+     "x": 480,
+     "y": 556,
+     "width": 416,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 173,
+     "name": "",
+     "type": "solid",
+     "x": 0,
+     "y": 0,
+     "width": 16,
+     "height": 256,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 174,
+     "name": "",
+     "type": "solid",
+     "x": 0,
+     "y": 320,
+     "width": 16,
+     "height": 256,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 175,
+     "name": "",
+     "type": "solid",
+     "x": 880,
+     "y": 0,
+     "width": 16,
+     "height": 256,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 176,
+     "name": "",
+     "type": "solid",
+     "x": 880,
+     "y": 320,
+     "width": 16,
+     "height": 256,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 178,
+     "name": "",
+     "type": "solid",
+     "x": 402,
+     "y": 90,
+     "width": 60,
+     "height": 22,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 180,
+     "name": "",
+     "type": "solid",
+     "x": 578,
+     "y": 96,
+     "width": 60,
+     "height": 24,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 182,
+     "name": "",
+     "type": "solid",
+     "x": 98,
+     "y": 90,
+     "width": 60,
+     "height": 30,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 184,
+     "name": "",
+     "type": "solid",
+     "x": 162,
+     "y": 142,
+     "width": 12,
+     "height": 10,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 186,
+     "name": "",
+     "type": "solid",
+     "x": 178,
+     "y": 228,
+     "width": 36,
+     "height": 12,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 188,
+     "name": "",
+     "type": "solid",
+     "x": 210,
+     "y": 190,
+     "width": 12,
+     "height": 10,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 190,
+     "name": "",
+     "type": "solid",
+     "x": 178,
+     "y": 340,
+     "width": 36,
+     "height": 12,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 192,
+     "name": "",
+     "type": "solid",
+     "x": 258,
+     "y": 414,
+     "width": 20,
+     "height": 14,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 194,
+     "name": "",
+     "type": "solid",
+     "x": 226,
+     "y": 414,
+     "width": 12,
+     "height": 10,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 196,
+     "name": "",
+     "type": "solid",
+     "x": 338,
+     "y": 442,
+     "width": 20,
+     "height": 10,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 198,
+     "name": "",
+     "type": "solid",
+     "x": 370,
+     "y": 430,
+     "width": 12,
+     "height": 10,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 200,
+     "name": "",
+     "type": "solid",
+     "x": 514,
+     "y": 180,
+     "width": 20,
+     "height": 8,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 202,
+     "name": "",
+     "type": "solid",
+     "x": 706,
+     "y": 418,
+     "width": 36,
+     "height": 6,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 204,
+     "name": "",
+     "type": "solid",
+     "x": 438,
+     "y": 268,
+     "width": 20,
+     "height": 12,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 206,
+     "name": "",
+     "type": "solid",
+     "x": 482,
+     "y": 478,
+     "width": 12,
+     "height": 10,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 208,
+     "name": "",
+     "type": "solid",
+     "x": 658,
+     "y": 158,
+     "width": 12,
+     "height": 10,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 210,
+     "name": "",
+     "type": "solid",
+     "x": 326,
+     "y": 196,
+     "width": 4,
+     "height": 4,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 212,
+     "name": "",
+     "type": "solid",
+     "x": 566,
+     "y": 196,
+     "width": 4,
+     "height": 4,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 214,
+     "name": "",
+     "type": "solid",
+     "x": 326,
+     "y": 372,
+     "width": 4,
+     "height": 4,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 216,
+     "name": "",
+     "type": "solid",
+     "x": 566,
+     "y": 372,
+     "width": 4,
+     "height": 4,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 218,
+     "name": "",
+     "type": "solid",
+     "x": 406,
+     "y": 388,
+     "width": 4,
+     "height": 4,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 220,
+     "name": "",
+     "type": "solid",
+     "x": 486,
+     "y": 388,
+     "width": 4,
+     "height": 4,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 222,
+     "name": "",
+     "type": "solid",
+     "x": 706,
+     "y": 124,
+     "width": 44,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 224,
+     "name": "",
+     "type": "solid",
+     "x": 786,
+     "y": 188,
+     "width": 44,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 226,
+     "name": "",
+     "type": "solid",
+     "x": 674,
+     "y": 524,
+     "width": 44,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 228,
+     "name": "",
+     "type": "solid",
+     "x": 786,
+     "y": 524,
+     "width": 44,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 230,
+     "name": "",
+     "type": "solid",
+     "x": 50,
+     "y": 332,
+     "width": 44,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 232,
+     "name": "",
+     "type": "solid",
+     "x": 578,
+     "y": 508,
+     "width": 44,
+     "height": 20,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 235,
+     "name": "",
+     "type": "solid",
+     "x": 838,
+     "y": 238,
+     "width": 4,
+     "height": 6,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 237,
+     "name": "",
+     "type": "solid",
+     "x": 324,
+     "y": 40,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 239,
+     "name": "",
+     "type": "solid",
+     "x": 852,
+     "y": 72,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 241,
+     "name": "",
+     "type": "solid",
+     "x": 276,
+     "y": 200,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 243,
+     "name": "",
+     "type": "solid",
+     "x": 212,
+     "y": 40,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 245,
+     "name": "",
+     "type": "solid",
+     "x": 324,
+     "y": 136,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 247,
+     "name": "",
+     "type": "solid",
+     "x": 612,
+     "y": 360,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 249,
+     "name": "",
+     "type": "solid",
+     "x": 244,
+     "y": 104,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 251,
+     "name": "",
+     "type": "solid",
+     "x": 260,
+     "y": 520,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 253,
+     "name": "",
+     "type": "solid",
+     "x": 740,
+     "y": 232,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 255,
+     "name": "",
+     "type": "solid",
+     "x": 100,
+     "y": 184,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 257,
+     "name": "",
+     "type": "solid",
+     "x": 804,
+     "y": 120,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 259,
+     "name": "",
+     "type": "solid",
+     "x": 756,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 261,
+     "name": "",
+     "type": "solid",
+     "x": 516,
+     "y": 72,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 263,
+     "name": "",
+     "type": "solid",
+     "x": 820,
+     "y": 360,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 265,
+     "name": "",
+     "type": "solid",
+     "x": 372,
+     "y": 520,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 267,
+     "name": "",
+     "type": "solid",
+     "x": 308,
+     "y": 536,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 269,
+     "name": "",
+     "type": "solid",
+     "x": 708,
+     "y": 56,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 271,
+     "name": "",
+     "type": "solid",
+     "x": 788,
+     "y": 424,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 273,
+     "name": "",
+     "type": "solid",
+     "x": 276,
+     "y": 360,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 275,
+     "name": "",
+     "type": "solid",
+     "x": 36,
+     "y": 72,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 277,
+     "name": "",
+     "type": "solid",
+     "x": 52,
+     "y": 184,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 279,
+     "name": "",
+     "type": "solid",
+     "x": 692,
+     "y": 232,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 281,
+     "name": "",
+     "type": "solid",
+     "x": 852,
+     "y": 456,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 283,
+     "name": "",
+     "type": "solid",
+     "x": 804,
+     "y": 40,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 285,
+     "name": "",
+     "type": "solid",
+     "x": 276,
+     "y": 40,
+     "width": 9,
+     "height": 7,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 296,
+     "name": "",
+     "type": "solid",
+     "x": 54,
+     "y": 238,
+     "width": 4,
+     "height": 6,
+     "rotation": 0,
+     "visible": true
+    },
+    {
+     "id": 299,
+     "name": "",
+     "type": "solid",
+     "x": 338,
+     "y": 226,
+     "width": 36,
+     "height": 6,
+     "rotation": 0,
+     "visible": true
+    }
+   ]
+  }
+ ],
+ "tilesets": [
+  {
+   "firstgid": 1,
+   "name": "tiles",
+   "image": "../sprites/tiles.png",
+   "imagewidth": 128,
+   "imageheight": 48,
+   "tilewidth": 16,
+   "tileheight": 16,
+   "tilecount": 21,
+   "columns": 8,
+   "margin": 0,
+   "spacing": 0
+  }
+ ]
+}

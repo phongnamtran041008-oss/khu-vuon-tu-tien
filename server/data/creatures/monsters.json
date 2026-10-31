@@ -1,0 +1,429 @@
+{
+  "_comment": "Mặc Quái (spec 8). qtypes = question types each monster asks (spec 8.2); rank sets the Mặc Kích %; shield_regen = HP % at which the Mặc Thuẫn comes back (elites).",
+  "ink_slime": {
+    "name_vi": "Mực Con",
+    "sprite": "ink_slime",
+    "tier": 1,
+    "rank": "normal",
+    "speed": 20.0,
+    "idle_seconds": [
+      1.5,
+      4.5
+    ],
+    "qtypes": [
+      "Q1",
+      "Q2",
+      "Q3"
+    ],
+    "hp": 40,
+    "atk": 6,
+    "def": 1,
+    "aggressive": false,
+    "aggro_radius": 0,
+    "attack_radius": 20,
+    "xp": 12,
+    "stones": [
+      3,
+      6
+    ],
+    "respawn_seconds": 20,
+    "shield_regen": [],
+    "weakness_vi": "Chậm chạp, sợ Thủy Chữ Quyết làm loãng mực.",
+    "drops": [
+      {
+        "item": "muc_tinh",
+        "chance": 0.5,
+        "qty": [
+          1,
+          2
+        ]
+      },
+      {
+        "item": "go_linh_moc",
+        "chance": 0.25,
+        "qty": [
+          1,
+          2
+        ]
+      },
+      {
+        "item": "hoi_huyet_dan",
+        "chance": 0.12,
+        "qty": [
+          1,
+          1
+        ]
+      },
+      {
+        "equipment": [
+          "non_la",
+          "giay_co",
+          "ao_truc_van",
+          "kiem_go_dao"
+        ],
+        "chance": 0.08
+      },
+      {
+        "item": "bi_kip_thuy",
+        "chance": 0.03,
+        "qty": [
+          1,
+          1
+        ]
+      },
+      {
+        "item": "truc_diep_thao",
+        "chance": 0.3,
+        "qty": [
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  "tone_wisp": {
+    "name_vi": "Thanh Điệu Yêu",
+    "sprite": "tone_wisp",
+    "tier": 1,
+    "rank": "normal",
+    "speed": 30.0,
+    "idle_seconds": [
+      0.8,
+      3.0
+    ],
+    "qtypes": [
+      "Q3",
+      "Q11"
+    ],
+    "hp": 55,
+    "atk": 9,
+    "def": 2,
+    "aggressive": true,
+    "aggro_radius": 56,
+    "attack_radius": 24,
+    "xp": 18,
+    "stones": [
+      5,
+      9
+    ],
+    "respawn_seconds": 25,
+    "shield_regen": [],
+    "weakness_vi": "Bay lượn khó đoán, nhưng yếu trước Hỏa Chữ Quyết.",
+    "drops": [
+      {
+        "item": "muc_tinh",
+        "chance": 0.6,
+        "qty": [
+          1,
+          2
+        ]
+      },
+      {
+        "item": "go_linh_moc",
+        "chance": 0.3,
+        "qty": [
+          1,
+          2
+        ]
+      },
+      {
+        "item": "hoi_khi_dan",
+        "chance": 0.1,
+        "qty": [
+          1,
+          1
+        ]
+      },
+      {
+        "equipment": [
+          "quat_giay",
+          "ngoc_muc",
+          "nhan_dong"
+        ],
+        "chance": 0.08
+      },
+      {
+        "item": "bi_kip_hoa",
+        "chance": 0.03,
+        "qty": [
+          1,
+          1
+        ]
+      },
+      {
+        "item": "truc_diep_thao",
+        "chance": 0.3,
+        "qty": [
+          1,
+          2
+        ]
+      },
+      {
+        "item": "mac_linh_chi",
+        "chance": 0.08,
+        "qty": [
+          1,
+          1
+        ]
+      },
+      {
+        "item": "dp_khang_muc",
+        "chance": 0.01,
+        "qty": [
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  "ink_fox": {
+    "name_vi": "Mặc Hồ",
+    "sprite": "ink_fox",
+    "tier": 1,
+    "rank": "elite",
+    "speed": 34.0,
+    "idle_seconds": [
+      1.0,
+      3.5
+    ],
+    "qtypes": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q11"
+    ],
+    "hp": 220,
+    "atk": 14,
+    "def": 4,
+    "aggressive": true,
+    "aggro_radius": 72,
+    "attack_radius": 30,
+    "xp": 80,
+    "stones": [
+      30,
+      50
+    ],
+    "respawn_seconds": 60,
+    "shield_regen": [
+      50
+    ],
+    "weakness_vi": "Tinh anh: Mặc Thuẫn hồi lại khi còn nửa máu.",
+    "drops": [
+      {
+        "item": "muc_tinh",
+        "chance": 1.0,
+        "qty": [
+          3,
+          5
+        ]
+      },
+      {
+        "item": "go_linh_moc",
+        "chance": 1.0,
+        "qty": [
+          2,
+          4
+        ]
+      },
+      {
+        "item": "truc_co_dan",
+        "chance": 0.15,
+        "qty": [
+          1,
+          1
+        ]
+      },
+      {
+        "equipment": [
+          "gay_truc",
+          "ao_truc_van",
+          "ngoc_muc",
+          "nhan_dong"
+        ],
+        "chance": 0.35,
+        "min_rarity": "linh"
+      },
+      {
+        "item": "bi_kip_son",
+        "chance": 0.05,
+        "qty": [
+          1,
+          1
+        ]
+      },
+      {
+        "item": "mac_linh_chi",
+        "chance": 0.5,
+        "qty": [
+          1,
+          2
+        ]
+      },
+      {
+        "item": "dp_truc_co",
+        "chance": 0.08,
+        "qty": [
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  "muc_anh": {
+    "name_vi": "Mặc Ảnh",
+    "sprite": "muc_anh",
+    "tier": 1,
+    "rank": "normal",
+    "speed": 28.0,
+    "idle_seconds": [
+      0.8,
+      2.5
+    ],
+    "qtypes": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q11"
+    ],
+    "hp": 70,
+    "atk": 10,
+    "def": 2,
+    "aggressive": true,
+    "aggro_radius": 90,
+    "attack_radius": 22,
+    "xp": 20,
+    "stones": [
+      4,
+      8
+    ],
+    "respawn_seconds": 999999,
+    "shield_regen": [],
+    "realm_only": true,
+    "weakness_vi": "Bóng mực canh giữ các phòng bí cảnh. Không mọc lại: hạ xong là yên.",
+    "drops": [
+      {
+        "item": "muc_tinh",
+        "chance": 0.6,
+        "qty": [
+          1,
+          2
+        ]
+      },
+      {
+        "item": "mac_linh_chi",
+        "chance": 0.15,
+        "qty": [
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  "but_yeu": {
+    "name_vi": "Bút Yêu",
+    "sprite": "but_yeu",
+    "tier": 2,
+    "rank": "normal",
+    "speed": 34.0,
+    "idle_seconds": [
+      0.6,
+      2.0
+    ],
+    "qtypes": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q5",
+      "Q6",
+      "Q7"
+    ],
+    "hp": 95,
+    "atk": 13,
+    "def": 3,
+    "aggressive": true,
+    "aggro_radius": 96,
+    "attack_radius": 30,
+    "xp": 30,
+    "stones": [
+      6,
+      12
+    ],
+    "respawn_seconds": 999999,
+    "shield_regen": [],
+    "realm_only": true,
+    "weakness_vi": "Cây bút thành tinh, viết bậy lên tường bí cảnh. Hỏi lượng từ, điền chỗ trống, gõ pinyin.",
+    "drops": [
+      {
+        "item": "muc_tinh",
+        "chance": 0.7,
+        "qty": [
+          1,
+          3
+        ]
+      },
+      {
+        "item": "thien_tam_ti",
+        "chance": 0.08,
+        "qty": [
+          1,
+          1
+        ]
+      }
+    ]
+  },
+  "nghien_ma": {
+    "name_vi": "Nghiên Ma",
+    "sprite": "nghien_ma",
+    "tier": 1,
+    "rank": "boss",
+    "speed": 18.0,
+    "idle_seconds": [
+      1.0,
+      2.0
+    ],
+    "qtypes": [
+      "Q1",
+      "Q2",
+      "Q3",
+      "Q4",
+      "Q11",
+      "Q5",
+      "Q6",
+      "Q7",
+      "Q8"
+    ],
+    "hp": 520,
+    "atk": 16,
+    "def": 5,
+    "aggressive": true,
+    "aggro_radius": 400,
+    "attack_radius": 34,
+    "xp": 160,
+    "stones": [
+      30,
+      50
+    ],
+    "respawn_seconds": 999999,
+    "shield_regen": [
+      75,
+      50,
+      25
+    ],
+    "group_shield": true,
+    "realm_only": true,
+    "size": 48,
+    "weakness_vi": "Boss bí cảnh: mỗi pha dựng Mặc Thuẫn lớn, cần mỗi người còn sống trả lời đúng một câu mới vỡ. Né vùng Mặc Triều đỏ.",
+    "drops": [
+      {
+        "item": "muc_tinh",
+        "chance": 1.0,
+        "qty": [
+          3,
+          6
+        ]
+      }
+    ]
+  }
+}

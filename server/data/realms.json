@@ -1,0 +1,31 @@
+{
+  "_comment": "Bí cảnh (spec 14). kind: 'scheduled' opens at fixed hours (balance/realm.json schedule), 'rift' is entered through a Khe Nứt Mực that appears now and then in a public zone. 'puzzles' = how many puzzle rooms come before the boss room (3-5, picked at random from the five kinds the party can play). tier = the highest HSK level of the words used. Numbers (loot, timings, damage) live in balance/realm.json.",
+  "realms": {
+    "khe_nut_muc": {
+      "name_vi": "Khe Nứt Mực", "hanzi": "墨隙", "kind": "rift", "min_realm": "luyen_khi", "tier": 1,
+      "puzzles": 3, "time_limit_minutes": 15, "room_monsters": {"muc_anh": 2}, "boss": "nghien_ma",
+      "boss_hp_mult": 0.7,
+      "desc_vi": "Một vết rách trong sương mực. Bên trong là vài gian đá cũ và một con Nghiên Ma còn non."
+    },
+    "mac_anh_dong": {
+      "name_vi": "Mặc Ảnh Động", "hanzi": "墨影洞", "kind": "scheduled", "min_realm": "truc_co", "tier": 2,
+      "puzzles": 5, "time_limit_minutes": 20, "room_monsters": {"muc_anh": 2, "but_yeu": 1}, "boss": "nghien_ma",
+      "boss_hp_mult": 1.0,
+      "desc_vi": "Hang động nơi Nghiên Ma ngủ, mở cửa ba lần mỗi ngày. Năm gian câu đố, rồi tới hang của nó."
+    }
+  },
+  "puzzles": {
+    "compose": {"name_vi": "Cửa Ghép Chữ", "hanzi": "合字门",
+                "how_vi": "Cửa khắc nghĩa một chữ. Mỗi người cầm một mảnh chữ (chỉ mình thấy). Ai cầm đúng mảnh hãy đứng lên bệ đá đúng vị trí; cả đội phải đứng đủ trong 10 giây."},
+    "sentence": {"name_vi": "Câu Văn Đứt Đoạn", "hanzi": "断句",
+                 "how_vi": "Câu bị xé nhỏ, mỗi người giữ vài mảnh. Lần lượt bước lên ô số đúng vị trí mảnh của mình trong câu, từ ô 1."},
+    "tone": {"name_vi": "Trụ Thanh Điệu", "hanzi": "声调柱",
+             "how_vi": "Tượng đá đọc một âm. Người đứng gần trụ đúng thanh nhất hãy đánh trụ đó (E) trong 5 giây. Đúng liền 8 lần thì cửa mở."},
+    "mirror": {"name_vi": "Gương Nghĩa", "hanzi": "义镜",
+               "how_vi": "Gương hiện một nghĩa. Mỗi người thấy một chữ của riêng mình; ai có chữ mang nghĩa đó thì bước vào gương. Sai người thì cả đội mất máu."},
+    "maze": {"name_vi": "Mê Cung Mực", "hanzi": "墨迷宫",
+             "how_vi": "Mê cung tối. Người đã học chữ 明 tỏa sáng soi đường, người khác đi theo; đứng trong bóng tối thì mực ăn mòn máu. Cả đội tới cửa ra là xong."},
+    "boss": {"name_vi": "Hang Nghiên Ma", "hanzi": "砚魔",
+             "how_vi": "Mỗi pha Nghiên Ma dựng Mặc Thuẫn lớn: mỗi người còn sống phải trả lời đúng một câu mới vỡ. Né vùng đỏ Mặc Triều."}
+  }
+}

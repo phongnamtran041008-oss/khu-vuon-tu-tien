@@ -1,0 +1,11 @@
+{
+  "_comment": "Accounts and economy basics (spec 4, 12.1, 15.4, 17).",
+  "starting_spirit_stones": 300,
+  "starting_immortal_jade": 0,
+  "max_accounts_per_ip_per_day": 5,
+  "write_requests_per_minute": 60,
+  "token_days": 30,
+  "username_min": 3,
+  "username_max": 20,
+  "password_min": 6
+}

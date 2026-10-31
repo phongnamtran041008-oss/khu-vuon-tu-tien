@@ -1,0 +1,19 @@
+{
+  "_comment": "Pills (spec 12.3). heal/qi are used out in the world (shared 15 s cooldown in a fight); buff_* last buff_seconds of real time and are kept in users.flags; breakthrough pills are only spent by a passed Thiên Kiếp; bee_food is fed to a bee in the hive. sell_price: what the village pays (always far below the cost of brewing or buying it, see docs/BALANCE.md). No pill answers or skips a question.",
+  "hoi_huyet_dan": {"name_vi": "Hồi Huyết Đan", "hanzi": "回血丹", "effect": "heal", "pct": 35, "sell_price": 6,
+                    "desc_vi": "Hồi 35% Sinh Lực."},
+  "hoi_khi_dan": {"name_vi": "Hồi Khí Đan", "hanzi": "回气丹", "effect": "qi", "pct": 40, "sell_price": 6,
+                  "desc_vi": "Hồi 40% Linh Lực."},
+  "tu_linh_dan": {"name_vi": "Tụ Linh Đan", "hanzi": "聚灵丹", "effect": "buff", "buff": "tu_linh", "sell_price": 15,
+                  "desc_vi": "Trong 10 phút, mỗi câu trả lời đúng cho thêm 50% Tu Vi. Không có câu nào thì cũng không có Tu Vi."},
+  "khang_muc_dan": {"name_vi": "Kháng Mực Đan", "hanzi": "抗墨丹", "effect": "buff", "buff": "khang_muc", "sell_price": 10,
+                    "desc_vi": "Trong 10 phút, Kháng Mực +15 (Mặc Kích khi trả lời sai nhẹ đi)."},
+  "ngo_tinh_dan": {"name_vi": "Ngộ Tính Đan", "hanzi": "悟性丹", "effect": "buff", "buff": "ngo_tinh", "sell_price": 15,
+                   "desc_vi": "Trong 10 phút, mỗi câu hỏi có thêm 3 giây để nghĩ."},
+  "truc_co_dan": {"name_vi": "Trúc Cơ Đan", "hanzi": "筑基丹", "effect": "breakthrough", "realm": "truc_co", "sell_price": 40,
+                  "desc_vi": "Cần để đột phá Trúc Cơ. Chỉ mất khi vượt Thiên Kiếp thành công."},
+  "kim_dan_dan": {"name_vi": "Kim Đan Đan", "hanzi": "金丹丹", "effect": "breakthrough", "realm": "kim_dan", "sell_price": 120,
+                  "desc_vi": "Cần để đột phá Kim Đan. Chỉ mất khi vượt Thiên Kiếp thành công."},
+  "phong_vuong_dan": {"name_vi": "Phong Vương Đan", "hanzi": "蜂王丹", "effect": "bee_food", "sell_price": 12,
+                      "desc_vi": "Cho một con ong ăn ở tổ: rất nhiều kinh nghiệm và thân thiết."}
+}

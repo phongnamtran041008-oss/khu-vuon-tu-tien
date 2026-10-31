@@ -1,0 +1,527 @@
+{
+ "_comment": "Quest chains (spec 7.4). Steps unlock one after another; objective types: talk (npc), kill (monster type), meditate, realm (reach a realm), hatch / feed / pollinate (plants fully pollinated) / guard (set a guard bee) / bee_species (new Ong Phổ entries) / fish (fish landed) / fish_species (new Ngư Phổ entries). Stage 8 adds brew (pills made), inscribe (characters carved), review (right garden reviews), answer (right answers anywhere) and td_win; target \"*\" means any. daily: each day (UTC+7) every player gets the `always` tasks plus `count` more picked from the pool; claiming all of them gives all_done_bonus once.",
+ "chains": {
+  "nhap_mon": {
+   "title_vi": "Nhập Môn",
+   "steps": [
+    {
+     "id": "nm1_xuong_lang",
+     "title_vi": "Xuống làng",
+     "giver": "truc_lao",
+     "desc_vi": "Ra cổng tre, xuống Trúc Lâm Thôn tìm Trúc Lão. Ông có thứ muốn trao cho con.",
+     "objective": {
+      "type": "talk",
+      "target": "truc_lao",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 50,
+      "equipment": [
+       {
+        "item": "but_long_go",
+        "rarity": "pham"
+       }
+      ]
+     }
+    },
+    {
+     "id": "nm2_muc_con",
+     "title_vi": "Mực loang ven rừng",
+     "giver": "truc_lao",
+     "desc_vi": "Ở Rừng Mực Loang, Mực Con đang nuốt chữ. Hạ 3 con, nhớ trả lời đúng để phá Mặc Thuẫn.",
+     "objective": {
+      "type": "kill",
+      "target": "ink_slime",
+      "count": 3
+     },
+     "rewards": {
+      "spirit_stones": 80,
+      "xp": 40,
+      "items": [
+       {
+        "item": "hoi_huyet_dan",
+        "qty": 3
+       },
+       {
+        "item": "bi_kip_thuy",
+        "qty": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "nm3_thanh_dieu",
+     "title_vi": "Kẻ trộm thanh điệu",
+     "giver": "truc_lao",
+     "desc_vi": "Thanh Điệu Yêu hay đổi dấu của chữ. Hạ 2 con.",
+     "objective": {
+      "type": "kill",
+      "target": "tone_wisp",
+      "count": 2
+     },
+     "rewards": {
+      "spirit_stones": 100,
+      "xp": 60,
+      "items": [
+       {
+        "item": "bi_kip_hoa",
+        "qty": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "nm4_da_toa",
+     "title_vi": "Tĩnh tâm",
+     "giver": "truc_lao",
+     "desc_vi": "Về động phủ, ngồi bàn đả tọa và trả lời đúng 2 câu ôn tập.",
+     "objective": {
+      "type": "meditate",
+      "target": "",
+      "count": 2
+     },
+     "rewards": {
+      "xp": 80,
+      "items": [
+       {
+        "item": "bi_kip_moc",
+        "qty": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "nm5_mac_ho",
+     "title_vi": "Mặc Hồ rừng sâu",
+     "giver": "truc_lao",
+     "desc_vi": "Sâu trong Rừng Mực Loang có một con Mặc Hồ. Mặc Thuẫn của nó hồi lại khi nó yếu đi.",
+     "objective": {
+      "type": "kill",
+      "target": "ink_fox",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 200,
+      "items": [
+       {
+        "item": "truc_co_dan",
+        "qty": 1
+       },
+       {
+        "item": "bi_kip_son",
+        "qty": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "nm6_thien_kiep",
+     "title_vi": "Thiên Kiếp",
+     "giver": "truc_lao",
+     "desc_vi": "Tu đến Luyện Khí tầng 9, mang Trúc Cơ Đan, rồi vượt Thiên Kiếp để vào Trúc Cơ.",
+     "objective": {
+      "type": "realm",
+      "target": "truc_co",
+      "count": 1
+     },
+     "rewards": {
+      "immortal_jade": 30,
+      "spirit_stones": 300
+     }
+    }
+   ]
+  },
+  "linh_phong": {
+   "title_vi": "Linh Phong",
+   "steps": [
+    {
+     "id": "lp1_trung_ong",
+     "title_vi": "Quả trứng của Trúc Lão",
+     "giver": "truc_lao",
+     "desc_vi": "Trúc Lão để lại một quả Trứng Ong Phàm trong túi con. Đến Linh Phong Sào trong động phủ (phím H) và ấp nở nó.",
+     "objective": {
+      "type": "hatch",
+      "target": "",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 50,
+      "items": [
+       {
+        "item": "linh_mat",
+        "qty": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "lp2_cho_an",
+     "title_vi": "Bữa ăn đầu tiên",
+     "giver": "truc_lao",
+     "desc_vi": "Ong con đói rồi. Cho nó ăn Linh Mật hoặc một quả chữ. Đoán đúng món nó thích thì nó quý con hơn.",
+     "objective": {
+      "type": "feed",
+      "target": "",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 80,
+      "xp": 30
+     }
+    },
+    {
+     "id": "lp3_thu_phan",
+     "title_vi": "Hoa cần ong",
+     "giver": "truc_lao",
+     "desc_vi": "Giao cho ong việc Thụ phấn. Ong chỉ bay tới cây đã Ra hoa (ôn đúng đến giai đoạn 3). Thụ phấn đầy một cây.",
+     "objective": {
+      "type": "pollinate",
+      "target": "",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 100,
+      "items": [
+       {
+        "item": "trung_ong_linh",
+        "qty": 1
+       }
+      ]
+     }
+    },
+    {
+     "id": "lp4_ho_ve",
+     "title_vi": "Ong hộ vệ",
+     "giver": "truc_lao",
+     "desc_vi": "Từ Luyện Khí trở đi, ong có thể bay theo con ra ngoài. Đặt một con ong làm Hộ vệ.",
+     "objective": {
+      "type": "guard",
+      "target": "",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 150,
+      "xp": 60,
+      "items": [
+       {
+        "item": "go_linh_moc",
+        "qty": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "lp5_ong_pho",
+     "title_vi": "Ong Phổ",
+     "giver": "truc_lao",
+     "desc_vi": "Thiên Cơ Các có bán Trứng Ong. Phát hiện 4 loài ong khác nhau để ghi vào Ong Phổ.",
+     "objective": {
+      "type": "bee_species",
+      "target": "",
+      "count": 4
+     },
+     "rewards": {
+      "immortal_jade": 10,
+      "items": [
+       {
+        "item": "trung_ong_linh",
+        "qty": 1
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "ngu_ong": {
+   "title_vi": "Ngư Ông",
+   "steps": [
+    {
+     "id": "no1_ben_ho",
+     "title_vi": "Ông lão bên hồ",
+     "giver": "truc_lao",
+     "desc_vi": "Đi cổng Tây của Trúc Lâm Thôn tới Hồ Nghiên Mực, chào Ngư Ông đang ngồi trên bến gỗ.",
+     "objective": {
+      "type": "talk",
+      "target": "fisher",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 30,
+      "items": [
+       {
+        "item": "giun_dat",
+        "qty": 10
+       }
+      ]
+     }
+    },
+    {
+     "id": "no2_ba_con_ca",
+     "title_vi": "Ba con cá đầu tiên",
+     "giver": "fisher",
+     "desc_vi": "Đứng sát mép nước, bấm F để quăng câu. Khi phao chìm thì giật ngay, rồi giữ chuột để kéo. Câu 3 con cá.",
+     "objective": {
+      "type": "fish",
+      "target": "",
+      "count": 3
+     },
+     "rewards": {
+      "spirit_stones": 60,
+      "xp": 30,
+      "items": [
+       {
+        "item": "giun_dat",
+        "qty": 10
+       }
+      ]
+     }
+    },
+    {
+     "id": "no3_ngu_pho",
+     "title_vi": "Ngư Phổ năm loài",
+     "giver": "fisher",
+     "desc_vi": "Mỗi loài cá có giờ, có trời, có mồi riêng. Ghi được 5 loài vào Ngư Phổ.",
+     "objective": {
+      "type": "fish_species",
+      "target": "",
+      "count": 5
+     },
+     "rewards": {
+      "spirit_stones": 120,
+      "items": [
+       {
+        "item": "vay_linh_ngu",
+        "qty": 4
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "dan_dao": {
+   "title_vi": "Đan Đạo",
+   "steps": [
+    {
+     "id": "dd1_dan_su",
+     "title_vi": "Gặp Đan Sư",
+     "giver": "truc_lao",
+     "desc_vi": "Đan Sư ở lò luyện đan phía nam Trúc Lâm Thôn đang tìm người học việc. Tới chào ông ấy.",
+     "objective": {
+      "type": "talk",
+      "target": "alchemist",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 30,
+      "items": [
+       {
+        "item": "dp_hoi_huyet",
+        "qty": 1
+       },
+       {
+        "item": "truc_diep_thao",
+        "qty": 3
+       }
+      ]
+     }
+    },
+    {
+     "id": "dd2_me_dan_dau",
+     "title_vi": "Mẻ đan đầu tiên",
+     "giver": "alchemist",
+     "desc_vi": "Luyện một mẻ Hồi Huyết Đan ở lò (lò trong động phủ, hay lò của Đan Sư). Canh kim vào vùng văn hỏa nhé.",
+     "objective": {
+      "type": "brew",
+      "target": "*",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 60,
+      "xp": 30,
+      "items": [
+       {
+        "item": "dp_hoi_khi",
+        "qty": 1
+       },
+       {
+        "item": "truc_diep_thao",
+        "qty": 2
+       }
+      ]
+     }
+    },
+    {
+     "id": "dd3_khac_van",
+     "title_vi": "Chữ trên binh khí",
+     "giver": "alchemist",
+     "desc_vi": "Ở Lò Rèn, khắc một chữ con đã thuộc (từ 70%) lên một món trang bị: trả lời đúng liền 3 câu về chữ đó.",
+     "objective": {
+      "type": "inscribe",
+      "target": "*",
+      "count": 1
+     },
+     "rewards": {
+      "spirit_stones": 100,
+      "items": [
+       {
+        "item": "dp_khang_muc",
+        "qty": 1
+       },
+       {
+        "item": "muc_tinh",
+        "qty": 4
+       }
+      ]
+     }
+    },
+    {
+     "id": "dd4_dan_su_nho",
+     "title_vi": "Tiểu Đan Sư",
+     "giver": "alchemist",
+     "desc_vi": "Luyện thêm 5 mẻ đan bất kỳ (phế đan không tính).",
+     "objective": {
+      "type": "brew",
+      "target": "*",
+      "count": 5
+     },
+     "rewards": {
+      "immortal_jade": 10,
+      "spirit_stones": 150,
+      "items": [
+       {
+        "item": "dp_phong_vuong",
+        "qty": 1
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ "daily": {
+  "title_vi": "Hằng ngày",
+  "count": 2,
+  "always": [
+   "d_answer"
+  ],
+  "all_done_bonus": {
+   "spirit_stones": 50,
+   "immortal_jade": 1
+  },
+  "pool": [
+   {
+    "id": "d_answer",
+    "title_vi": "Ôn 15 chữ",
+    "desc_vi": "Trả lời đúng 15 câu, ở đâu cũng được: vườn, đả tọa, đánh quái, câu cá, Sổ Lỗi...",
+    "objective": {
+     "type": "answer",
+     "target": "*",
+     "count": 15
+    },
+    "rewards": {
+     "spirit_stones": 40,
+     "xp": 20
+    }
+   },
+   {
+    "id": "d_garden",
+    "title_vi": "Chăm vườn",
+    "desc_vi": "Ôn đúng 4 lần trong vườn chữ.",
+    "objective": {
+     "type": "review",
+     "target": "*",
+     "count": 4
+    },
+    "rewards": {
+     "spirit_stones": 40
+    }
+   },
+   {
+    "id": "d_kill",
+    "title_vi": "Dẹp mực",
+    "desc_vi": "Hạ 10 Mặc Quái bất kỳ ở Rừng Mực Loang.",
+    "objective": {
+     "type": "kill",
+     "target": "*",
+     "count": 10
+    },
+    "rewards": {
+     "spirit_stones": 60,
+     "xp": 20
+    }
+   },
+   {
+    "id": "d_fish",
+    "title_vi": "Câu cá",
+    "desc_vi": "Câu được 3 con cá (ao, hồ đâu cũng được).",
+    "objective": {
+     "type": "fish",
+     "target": "*",
+     "count": 3
+    },
+    "rewards": {
+     "spirit_stones": 50
+    }
+   },
+   {
+    "id": "d_pollinate",
+    "title_vi": "Thụ phấn",
+    "desc_vi": "Để ong thụ phấn đầy 2 cây trong vườn.",
+    "objective": {
+     "type": "pollinate",
+     "target": "*",
+     "count": 2
+    },
+    "rewards": {
+     "spirit_stones": 50
+    }
+   },
+   {
+    "id": "d_brew",
+    "title_vi": "Luyện đan",
+    "desc_vi": "Luyện thành 2 mẻ đan (phế đan không tính).",
+    "objective": {
+     "type": "brew",
+     "target": "*",
+     "count": 2
+    },
+    "rewards": {
+     "spirit_stones": 40,
+     "items": [
+      {
+       "item": "truc_diep_thao",
+       "qty": 2
+      }
+     ]
+    }
+   },
+   {
+    "id": "d_td",
+    "title_vi": "Giữ vườn",
+    "desc_vi": "Thắng 2 ải Thủ Vườn.",
+    "objective": {
+     "type": "td_win",
+     "target": "*",
+     "count": 2
+    },
+    "rewards": {
+     "spirit_stones": 60
+    }
+   },
+   {
+    "id": "d_meditate",
+    "title_vi": "Tĩnh tọa",
+    "desc_vi": "Đả tọa và trả lời đúng 3 câu.",
+    "objective": {
+     "type": "meditate",
+     "target": "*",
+     "count": 3
+    },
+    "rewards": {
+     "spirit_stones": 30,
+     "xp": 30
+    }
+   }
+  ]
+ }
+}

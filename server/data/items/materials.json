@@ -1,0 +1,171 @@
+{
+ "_comment": "Materials, skill manuals, đan phương, herbs, bee eggs and bee foods (spec 8.4, 10, 12). A manual teaches a Pháp Chữ when its word has mastery >= 50. A recipe (đan phương) is kept, not used up: owning one lets you brew that pill. sell_price: what the village buys it for (Linh Thạch).",
+ "muc_tinh": {
+  "name_vi": "Mực Tinh",
+  "kind": "material",
+  "desc_vi": "Tinh chất mực của Mặc Quái, dùng để cường hóa trang bị.",
+  "sell_price": 3
+ },
+ "bi_kip_hoa": {
+  "name_vi": "Bí kíp Hỏa Chữ Quyết",
+  "kind": "manual",
+  "skill": "hoa",
+  "desc_vi": "Dạy Hỏa Chữ Quyết (chữ 火)."
+ },
+ "bi_kip_thuy": {
+  "name_vi": "Bí kíp Thủy Chữ Quyết",
+  "kind": "manual",
+  "skill": "thuy",
+  "desc_vi": "Dạy Thủy Chữ Quyết (chữ 水)."
+ },
+ "bi_kip_moc": {
+  "name_vi": "Bí kíp Mộc Chữ Quyết",
+  "kind": "manual",
+  "skill": "moc",
+  "desc_vi": "Dạy Mộc Chữ Quyết (chữ 木)."
+ },
+ "bi_kip_son": {
+  "name_vi": "Bí kíp Sơn Chữ Quyết",
+  "kind": "manual",
+  "skill": "son",
+  "desc_vi": "Dạy Sơn Chữ Quyết (chữ 山)."
+ },
+ "linh_mat": {
+  "name_vi": "Linh Mật",
+  "kind": "food",
+  "sell_price": 2,
+  "desc_vi": "Mật ong linh khí do ong ở tổ làm ra. Cho ong ăn, luyện đan (giai đoạn 8) hoặc bán."
+ },
+ "sap_ong": {
+  "name_vi": "Sáp Ong",
+  "kind": "material",
+  "sell_price": 3,
+  "desc_vi": "Sáp tiết ra khi ong làm mật, dùng nâng cấp tổ ong."
+ },
+ "go_linh_moc": {
+  "name_vi": "Gỗ Linh Mộc",
+  "kind": "material",
+  "sell_price": 4,
+  "desc_vi": "Gỗ cây cổ thụ còn linh khí, nhặt được trong Rừng Mực Loang. Dùng nâng cấp tổ ong."
+ },
+ "linh_qua": {
+  "name_vi": "Linh Quả",
+  "kind": "food",
+  "sell_price": 40,
+  "desc_vi": "Quả quý chỉ cây đã thụ phấn mới có. Nguyên liệu luyện đan hiếm, ong rất thích."
+ },
+ "ca_nho": {
+  "name_vi": "Cá Nhỏ",
+  "kind": "food",
+  "sell_price": 3,
+  "desc_vi": "Cá Phàm còn bé câu được ở ao, hồ. Ong cũng ăn được."
+ },
+ "vay_linh_ngu": {
+  "name_vi": "Vảy Linh Ngư",
+  "kind": "material",
+  "sell_price": 4,
+  "desc_vi": "Vảy óng ánh của cá từ Linh trở lên. Dùng để mua và nâng cấp cần câu."
+ },
+ "trung_ong_pham": {
+  "name_vi": "Trứng Ong Phàm",
+  "kind": "egg",
+  "rarity": "pham",
+  "desc_vi": "Mang đến tổ ong (Linh Phong Sào) để ấp nở."
+ },
+ "trung_ong_linh": {
+  "name_vi": "Trứng Ong Linh",
+  "kind": "egg",
+  "rarity": "linh",
+  "desc_vi": "Mang đến tổ ong (Linh Phong Sào) để ấp nở."
+ },
+ "trung_ong_huyen": {
+  "name_vi": "Trứng Ong Huyền",
+  "kind": "egg",
+  "rarity": "huyen",
+  "desc_vi": "Mang đến tổ ong (Linh Phong Sào) để ấp nở."
+ },
+ "trung_ong_dia": {
+  "name_vi": "Trứng Ong Địa",
+  "kind": "egg",
+  "rarity": "dia",
+  "desc_vi": "Mang đến tổ ong (Linh Phong Sào) để ấp nở."
+ },
+ "trung_ong_thien": {
+  "name_vi": "Trứng Ong Thiên",
+  "kind": "egg",
+  "rarity": "thien",
+  "desc_vi": "Mang đến tổ ong (Linh Phong Sào) để ấp nở."
+ },
+ "truc_diep_thao": {
+  "name_vi": "Trúc Diệp Thảo",
+  "kind": "herb",
+  "sell_price": 2,
+  "desc_vi": "Dược thảo mọc dưới gốc trúc. Bà Chủ Sạp có bán, Mặc Quái trong rừng hay ngậm theo. Nguyên liệu luyện đan."
+ },
+ "mac_linh_chi": {
+  "name_vi": "Mặc Linh Chi",
+  "kind": "herb",
+  "sell_price": 10,
+  "desc_vi": "Nấm linh chi mọc nơi mực loang lâu năm. Thanh Điệu Yêu và Mặc Hồ hay giữ. Nguyên liệu luyện đan quý."
+ },
+ "dp_hoi_huyet": {
+  "name_vi": "Đan phương: Hồi Huyết Đan",
+  "kind": "recipe",
+  "recipe": "hoi_huyet_dan",
+  "desc_vi": "Ghi cách luyện Hồi Huyết Đan 回血丹. Giữ trong túi là luyện được mãi, không mất."
+ },
+ "dp_hoi_khi": {
+  "name_vi": "Đan phương: Hồi Khí Đan",
+  "kind": "recipe",
+  "recipe": "hoi_khi_dan",
+  "desc_vi": "Ghi cách luyện Hồi Khí Đan 回气丹. Giữ trong túi là luyện được mãi, không mất."
+ },
+ "dp_tu_linh": {
+  "name_vi": "Đan phương: Tụ Linh Đan",
+  "kind": "recipe",
+  "recipe": "tu_linh_dan",
+  "desc_vi": "Ghi cách luyện Tụ Linh Đan 聚灵丹. Giữ trong túi là luyện được mãi, không mất."
+ },
+ "dp_khang_muc": {
+  "name_vi": "Đan phương: Kháng Mực Đan",
+  "kind": "recipe",
+  "recipe": "khang_muc_dan",
+  "desc_vi": "Ghi cách luyện Kháng Mực Đan 抗墨丹. Giữ trong túi là luyện được mãi, không mất."
+ },
+ "dp_ngo_tinh": {
+  "name_vi": "Đan phương: Ngộ Tính Đan",
+  "kind": "recipe",
+  "recipe": "ngo_tinh_dan",
+  "desc_vi": "Ghi cách luyện Ngộ Tính Đan 悟性丹. Giữ trong túi là luyện được mãi, không mất."
+ },
+ "dp_truc_co": {
+  "name_vi": "Đan phương: Trúc Cơ Đan",
+  "kind": "recipe",
+  "recipe": "truc_co_dan",
+  "desc_vi": "Ghi cách luyện Trúc Cơ Đan 筑基丹 để tự đột phá Trúc Cơ. Giữ trong túi là luyện được mãi, không mất."
+ },
+ "dp_kim_dan": {
+  "name_vi": "Đan phương: Kim Đan Đan",
+  "kind": "recipe",
+  "recipe": "kim_dan_dan",
+  "desc_vi": "Ghi cách luyện Kim Đan Đan 金丹丹. Cần Trúc Cơ mới luyện được. Giữ trong túi là luyện được mãi, không mất."
+ },
+ "dp_phong_vuong": {
+  "name_vi": "Đan phương: Phong Vương Đan",
+  "kind": "recipe",
+  "recipe": "phong_vuong_dan",
+  "desc_vi": "Ghi cách luyện Phong Vương Đan 蜂王丹 cho ong. Giữ trong túi là luyện được mãi, không mất."
+ },
+ "thien_tam_ti": {
+  "name_vi": "Thiên Tằm Ti",
+  "kind": "material",
+  "sell_price": 25,
+  "desc_vi": "Tơ của tằm trời, chỉ rơi trong bí cảnh. Ngư Ông dùng nó để se dây Cần Thiên Tơ."
+ },
+ "manh_bao_vat": {
+  "name_vi": "Mảnh Bảo Vật",
+  "kind": "material",
+  "sell_price": 10,
+  "desc_vi": "Mảnh vỡ của bảo vật trong bí cảnh, cả đội cùng nhận. Gom đủ thì ghép thành đồ bộ Mặc Ảnh phẩm Thiên ở Cổng Bí Cảnh."
+ }
+}

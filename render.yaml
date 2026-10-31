@@ -1,0 +1,31 @@
+# Phương án B (docs/DEPLOY.md): Render free web service + Neon free Postgres.
+# Render → New → Blueprint → chọn repo này; điền DATABASE_URL (chuỗi kết nối Neon) khi được hỏi.
+services:
+  - type: web
+    name: khu-vuon-tu-tien
+    runtime: docker
+    plan: free
+    region: singapore
+    dockerfilePath: ./server/Dockerfile
+    dockerContext: ./server
+    healthCheckPath: /healthz
+    autoDeploy: true
+    envVars:
+      - key: ENV
+        value: prod
+      - key: DATABASE_URL          # Neon: postgresql://...neon.tech/neondb?sslmode=require
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: DB_POOL_SIZE
+        value: "2"
+      - key: DB_IDLE_CLOSE_SECONDS # let Neon suspend when nobody plays (100 CU-hours/month)
+        value: "240"
+      - key: TRUST_PROXY_HEADERS
+        value: "1"
+      - key: ALLOW_UNREVIEWED
+        value: "1"
+      - key: ADMIN_USERNAMES
+        sync: false
+      - key: CLIENT_DOWNLOAD_URL
+        sync: false

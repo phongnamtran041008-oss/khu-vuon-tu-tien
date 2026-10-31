@@ -1,0 +1,79 @@
+# Khu Vườn Tu Tiên — server + PostgreSQL (+ Caddy HTTPS) + daily backups. See docs/DEPLOY.md.
+#
+#   cd deploy && cp .env.example .env    # then edit .env (password, JWT secret, domain)
+#   Phương án A (Oracle Cloud ARM, HTTPS):        docker compose --profile https up -d --build
+#   Phương án C (máy nhà + Cloudflare Tunnel):    docker compose up -d --build
+#                                                 cloudflared tunnel --url http://localhost:8000
+#
+# Every image here is multi-arch (linux/amd64 + linux/arm64).
+name: khuvuon
+
+x-db-url: &db-url postgresql://khuvuon:${POSTGRES_PASSWORD:?đặt POSTGRES_PASSWORD trong deploy/.env}@db:5432/khuvuon
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: khuvuon
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: khuvuon
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U khuvuon -d khuvuon"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  server:
+    build: ../server
+    image: ${SERVER_IMAGE:-khuvuon-server:latest}
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      DATABASE_URL: *db-url
+    depends_on:
+      db:
+        condition: service_healthy
+    # only this machine can reach port 8000: Caddy (or cloudflared) is the public door
+    ports:
+      - "127.0.0.1:8000:8000"
+
+  caddy:
+    image: caddy:2-alpine
+    profiles: ["https"]
+    restart: unless-stopped
+    environment:
+      DOMAIN: ${DOMAIN:-localhost}
+    ports:
+      - "80:80"
+      - "443:443"
+      - "443:443/udp"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - server
+
+  backup:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: *db-url
+      BACKUP_DIR: /backups
+      BACKUP_KEEP: ${BACKUP_KEEP:-7}
+      BACKUP_HOUR_UTC: ${BACKUP_HOUR_UTC:-20}
+    volumes:
+      - ../tools/backup_db.sh:/backup_db.sh:ro
+      - ./backups:/backups
+    entrypoint: ["sh", "/backup_db.sh", "--loop"]
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:
+  caddy_data:
+  caddy_config:

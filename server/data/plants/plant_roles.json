@@ -1,0 +1,47 @@
+{
+  "_comment": "Vai trò cây trong Ải Thủ Vườn (spec 9.2). Mỗi chữ trong dữ liệu từ vựng nhận một vai trò: chữ đặc biệt gán tay trong by_hanzi, chữ còn lại theo chủ đề (topic) trong by_topic. Chỉ số của từng vai trò nằm trong balance/td.json. test_td kiểm tra mọi chữ đều có vai trò hợp lệ.",
+  "roles": {
+    "hoa":       {"name_vi": "Hỏa", "desc_vi": "Bắn cầu lửa nổ lan, sát thương cả nhóm quái."},
+    "thuy":      {"name_vi": "Thủy", "desc_vi": "Phun nước làm quái chậm 40%."},
+    "moc":       {"name_vi": "Mộc", "desc_vi": "Mọc ngay trên đường, thân cây chặn quái lại, máu cao, có gai."},
+    "son":       {"name_vi": "Sơn", "desc_vi": "Rung đất định kỳ, quái quanh đó bị choáng."},
+    "kim":       {"name_vi": "Kim", "desc_vi": "Bắn kim châm vào con quái khỏe nhất, sát thương lớn."},
+    "quang":     {"name_vi": "Quang", "desc_vi": "Tỏa sáng: Mực Ẩn chỉ bị đánh khi đứng trong vùng sáng."},
+    "sinh_khi":  {"name_vi": "Sinh Khí", "desc_vi": "Định kỳ tạo Linh Khí trong lúc có đợt quái."},
+    "ho_tro":    {"name_vi": "Hỗ Trợ", "desc_vi": "Cây kề bên bắn nhanh hơn, cây Mộc kề bên hồi máu."},
+    "thanh_ngu": {"name_vi": "Thành Ngữ", "desc_vi": "Không trồng: một tuyệt chiêu, mỗi ải dùng một lần."}
+  },
+  "by_topic": {
+    "nature": "moc",
+    "weather": "thuy",
+    "food": "sinh_khi",
+    "family": "ho_tro",
+    "greetings": "ho_tro",
+    "people": "ho_tro",
+    "feelings": "ho_tro",
+    "body": "ho_tro",
+    "numbers": "kim",
+    "actions": "kim",
+    "animals": "kim",
+    "grammar": "son",
+    "measure": "son",
+    "description": "son",
+    "time": "ho_tro",
+    "colors": "quang",
+    "things": "kim",
+    "idiom": "thanh_ngu"
+  },
+  "by_hanzi": {
+    "火": "hoa", "日": "hoa", "热": "hoa", "红": "hoa", "太阳": "hoa", "夏天": "hoa",
+    "水": "thuy", "雨": "thuy", "河": "thuy", "海": "thuy", "湖": "thuy", "雪": "thuy", "冷": "thuy",
+    "云": "thuy", "冬天": "thuy", "鱼": "thuy", "船": "thuy", "蓝": "thuy", "风": "thuy",
+    "木": "moc", "林": "moc", "森": "moc", "树": "moc", "草": "moc", "花": "moc", "春天": "moc", "绿": "moc",
+    "山": "son", "大": "son", "马": "son", "黑": "son", "坐": "son",
+    "月": "quang", "明": "quang", "月亮": "quang", "星星": "quang", "灯": "quang", "看": "quang",
+    "眼睛": "quang", "黄": "quang", "照片": "quang", "颜色": "quang", "天气": "quang",
+    "空气": "sinh_khi", "银行": "sinh_khi", "礼物": "sinh_khi", "周末": "sinh_khi",
+    "秋天": "kim", "笔": "kim", "写": "kim", "画": "kim", "鞋": "kim",
+    "药": "ho_tro", "健康": "ho_tro", "音乐": "ho_tro", "故事": "ho_tro", "帮助": "ho_tro", "休": "ho_tro",
+    "好": "ho_tro", "吗": "son", "口": "son", "嘴": "son"
+  }
+}

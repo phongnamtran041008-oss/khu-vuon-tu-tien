@@ -1,0 +1,4 @@
+{"_comment": "BALANCE_PROFILE=dev: the scheduled realm is always open, rifts show up often, the queue fills fast.",
+ "always_open": true,
+ "rift": {"check_seconds": 20, "chance": 0.5},
+ "queue": {"fill_seconds": 6}}

@@ -1,0 +1,34 @@
+{
+ "_comment": "Fishing rods (spec 11.2). Stats: pull = how fast the catch bar fills in the reel minigame (x), line = how much strain the line takes before it snaps (x), luck = shifts the odds towards rarer fish (balance/fishing.json luck_scale), bite = shorter wait for a bite (fraction), zone = wider green zone (fraction). Ngư Ông sells them; Lò Rèn upgrades them (balance/fishing.json rod_upgrade). Cần Thiên Tơ needs Thiên Tằm Ti, which only drops in secret realms (stage 9).",
+ "can_truc_tho": {
+  "name_vi": "Cần Trúc Thô", "rarity": "pham", "order": 0,
+  "pull": 1.0, "line": 1.0, "luck": 0.0, "bite": 0.0, "zone": 0.0,
+  "price": null, "min_realm": "pham_nhan",
+  "desc_vi": "Cành trúc buộc sợi gai. Ai mới câu cũng được Ngư Ông tặng một cây."
+ },
+ "can_tre_gia": {
+  "name_vi": "Cần Tre Già", "rarity": "linh", "order": 1,
+  "pull": 1.15, "line": 1.25, "luck": 0.15, "bite": 0.1, "zone": 0.05,
+  "price": {"spirit_stones": 400}, "min_realm": "pham_nhan",
+  "desc_vi": "Tre già hun khói, dẻo mà chắc. Cá nặng cũng không gãy."
+ },
+ "can_ngoc_bich": {
+  "name_vi": "Cần Ngọc Bích", "rarity": "huyen", "order": 2,
+  "pull": 1.3, "line": 1.5, "luck": 0.35, "bite": 0.2, "zone": 0.1,
+  "price": {"spirit_stones": 1500, "items": {"vay_linh_ngu": 8}}, "min_realm": "luyen_khi",
+  "desc_vi": "Khoen dây bằng ngọc bích, cá Linh nhìn thấy là tò mò bơi lại."
+ },
+ "can_long_cot": {
+  "name_vi": "Cần Long Cốt", "rarity": "dia", "order": 3,
+  "pull": 1.5, "line": 1.8, "luck": 0.6, "bite": 0.3, "zone": 0.15,
+  "price": {"spirit_stones": 4000, "items": {"vay_linh_ngu": 25}}, "min_realm": "truc_co",
+  "desc_vi": "Đốt xương rồng hóa thạch, nặng tay mà kéo được cả cá tầm trăm cân."
+ },
+ "can_thien_to": {
+  "name_vi": "Cần Thiên Tơ", "rarity": "thien", "order": 4,
+  "pull": 1.8, "line": 2.2, "luck": 1.0, "bite": 0.4, "zone": 0.2,
+  "price": {"spirit_stones": 6000, "items": {"thien_tam_ti": 12, "vay_linh_ngu": 30}}, "min_realm": "truc_co",
+  "source_vi": "Ngư Ông se dây từ Thiên Tằm Ti, chỉ rơi trong bí cảnh.",
+  "desc_vi": "Dây se từ tơ tằm trời. Truyền rằng từng câu được cả Côn."
+ }
+}

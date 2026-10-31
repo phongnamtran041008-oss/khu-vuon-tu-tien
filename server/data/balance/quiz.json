@@ -1,0 +1,27 @@
+{
+  "_comment": "Question types and limits (spec 8.2). time_limit in seconds; the server adds network_grace when checking.",
+  "network_grace": 1.5,
+  "types": {
+    "Q1": {"name_vi": "Chữ Hán → nghĩa", "min_tier": 1, "time_limit": 10},
+    "Q2": {"name_vi": "Nghĩa → chữ Hán", "min_tier": 1, "time_limit": 10},
+    "Q3": {"name_vi": "Chữ Hán → pinyin", "min_tier": 1, "time_limit": 10},
+    "Q4": {"name_vi": "Nghe âm → chữ Hán", "min_tier": 1, "time_limit": 12},
+    "Q5": {"name_vi": "Gõ pinyin dạng số", "min_tier": 2, "time_limit": 15},
+    "Q6": {"name_vi": "Chọn lượng từ", "min_tier": 2, "time_limit": 12},
+    "Q7": {"name_vi": "Điền vào chỗ trống", "min_tier": 2, "time_limit": 15},
+    "Q8": {"name_vi": "Thành phần của chữ", "min_tier": 2, "time_limit": 12},
+    "Q9": {"name_vi": "Sắp xếp thành câu", "min_tier": 3, "time_limit": 25},
+    "Q10":{"name_vi": "Đọc câu → chọn nghĩa", "min_tier": 3, "time_limit": 25},
+    "Q11":{"name_vi": "Chọn thanh điệu", "min_tier": 1, "time_limit": 8}
+  },
+  "no_repeat_window": 5,
+  "selection_collection_share": 0.7,
+  "non_garden_mastery_correct": 2,
+  "non_garden_mastery_wrong": -2,
+  "generic_classifier": "个",
+  "bot_watch": {
+    "_comment": "Spec 17: this many correct answers in a row, each faster than fast_ms (server-measured), flags the account for an admin to look at; nothing is banned automatically.",
+    "fast_ms": 500,
+    "streak": 200
+  }
+}

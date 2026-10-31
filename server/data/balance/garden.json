@@ -1,0 +1,86 @@
+{
+  "_comment": "Garden / SRS numbers (spec 6.2-6.4). Durations in seconds of real time; the server divides SRS waits by TIME_SCALE.",
+  "grid": {
+    "width": 5,
+    "height": 5,
+    "initial_width": 3,
+    "initial_height": 3
+  },
+  "stage_names_vi": [
+    "Hạt vừa gieo",
+    "Nảy mầm",
+    "Cây non",
+    "Ra hoa",
+    "Kết trái",
+    "Chín"
+  ],
+  "review_wait_after_reaching_stage": {
+    "1": 600,
+    "2": 86400,
+    "3": 259200,
+    "4": 604800
+  },
+  "wrong_retry_wait": 300,
+  "stage_question": {
+    "1": [
+      "Q1"
+    ],
+    "2": [
+      "Q3"
+    ],
+    "3": [
+      "Q4"
+    ],
+    "4": [
+      "Q5",
+      "Q7"
+    ]
+  },
+  "reward_per_new_stage": 10,
+  "mastery_correct": 10,
+  "mastery_wrong": -5,
+  "mastery_max": 100,
+  "wither_wrong": 20,
+  "wither_correct": -50,
+  "wither_grace_seconds": 86400,
+  "wither_per_day_overdue": 10,
+  "wither_regress_at": 100,
+  "wither_after_regress": 60,
+  "harvest_fruits": 3,
+  "fruit_sell_price": {
+    "common": 15,
+    "rare": 40,
+    "epic": 100,
+    "legendary": 300
+  },
+  "garden_quiz_expiry_seconds": 600,
+  "plot_unlock_costs": [
+    150,
+    200,
+    250,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    1000,
+    1100,
+    1200,
+    1400,
+    1600,
+    1800
+  ],
+  "combo": {
+    "active_min_stage": 1,
+    "water_wait_mult": 0.8,
+    "fire_wait_mult": 0.9,
+    "fire_wood_chance_per_day": 0.2,
+    "fire_wood_wither": 30,
+    "hao_bonus": 50
+  },
+  "mishap_stone_loss": 10,
+  "craft_reward_mult": 2,
+  "cutting_cost": 60
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "Câu cá (spec 11). Seconds unless noted. The reel minigame itself is app/systems/fishing_sim.py (same file in the client); the numbers it runs on come from here and are sent to the client with each fish.",
+  "rarity_weight": {"pham": 70, "linh": 21, "huyen": 6.5, "dia": 2, "thien": 0.5},
+  "luck_scale": {"pham": 0, "linh": 0.6, "huyen": 1.2, "dia": 1.8, "thien": 2.5},
+  "attract_mult": 2.0,
+  "no_bait": {"bite": 1.5, "rarities": ["pham", "linh"]},
+  "bite_seconds": [3.0, 11.0],
+  "bite_min_seconds": 1.5,
+  "hook_early_grace": 0.15,
+  "hook_window": 1.3,
+  "cast_timeout": 60,
+  "small_fish_fraction": 0.25,
+  "size_curve": 1.6,
+  "scales": {"linh": 1, "huyen": 2, "dia": 3, "thien": 5},
+  "quiz_types": {
+    "linh": ["Q1", "Q2", "Q11"],
+    "huyen": ["Q3", "Q4", "Q2"],
+    "dia": ["Q5", "Q6", "Q7", "Q3"],
+    "thien": ["Q5", "Q8", "Q7", "Q6", "Q3"]
+  },
+  "quiz_needed": {"pham": 0, "linh": 1, "huyen": 1, "dia": 1, "thien": 2},
+  "zone_quiz_right": 1.3,
+  "zone_quiz_wrong": 0.65,
+  "reel": {
+    "zone": {"pham": 0.34, "linh": 0.3, "huyen": 0.26, "dia": 0.23, "thien": 0.2},
+    "zone_min": 0.08,
+    "zone_max": 0.6,
+    "toughness": {"pham": 1.0, "linh": 1.15, "huyen": 1.35, "dia": 1.55, "thien": 1.8},
+    "size_toughness": 0.3,
+    "agility": {"pham": 2.2, "linh": 2.8, "huyen": 3.4, "dia": 4.0, "thien": 4.6},
+    "range": {"pham": 0.35, "linh": 0.42, "huyen": 0.5, "dia": 0.58, "thien": 0.65},
+    "seg_ms": {"pham": [900, 1900], "linh": [750, 1600], "huyen": [600, 1350], "dia": [500, 1150], "thien": [420, 1000]},
+    "gain": 0.32,
+    "loss": 0.16,
+    "start": 0.3,
+    "lift": 3.0,
+    "gravity": 2.4,
+    "vmax": 1.3,
+    "strain_up": 0.55,
+    "strain_down": 0.4,
+    "max_ms": 60000
+  },
+  "reel_time_slack": 0.85,
+  "reel_time_grace": 0.5,
+  "reel_late_seconds": 30,
+  "toggles_max": 3000,
+  "weather_period_seconds": 1800,
+  "rain_chance": {"ho_nghien_muc": 0.35, "truc_lam_thon": 0.25, "abode": 0.25, "rung_muc_loang": 0.3},
+  "spot_reach": 22,
+  "rod_upgrade": {
+    "max_level": 5,
+    "per_level": {"pull": 0.04, "line": 0.06, "luck": 0.03},
+    "cost_stones": [80, 160, 300, 500, 800],
+    "cost_scales": [2, 4, 6, 10, 15]
+  },
+  "milestones": [
+    {"species": 5, "reward": {"spirit_stones": 200}},
+    {"species": 10, "reward": {"immortal_jade": 3}},
+    {"species": 20, "reward": {"immortal_jade": 6}},
+    {"species": 30, "reward": {"immortal_jade": 15}}
+  ],
+  "records_top": 3
+}

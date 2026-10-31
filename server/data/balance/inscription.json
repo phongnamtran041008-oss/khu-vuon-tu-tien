@@ -1,0 +1,32 @@
+{
+  "_comment": "Khắc Văn (spec 12.2): carve a learned word (mastery >= mastery_min) on a piece of equipment by answering `questions` questions about it in a row (one wrong answer ends the try, the fee is spent when it starts). Slots by rarity. The stat comes from by_hanzi (spec examples: 火 attack, 山 defence, 水 resistance (the game has no slowing of players, so 水 gives Kháng Mực), 心 Linh Lực) or else from the word's Thủ Vườn role (plants/plant_roles.json), times rarity_mult of the piece. erase_fee: Linh Thạch to scrape one character off.",
+  "mastery_min": 70,
+  "questions": 3,
+  "qtypes": ["Q1", "Q2", "Q3", "Q5", "Q4"],
+  "slots": {"pham": 1, "linh": 1, "huyen": 2, "dia": 2, "thien": 3},
+  "fee": {"spirit_stones": 60},
+  "fee_items": [{"item": "muc_tinh", "qty": 2}],
+  "erase_fee": 30,
+  "rarity_mult": {"pham": 1.0, "linh": 1.0, "huyen": 1.25, "dia": 1.5, "thien": 2.0},
+  "by_hanzi": {
+    "火": {"stat": "atk", "value": 5},
+    "山": {"stat": "def", "value": 4},
+    "水": {"stat": "ink_res", "value": 4},
+    "心": {"stat": "max_qi", "value": 12},
+    "人": {"stat": "max_hp", "value": 25},
+    "日": {"stat": "crit", "value": 2},
+    "月": {"stat": "crit", "value": 2},
+    "木": {"stat": "max_hp", "value": 22}
+  },
+  "by_role": {
+    "hoa": {"stat": "atk", "value": 4},
+    "thuy": {"stat": "ink_res", "value": 3},
+    "moc": {"stat": "max_hp", "value": 20},
+    "son": {"stat": "def", "value": 3},
+    "kim": {"stat": "crit", "value": 2},
+    "quang": {"stat": "crit", "value": 2},
+    "sinh_khi": {"stat": "max_qi", "value": 10},
+    "ho_tro": {"stat": "max_qi", "value": 8},
+    "thanh_ngu": {"stat": "atk", "value": 6}
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "_comment": "BALANCE_PROFILE=dev: fish bite within 1.5-3 s and rare fish bite far more often, to try every part of fishing quickly.",
+  "bite_seconds": [1.5, 3.0],
+  "rarity_weight": {"pham": 30, "linh": 40, "huyen": 20, "dia": 7, "thien": 3}
+}

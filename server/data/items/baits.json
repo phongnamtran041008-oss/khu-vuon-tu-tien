@@ -1,0 +1,27 @@
+{
+ "_comment": "Fishing baits (spec 11.2), used up one per cast. bite = multiplier on the wait for a bite (smaller = faster). luck adds to the rod's luck. attracts: species picked twice as often with this bait. only_tag: the bait attracts only fish with that tag. night_only: refused by day. buy: Ngư Ông sells it for this many Linh Thạch each. craft: Ngư Ông turns `from` x1 into `makes` baits. Fishing with no bait at all is allowed, but slower and only Phàm/Linh fish bite (balance/fishing.json no_bait).",
+ "giun_dat": {
+  "name_vi": "Giun Đất", "order": 0, "bite": 0.85, "luck": 0.0,
+  "attracts": ["ca_nheo", "ca_que", "ca_diec"], "only_tag": null, "night_only": false,
+  "buy": 4, "craft": null, "sell_price": 1,
+  "desc_vi": "Mồi quê, cá thường nào cũng thích. Ngư Ông bán rẻ."
+ },
+ "banh_mat": {
+  "name_vi": "Bánh Mật", "order": 1, "bite": 0.8, "luck": 0.15,
+  "attracts": ["ca_koi", "ca_vang", "ca_chep"], "only_tag": null, "night_only": false,
+  "buy": null, "craft": {"from": "linh_mat", "makes": 3}, "sell_price": 2,
+  "desc_vi": "Viên bột trộn Linh Mật, thơm ngọt. Cá Koi, Cá Vàng và Cá Hồi Vân mê lắm."
+ },
+ "linh_qua_vun": {
+  "name_vi": "Linh Quả Vụn", "order": 2, "bite": 0.75, "luck": 0.4,
+  "attracts": [], "only_tag": null, "night_only": false,
+  "buy": null, "craft": {"from": "linh_qua", "makes": 4}, "sell_price": 8,
+  "desc_vi": "Linh Quả bóp vụn, linh khí tỏa khắp mặt nước. Cá hiếm hay tìm đến."
+ },
+ "moi_muc": {
+  "name_vi": "Mồi Mực", "order": 3, "bite": 0.9, "luck": 0.25,
+  "attracts": [], "only_tag": "ink", "night_only": true,
+  "buy": null, "craft": {"from": "muc_tinh", "makes": 2}, "sell_price": 1,
+  "desc_vi": "Mực Tinh vê thành viên. Chỉ cá Mực cắn, và chỉ khi trời tối."
+ }
+}

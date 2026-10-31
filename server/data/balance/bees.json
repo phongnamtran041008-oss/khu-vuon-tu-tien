@@ -1,0 +1,352 @@
+{
+ "_comment": "Linh Phong numbers (spec 10). Species base numbers live in data/creatures/bees.json; these scale them. Times are real seconds; honey and pollen production speed up with TIME_SCALE like SRS waits do.",
+ "rarities": [
+  "pham",
+  "linh",
+  "huyen",
+  "dia",
+  "thien"
+ ],
+ "rarity_names_vi": {
+  "pham": "Phàm",
+  "linh": "Linh",
+  "huyen": "Huyền",
+  "dia": "Địa",
+  "thien": "Thiên"
+ },
+ "rarity_colors": {
+  "pham": "#7D7468",
+  "linh": "#6A994E",
+  "huyen": "#4A7CC8",
+  "dia": "#8E5AC8",
+  "thien": "#C99A3A"
+ },
+ "rarity_mult": {
+  "pham": 1.0,
+  "linh": 1.3,
+  "huyen": 1.7,
+  "dia": 2.2,
+  "thien": 3.0
+ },
+ "element_names_vi": {
+  "thuy": "Thủy",
+  "hoa": "Hỏa",
+  "moc": "Mộc",
+  "tho": "Thổ",
+  "kim": "Kim",
+  "loi": "Lôi",
+  "bang": "Băng",
+  "quang": "Quang",
+  "phong": "Phong",
+  "mac": "Mặc"
+ },
+ "element_colors": {
+  "thuy": "#4A7CC8",
+  "hoa": "#BC4749",
+  "moc": "#6A994E",
+  "tho": "#8B5A2B",
+  "kim": "#C99A3A",
+  "loi": "#8E5AC8",
+  "bang": "#8CB8DA",
+  "quang": "#E9C46A",
+  "phong": "#9AB8C8",
+  "mac": "#2B2B2B"
+ },
+ "role_names_vi": {
+  "hive": "Ở tổ",
+  "pollinate": "Thụ phấn",
+  "guard": "Hộ vệ"
+ },
+ "eggs": {
+  "pham": "trung_ong_pham",
+  "linh": "trung_ong_linh",
+  "huyen": "trung_ong_huyen",
+  "dia": "trung_ong_dia",
+  "thien": "trung_ong_thien"
+ },
+ "starter_egg": "trung_ong_pham",
+ "hatch_new_species_weight": 2.0,
+ "level": {
+  "max": 20,
+  "xp_base": 30,
+  "xp_per_level": 20,
+  "stat_per_level": 0.08
+ },
+ "bond": {
+  "max": 100,
+  "per_feed": 2,
+  "per_favorite": 8,
+  "stat_bonus_at_max": 0.1
+ },
+ "word_mastery_bonus_at_100": 0.1,
+ "feed": {
+  "linh_mat": {
+   "xp": 25
+  },
+  "linh_qua": {
+   "xp": 90
+  },
+  "ca_nho": {
+   "xp": 35
+  },
+  "fruit": {
+   "common": 12,
+   "rare": 20,
+   "epic": 35,
+   "legendary": 60
+  }
+ },
+ "xp_pollinated_plant": 12,
+ "xp_kill_assist": 8,
+ "release_wax": {
+  "pham": 1,
+  "linh": 2,
+  "huyen": 4,
+  "dia": 8,
+  "thien": 15
+ },
+ "hive": {
+  "cells_max": 30,
+  "cells_start": 5,
+  "columns": 6,
+  "rows": 5,
+  "cell_costs": [
+   150,
+   180,
+   210,
+   240,
+   270,
+   320,
+   370,
+   420,
+   470,
+   520,
+   600,
+   680,
+   760,
+   840,
+   920,
+   1000,
+   1100,
+   1200,
+   1300,
+   1400,
+   1500,
+   1650,
+   1800,
+   1950,
+   2100
+  ],
+  "cell_species_required": [
+   [
+    11,
+    3
+   ],
+   [
+    16,
+    6
+   ],
+   [
+    21,
+    9
+   ],
+   [
+    26,
+    12
+   ]
+  ],
+  "resonance_per_neighbour": 0.05,
+  "resonance_max_neighbours": 3,
+  "levels": [
+   {
+    "level": 1,
+    "honey_mult": 1.0,
+    "capacity": 40,
+    "decoration": null
+   },
+   {
+    "level": 2,
+    "honey_mult": 1.15,
+    "capacity": 80,
+    "decoration": "den_long",
+    "cost": {
+     "spirit_stones": 300,
+     "items": {
+      "sap_ong": 5,
+      "go_linh_moc": 3
+     }
+    }
+   },
+   {
+    "level": 3,
+    "honey_mult": 1.3,
+    "capacity": 140,
+    "decoration": "hoa_sen",
+    "cost": {
+     "spirit_stones": 800,
+     "items": {
+      "sap_ong": 15,
+      "go_linh_moc": 8
+     }
+    }
+   },
+   {
+    "level": 4,
+    "honey_mult": 1.5,
+    "capacity": 220,
+    "decoration": "chuong_gio",
+    "cost": {
+     "spirit_stones": 1800,
+     "items": {
+      "sap_ong": 30,
+      "go_linh_moc": 15
+     }
+    }
+   },
+   {
+    "level": 5,
+    "honey_mult": 1.75,
+    "capacity": 320,
+    "decoration": "co_phuong",
+    "cost": {
+     "spirit_stones": 4000,
+     "items": {
+      "sap_ong": 60,
+      "go_linh_moc": 30
+     }
+    }
+   }
+  ],
+  "decorations_vi": {
+   "den_long": "Đèn lồng đỏ",
+   "hoa_sen": "Chậu hoa sen",
+   "chuong_gio": "Chuông gió",
+   "co_phuong": "Cờ phướn"
+  },
+  "wax_per_honey": 0.1
+ },
+ "pollination": {
+  "min_stage": 3,
+  "affinity_mult": 1.5,
+  "max_pollinators": 6,
+  "harvest_fruits_pollinated": 5,
+  "spirit_fruit_chance": {
+   "common": 0.25,
+   "rare": 0.35,
+   "epic": 0.5,
+   "legendary": 0.75
+  },
+  "spirit_fruit_item": "linh_qua",
+  "review_wait_cut": 0.25,
+  "plant_elements": {
+   "thuy": [
+    "水",
+    "雨",
+    "海",
+    "河",
+    "湖",
+    "鱼",
+    "船"
+   ],
+   "hoa": [
+    "火",
+    "热",
+    "太阳",
+    "日",
+    "红"
+   ],
+   "moc": [
+    "木",
+    "树",
+    "草",
+    "花",
+    "林",
+    "森",
+    "茶",
+    "绿",
+    "菜",
+    "春天"
+   ],
+   "tho": [
+    "山"
+   ],
+   "kim": [
+    "黄",
+    "银行"
+   ],
+   "loi": [
+    "云",
+    "天气"
+   ],
+   "bang": [
+    "雪",
+    "冷",
+    "冬天"
+   ],
+   "quang": [
+    "月",
+    "月亮",
+    "明",
+    "星星",
+    "灯"
+   ],
+   "phong": [
+    "风",
+    "空气"
+   ],
+   "mac": [
+    "黑",
+    "笔",
+    "写",
+    "画"
+   ]
+  }
+ },
+ "guard": {
+  "slots_by_realm": {
+   "pham_nhan": 0,
+   "luyen_khi": 2,
+   "truc_co": 3,
+   "kim_dan": 4,
+   "nguyen_anh": 5
+  },
+  "range": 110,
+  "first_attack_delay": 0.4,
+  "down_seconds": 60,
+  "regen_pct_per_second": 4,
+  "hit_by_monster_mult": 0.5,
+  "burn_tick": 0.5
+ },
+ "codex_milestones": [
+  {
+   "species": 3,
+   "spirit_stones": 150
+  },
+  {
+   "species": 6,
+   "items": {
+    "trung_ong_linh": 1
+   }
+  },
+  {
+   "species": 9,
+   "immortal_jade": 10
+  },
+  {
+   "species": 12,
+   "items": {
+    "trung_ong_huyen": 1
+   }
+  },
+  {
+   "species": 15,
+   "items": {
+    "trung_ong_dia": 1
+   }
+  },
+  {
+   "species": 18,
+   "immortal_jade": 50
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "_comment": "Zones of the world (spec 7.1). 'map' is a Tiled file in server/maps. recommended_realm gates entry: nobody may enter a zone more than realm_gate_margin realms above their own (spec 7.3). 'tier' is the HSK level asked there. kind 'instance' (bí cảnh, stage 9) is never entered through a portal: each run gets its own copy.",
+  "abode": {"name_vi": "Động Phủ", "kind": "private"},
+  "truc_lam_thon": {"name_vi": "Trúc Lâm Thôn", "kind": "hub", "map": "truc_lam_thon", "safe": true,
+                     "recommended_realm": "pham_nhan", "tier": 1},
+  "rung_muc_loang": {"name_vi": "Rừng Mực Loang", "kind": "wild", "map": "rung_muc_loang", "safe": false,
+                      "recommended_realm": "luyen_khi", "tier": 1},
+  "ho_nghien_muc": {"name_vi": "Hồ Nghiên Mực", "kind": "wild", "map": "ho_nghien_muc", "safe": false,
+                     "recommended_realm": "luyen_khi", "tier": 1},
+  "bi_canh": {"name_vi": "Bí Cảnh", "kind": "instance", "map": "bi_canh", "safe": false, "tier": 1}
+}

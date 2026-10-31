@@ -1,0 +1,21 @@
+{
+  "_comment": "Sạp Tạp Hóa of Bà Chủ Sạp in Trúc Lâm Thôn (spec 12.4): basic goods with a daily limit per player, Phàm/Linh equipment, and buying back. Every buy price is above anything the same thing sells for anywhere (tests/test_economy.py checks there is no buy-low-sell-high loop). hat_giong_thuong is a random common seed of the player's tier and counts toward the 15 new seeds a day. reach: how close to Bà Chủ Sạp (pixels). gift: presents between friends (unbound items only).",
+  "reach": 72,
+  "stock": [
+    {"item": "hoi_huyet_dan", "price": 40, "daily": 10},
+    {"item": "hoi_khi_dan", "price": 40, "daily": 10},
+    {"item": "truc_diep_thao", "price": 8, "daily": 30},
+    {"item": "muc_tinh", "price": 15, "daily": 20},
+    {"item": "giun_dat", "price": 5, "daily": 40},
+    {"item": "hat_giong_thuong", "price": 80, "daily": 3}
+  ],
+  "seed_item": "hat_giong_thuong",
+  "seed_name_vi": "Hạt Giống Thường",
+  "seed_desc_vi": "Một hạt chữ Thường ngẫu nhiên (ưu tiên chữ con chưa có). Tính vào 15 hạt mới mỗi ngày.",
+  "equipment": {
+    "items": ["but_long_go", "kiem_go_dao", "quat_giay", "gay_truc", "ao_truc_van", "non_la", "giay_co", "ngoc_muc", "nhan_dong"],
+    "price": {"pham": 120, "linh": 450}
+  },
+  "equipment_sell": {"by_rarity": {"pham": 15, "linh": 40, "huyen": 100, "dia": 250, "thien": 600}, "per_enhance": 0.1},
+  "gift": {"per_day": 5, "max_qty": 5, "kinds": ["food", "material", "herb", "bait", "pill", "fish", "egg"]}
+}

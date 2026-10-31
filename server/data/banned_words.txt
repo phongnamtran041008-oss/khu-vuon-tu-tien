@@ -1,0 +1,26 @@
+# Từ cấm trong tên hiển thị và chat. Một dòng một từ/cụm từ.
+# Từ có dấu chỉ khớp đúng chữ có dấu (để "lớn" không bị nhầm với từ tục).
+# Từ không dấu (viết tắt kiểu teencode) khớp với chữ người chơi gõ không dấu.
+địt
+đụ
+lồn
+cặc
+buồi
+đéo
+đĩ
+dit
+ditme
+dm
+dmm
+dcm
+dcmm
+vcl
+vkl
+vl
+clgt
+cdm
+đm
+đmm
+admin
+quản trị
+moderator

@@ -1,0 +1,6 @@
+{
+  "_comment": "Đặt file này trong repo GitHub; build exe với --server-list-url <link raw của file>. Đổi url ở đây khi địa chỉ máy chủ đổi (vd quick tunnel), game tự nhận lần mở sau.",
+  "servers": [
+    {"name": "Máy chủ chính", "url": "https://vuonchu.duckdns.org"}
+  ]
+}

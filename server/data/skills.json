@@ -1,0 +1,16 @@
+{
+  "_comment": "Pháp Chữ (spec 8.4): each skill belongs to a word. Unlocked with the manual when the word's mastery >= unlock_mastery; level follows mastery (50/70/90/100 -> 1-4), so forgetting a word weakens its skill.",
+  "unlock_mastery": 50,
+  "level_mastery": [50, 70, 90, 100],
+  "level_mult": [1.0, 1.2, 1.4, 1.6],
+  "skills": {
+    "hoa": {"name_vi": "Hỏa Chữ Quyết", "hanzi": "火", "effect": "damage", "power": 1.8, "range": 130,
+            "qi": 12, "cooldown": 4, "desc_vi": "Cầu lửa đánh một mục tiêu."},
+    "thuy": {"name_vi": "Thủy Chữ Quyết", "hanzi": "水", "effect": "slow", "power": 0.6, "radius": 70,
+             "slow": 0.45, "duration": 3, "qi": 10, "cooldown": 8, "desc_vi": "Sóng nước quanh mình: gây sát thương nhẹ và làm chậm quái."},
+    "moc": {"name_vi": "Mộc Chữ Quyết", "hanzi": "木", "effect": "heal", "heal_pct": 18, "qi": 14,
+            "cooldown": 10, "desc_vi": "Hồi Sinh Lực."},
+    "son": {"name_vi": "Sơn Chữ Quyết", "hanzi": "山", "effect": "guard", "reduce": 0.5, "duration": 5,
+            "qi": 12, "cooldown": 12, "desc_vi": "Thân vững như núi: giảm một nửa sát thương nhận vào trong 5 giây."}
+  }
+}

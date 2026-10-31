@@ -1,0 +1,11 @@
+{
+  "server_url": "http://127.0.0.1:8000",
+  "server_list_url": "",
+  "window_scale": 0,
+  "fullscreen": false,
+  "sfx_volume": 0.8,
+  "voice_volume": 1.0,
+  "firebase_api_key": "AIzaSyBYnQPGhPSCEB20DCTdDa6uVzrBydoNjlw",
+  "host_port": 8000,
+  "update_repo": "phongnamtran041008-oss/khu-vuon-tu-tien"
+}
