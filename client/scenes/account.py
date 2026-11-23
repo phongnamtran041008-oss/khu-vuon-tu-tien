@@ -44,9 +44,6 @@ class AccountScene(Scene):
         if not email:
             self._fail(T.FB_NEED_EMAIL)
             return
-        if "@" not in email or "." not in email.rsplit("@", 1)[1]:
-            self._fail(T.FB_BAD_EMAIL)   # caught here so Firebase's "Email không hợp lệ" is specific
-            return
         if self.tab == "reset":
             self.busy, self.status, self.status_err = True, T.CONNECTING, False
 
@@ -75,8 +72,7 @@ class AccountScene(Scene):
                 self.tab, self.status = k, ""
                 ui.set_focus("fb_email")
         fy = y + 52
-        label = T.FB_EMAIL + (f"  ({T.FB_EMAIL_HINT})" if self.tab == "register" else "")
-        ui.text(label, x + 16, fy, 8)
+        ui.text(T.FB_EMAIL, x + 16, fy, 8)
         ui.input_box("fb_email", x + 16, fy + 10, w - 32, 15, max_len=120)
         last = "fb_email"
         if self.tab != "reset":
