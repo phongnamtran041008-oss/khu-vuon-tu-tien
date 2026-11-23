@@ -181,6 +181,10 @@ def test_menu_routes_lan_mode_and_screens_draw(world_home, tmp_path):
         acc.tab = "login"
         acc.submit()
         assert acc.status_err and "email" in acc.status                 # nothing typed
+        game.ui.set_value("fb_email", "phongfoxyd")                     # no @, Firebase would send back a vague error
+        acc.submit()
+        assert acc.status_err and "@" in acc.status                     # caught client-side with a clearer hint
+        game.ui.set_value("fb_email", "")
         game.session.save(firebase={"uid": "U", "email": "a@b.vn", "id_token": "t", "refresh_token": "r",
                                     "expires_at": time.time() + 3600})
         game.replace_all(MenuScene(game))
